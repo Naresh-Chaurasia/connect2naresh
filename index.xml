@@ -8,21 +8,12 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 29 Mar 2022 15:03:42 +0530</lastBuildDate><atom:link href="https://naresh-chaurasia.github.io/connect2naresh/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>EQ</title>
+      <title>Emotional Intelligence</title>
       <link>https://naresh-chaurasia.github.io/connect2naresh/soft-skills/eq/</link>
       <pubDate>Tue, 29 Mar 2022 15:03:42 +0530</pubDate>
       
       <guid>https://naresh-chaurasia.github.io/connect2naresh/soft-skills/eq/</guid>
       <description>What is Emotional Intelligence Emotional intelligence is your ability to recognize how your emotions are governing your decisions and your thinking. Once you know how emotions affect you, physically and mentally, you are able to learn how to change your reactions. This does not mean changing your emotions or hiding them. What is means is that, you want to identify your emotions and understand why you are feeling a certain way and be more aware of what to do differently and how to do things differently.</description>
-    </item>
-    
-    <item>
-      <title>Welcome</title>
-      <link>https://naresh-chaurasia.github.io/connect2naresh/welcome/</link>
-      <pubDate>Tue, 29 Mar 2022 13:53:54 +0530</pubDate>
-      
-      <guid>https://naresh-chaurasia.github.io/connect2naresh/welcome/</guid>
-      <description>Welcome</description>
     </item>
     
     <item>
@@ -41,6 +32,15 @@
       
       <guid>https://naresh-chaurasia.github.io/connect2naresh/treks/tikona/</guid>
       <description>Tokona</description>
+    </item>
+    
+    <item>
+      <title>Content</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/content/</link>
+      <pubDate>Sat, 01 Jan 2022 13:53:54 +0530</pubDate>
+      
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/content/</guid>
+      <description> Books Health-Fitness Treks Courses Dance Soft-Skills Creativity   the image title   </description>
     </item>
     
   </channel>
