@@ -6,14 +6,32 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 29 Mar 2022 15:03:42 +0530</lastBuildDate><atom:link href="https://naresh-chaurasia.github.io/connect2naresh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Mar 2022 13:49:34 +0530</lastBuildDate><atom:link href="https://naresh-chaurasia.github.io/connect2naresh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Experiments</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/experiments/</link>
+      <pubDate>Wed, 30 Mar 2022 14:13:49 +0530</pubDate>
+      
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/experiments/</guid>
+      <description>Images  the image title   </description>
+    </item>
+    
+    <item>
+      <title>Java Selenium Automation</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/courses/java-selenium/</link>
+      <pubDate>Wed, 30 Mar 2022 13:49:34 +0530</pubDate>
+      
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/courses/java-selenium/</guid>
+      <description>Core Java Introduction To Java  Environment Setup  Java installation and Setting up java environment Setting up Eclipse IDE   Introduction to Java  Java Byte code Class Files Compilation Process Primitive Data types, and Operations if, else if conditions Loops – for while and do while Switch Case Data Handling and Functions   Array (Single and Multi dimensional)  Function/Method in Java Debugging in Java Understanding Stack and Stack trace Call by Value and Call by reference    Object Oriented Programming  Object Oriented Programming  Object and Class Method Overloading / Static Polymorphism Default Constructor and Parameterized Constructor static keyword this keyword Inheritance Aggregation Covariant Return Type super keyword Final Keyword Abstraction Encapsulation instanceof Abstract class Inteface Package Access Modifier    </description>
+    </item>
+    
     <item>
       <title>Emotional Intelligence</title>
       <link>https://naresh-chaurasia.github.io/connect2naresh/soft-skills/eq/</link>
       <pubDate>Tue, 29 Mar 2022 15:03:42 +0530</pubDate>
       
       <guid>https://naresh-chaurasia.github.io/connect2naresh/soft-skills/eq/</guid>
-      <description>What is Emotional Intelligence Emotional intelligence is your ability to recognize how your emotions are governing your decisions and your thinking. Once you know how emotions affect you, physically and mentally, you are able to learn how to change your reactions. This does not mean changing your emotions or hiding them. What is means is that, you want to identify your emotions and understand why you are feeling a certain way and be more aware of what to do differently and how to do things differently.</description>
+      <description>What is Emotional Intelligence  Emotional intelligence is your ability to recognize how your emotions are governing your decisions and your thinking. Once you know how emotions affect you, physically and mentally, you are able to learn how to change your reactions. This does not mean changing your emotions or hiding them. What is means is that, you want to identify your emotions and understand why you are feeling a certain way and be more aware of what to do differently and how to do things differently.</description>
     </item>
     
     <item>
@@ -40,7 +58,7 @@
       <pubDate>Sat, 01 Jan 2022 13:53:54 +0530</pubDate>
       
       <guid>https://naresh-chaurasia.github.io/connect2naresh/content/</guid>
-      <description> Books Health-Fitness Treks Courses Dance Soft-Skills Creativity   the image title   </description>
+      <description> Books  DEFM   Courses Creativity Dance Health-Fitness Soft-Skills Technology Treks   the image title   </description>
     </item>
     
   </channel>

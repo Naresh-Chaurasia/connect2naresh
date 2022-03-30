@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://naresh-chaurasia.github.io/connect2naresh/experiments/</loc>
+    <lastmod>2022-03-30T14:13:49+05:30</lastmod>
+  </url><url>
+    <loc>https://naresh-chaurasia.github.io/connect2naresh/courses/</loc>
+    <lastmod>2022-03-30T13:49:34+05:30</lastmod>
+  </url><url>
+    <loc>https://naresh-chaurasia.github.io/connect2naresh/courses/java-selenium/</loc>
+    <lastmod>2022-03-30T13:49:34+05:30</lastmod>
+  </url><url>
+    <loc>https://naresh-chaurasia.github.io/connect2naresh/</loc>
+    <lastmod>2022-03-30T13:49:34+05:30</lastmod>
+  </url><url>
     <loc>https://naresh-chaurasia.github.io/connect2naresh/categories/</loc>
     <lastmod>2022-03-29T15:03:42+05:30</lastmod>
   </url><url>
@@ -9,9 +21,6 @@
     <lastmod>2022-03-29T15:03:42+05:30</lastmod>
   </url><url>
     <loc>https://naresh-chaurasia.github.io/connect2naresh/tags/eq/</loc>
-    <lastmod>2022-03-29T15:03:42+05:30</lastmod>
-  </url><url>
-    <loc>https://naresh-chaurasia.github.io/connect2naresh/</loc>
     <lastmod>2022-03-29T15:03:42+05:30</lastmod>
   </url><url>
     <loc>https://naresh-chaurasia.github.io/connect2naresh/categories/personal-development/</loc>
