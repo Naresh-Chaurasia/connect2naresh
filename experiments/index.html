@@ -3,7 +3,10 @@
      <meta charset="UTF-8">
      <meta name="viewport" content="width=device-width, initial-scale=1.0">
      <meta http-equiv="X-UA-Compatible" content="ie=edge">
-     <title>Document</title>
+     
+     
+     <title>Experiments</title>
+     
 </head>
 <body>
      <div style="text-align: center; height: 75px; padding:1px;   text-transform:capitalize; background-color:#42a5f5; color:white">
@@ -15,12 +18,8 @@
           <div style="color:grey; font-size:16px;">Wednesday, Mar 30, 2022</div>
           <div style="color:grey; font-size:16px;"></div>
           <div style="font-size:18px;"><h2 id="images">Images</h2>
-<figure><img src="../img/img.png" width="700px" height="600px"/><figcaption>
-            <h4>the image title</h4>
-        </figcaption>
-</figure>
-
-<p><img src="../img/img.png" alt="pdf image"></p>
+<p>{{ $image := resources.Get &ldquo;images/sunset.png&rdquo; }}
+<!-- raw HTML omitted --></p>
 </div>
      </div>
      <div style="height:35px;"></div>
