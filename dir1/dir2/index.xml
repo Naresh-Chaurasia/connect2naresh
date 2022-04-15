@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>_Index on My New Hugo Site</title>
+    <link>https://naresh-chaurasia.github.io/connect2naresh/dir1/dir2/</link>
+    <description>Recent content in _Index on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 12 Apr 2022 15:37:02 +0530</lastBuildDate><atom:link href="https://naresh-chaurasia.github.io/connect2naresh/dir1/dir2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Dir</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/dir1/dir2/dir/</link>
+      <pubDate>Tue, 12 Apr 2022 15:37:02 +0530</pubDate>
+      
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/dir1/dir2/dir/</guid>
+      <description>dir1/dir2</description>
+    </item>
+    
+  </channel>
+</rss>

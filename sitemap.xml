@@ -2,6 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://naresh-chaurasia.github.io/connect2naresh/dir1/dir2/</loc>
+    <lastmod>2022-04-12T15:37:02+05:30</lastmod>
+  </url><url>
+    <loc>https://naresh-chaurasia.github.io/connect2naresh/categories/apache-camel/</loc>
+    <lastmod>2022-04-12T15:37:02+05:30</lastmod>
+  </url><url>
+    <loc>https://naresh-chaurasia.github.io/connect2naresh/technology/apache-camel/</loc>
+    <lastmod>2022-04-12T15:37:02+05:30</lastmod>
+  </url><url>
+    <loc>https://naresh-chaurasia.github.io/connect2naresh/categories/</loc>
+    <lastmod>2022-04-12T15:37:02+05:30</lastmod>
+  </url><url>
+    <loc>https://naresh-chaurasia.github.io/connect2naresh/dir1/dir2/dir/</loc>
+    <lastmod>2022-04-12T15:37:02+05:30</lastmod>
+  </url><url>
+    <loc>https://naresh-chaurasia.github.io/connect2naresh/dir1/</loc>
+    <lastmod>2022-04-12T15:37:02+05:30</lastmod>
+  </url><url>
+    <loc>https://naresh-chaurasia.github.io/connect2naresh/</loc>
+    <lastmod>2022-04-12T15:37:02+05:30</lastmod>
+  </url><url>
+    <loc>https://naresh-chaurasia.github.io/connect2naresh/tags/</loc>
+    <lastmod>2022-04-12T15:37:02+05:30</lastmod>
+  </url><url>
+    <loc>https://naresh-chaurasia.github.io/connect2naresh/technology/</loc>
+    <lastmod>2022-04-12T15:37:02+05:30</lastmod>
+  </url><url>
+    <loc>https://naresh-chaurasia.github.io/connect2naresh/tags/technology/</loc>
+    <lastmod>2022-04-12T15:37:02+05:30</lastmod>
+  </url><url>
+    <loc>https://naresh-chaurasia.github.io/connect2naresh/categories/technology/</loc>
+    <lastmod>2022-04-12T15:37:02+05:30</lastmod>
+  </url><url>
+    <loc>https://naresh-chaurasia.github.io/connect2naresh/images/</loc>
+    <lastmod>2022-04-04T18:15:36+05:30</lastmod>
+  </url><url>
     <loc>https://naresh-chaurasia.github.io/connect2naresh/b/</loc>
     <lastmod>2022-03-31T09:31:27+05:30</lastmod>
   </url><url>
@@ -13,12 +49,6 @@
   </url><url>
     <loc>https://naresh-chaurasia.github.io/connect2naresh/courses/java-selenium/</loc>
     <lastmod>2022-03-30T13:49:34+05:30</lastmod>
-  </url><url>
-    <loc>https://naresh-chaurasia.github.io/connect2naresh/</loc>
-    <lastmod>2022-03-30T13:49:34+05:30</lastmod>
-  </url><url>
-    <loc>https://naresh-chaurasia.github.io/connect2naresh/categories/</loc>
-    <lastmod>2022-03-29T15:03:42+05:30</lastmod>
   </url><url>
     <loc>https://naresh-chaurasia.github.io/connect2naresh/soft-skills/eq1/</loc>
     <lastmod>2022-03-29T15:03:42+05:30</lastmod>
@@ -33,9 +63,6 @@
     <lastmod>2022-03-29T15:03:42+05:30</lastmod>
   </url><url>
     <loc>https://naresh-chaurasia.github.io/connect2naresh/soft-skills/</loc>
-    <lastmod>2022-03-29T15:03:42+05:30</lastmod>
-  </url><url>
-    <loc>https://naresh-chaurasia.github.io/connect2naresh/tags/</loc>
     <lastmod>2022-03-29T15:03:42+05:30</lastmod>
   </url><url>
     <loc>https://naresh-chaurasia.github.io/connect2naresh/books/</loc>

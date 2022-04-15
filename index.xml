@@ -6,7 +6,34 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Mar 2022 13:49:34 +0530</lastBuildDate><atom:link href="https://naresh-chaurasia.github.io/connect2naresh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Apr 2022 15:37:02 +0530</lastBuildDate><atom:link href="https://naresh-chaurasia.github.io/connect2naresh/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apache Camel</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/technology/apache-camel/</link>
+      <pubDate>Tue, 12 Apr 2022 15:37:02 +0530</pubDate>
+      
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/technology/apache-camel/</guid>
+      <description>Apache Camel</description>
+    </item>
+    
+    <item>
+      <title>Dir</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/dir1/dir2/dir/</link>
+      <pubDate>Tue, 12 Apr 2022 15:37:02 +0530</pubDate>
+      
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/dir1/dir2/dir/</guid>
+      <description>dir1/dir2</description>
+    </item>
+    
+    <item>
+      <title>Images</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/images/</link>
+      <pubDate>Mon, 04 Apr 2022 18:15:36 +0530</pubDate>
+      
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/images/</guid>
+      <description>      </description>
+    </item>
+    
     <item>
       <title>B</title>
       <link>https://naresh-chaurasia.github.io/connect2naresh/b/</link>
@@ -22,7 +49,10 @@
       <pubDate>Wed, 30 Mar 2022 14:13:49 +0530</pubDate>
       
       <guid>https://naresh-chaurasia.github.io/connect2naresh/experiments/</guid>
-      <description>Images {{ $image := resources.Get &amp;ldquo;images/sunset.png&amp;rdquo; }} </description>
+      <description>Images  https://hugo-mini-course.netlify.app/sections/optimizing/images/  Working: static
+ This is coming from static/img folder     img tag is causing problem.
+ Not Working
+{{ $image := resources.Get &amp;ldquo;../img/img.png&amp;rdquo; }}  {{ $image := resources.Get &amp;ldquo;images/sunset.png&amp;rdquo; }}  {{ $image := resources.Get &amp;ldquo;assets/images/sunset.png&amp;rdquo; }}  {{ $asset := resources.Get &amp;ldquo;../duck.png&amp;rdquo; }} {{ $img := $asset.Fit &amp;ldquo;600x400&amp;rdquo; }} </description>
     </item>
     
     <item>
@@ -67,7 +97,7 @@
       <pubDate>Sat, 01 Jan 2022 13:53:54 +0530</pubDate>
       
       <guid>https://naresh-chaurasia.github.io/connect2naresh/content/</guid>
-      <description> Books  DEFM   Courses Creativity  Hugo Website   Dance Health-Fitness Soft-Skills Technology Treks   the image title   </description>
+      <description> Books  DEFM   Courses Creativity  Hugo Website   Dance Health-Fitness Soft-Skills technology  apache-camel / Apache Camel   treks   the image title   </description>
     </item>
     
   </channel>
