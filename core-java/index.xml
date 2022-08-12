@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Core Java on Naresh Chaurasia</title>
-    <link>https://naresh-chaurasia.github.io/talk2naresh/core-java/</link>
+    <link>https://naresh-chaurasia.github.io/connect2naresh/core-java/</link>
     <description>Recent content in Core Java on Naresh Chaurasia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 17 Jun 2022 10:15:38 +0530</lastBuildDate><atom:link href="https://naresh-chaurasia.github.io/talk2naresh/core-java/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Jun 2022 10:15:38 +0530</lastBuildDate><atom:link href="https://naresh-chaurasia.github.io/connect2naresh/core-java/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Core Java</title>
-      <link>https://naresh-chaurasia.github.io/talk2naresh/core-java/core-java/</link>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/core-java/core-java/</link>
       <pubDate>Fri, 17 Jun 2022 10:15:38 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/talk2naresh/core-java/core-java/</guid>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/core-java/core-java/</guid>
       <description>For the time being, this page will server as canvass for me for anything related to core java with respect to creating Udemy course. Any idea that come to mind will be captured here.
 Later on you might put these information in different and appropriate locations, but for now let me have everything here.
 Udemy, YouTube There is a lot of difference in teaching java and teaching java for selenium. Make sure you understand and respect the boundries.</description>

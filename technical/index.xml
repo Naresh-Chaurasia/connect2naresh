@@ -2,74 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Technical on Naresh Chaurasia</title>
-    <link>https://naresh-chaurasia.github.io/talk2naresh/technical/</link>
+    <link>https://naresh-chaurasia.github.io/connect2naresh/technical/</link>
     <description>Recent content in Technical on Naresh Chaurasia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 10 Jan 2022 08:00:12 +0530</lastBuildDate><atom:link href="https://naresh-chaurasia.github.io/talk2naresh/technical/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 10 Jan 2022 08:00:12 +0530</lastBuildDate><atom:link href="https://naresh-chaurasia.github.io/connect2naresh/technical/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Core Java</title>
-      <link>https://naresh-chaurasia.github.io/talk2naresh/technical/java/</link>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/technical/java/</link>
       <pubDate>Mon, 10 Jan 2022 08:00:12 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/talk2naresh/technical/java/</guid>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/technical/java/</guid>
       <description></description>
     </item>
     <item>
       <title>Spring Framework</title>
-      <link>https://naresh-chaurasia.github.io/talk2naresh/technical/spring/</link>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/technical/spring/</link>
       <pubDate>Mon, 10 Jan 2022 08:00:12 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/talk2naresh/technical/spring/</guid>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/technical/spring/</guid>
       <description>Spring</description>
     </item>
     <item>
       <title>Architect Memi Lavi</title>
-      <link>https://naresh-chaurasia.github.io/talk2naresh/technical/architect-memi-lavi/</link>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/technical/architect-memi-lavi/</link>
       <pubDate>Mon, 10 Jan 2022 08:00:12 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/talk2naresh/technical/architect-memi-lavi/</guid>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/technical/architect-memi-lavi/</guid>
       <description> What is Software Architect The Architect&amp;rsquo;s Mindset What is Software Architect The Architect&amp;rsquo;s Mindset </description>
     </item>
     <item>
       <title>AWS Solution Architect</title>
-      <link>https://naresh-chaurasia.github.io/talk2naresh/technical/aws-solution-architect/</link>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/technical/aws-solution-architect/</link>
       <pubDate>Mon, 10 Jan 2022 08:00:12 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/talk2naresh/technical/aws-solution-architect/</guid>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/technical/aws-solution-architect/</guid>
       <description>Checklist Course Material Reference Diagrams and Pics Others Study Room AWS Solution Architect, using Peg System and Memory Palace. A peg will refer to item, which in turn will be placed on Memory Palace.
 Door Outside - Queue Printout (Queue, EC2, S3) Door Inside (Hanging Hooks) - Each hook is a Region. Choose Your Regions. How to choose your region. The C-PPAc regions. Pillar - 1 Photo Frame Wall Tubelight Book Unit Window Glass Window Grill Window Platform Window Cheats Study Wall Bathroom Door Designer Wall Designer Wall Switch Board Study Table Study Lamp Digital Writing Pad Digital Pen Headphone Laptop Monitor Laptop Chassis Monitor Monitor Stand Monitor Ganpati USB Extension Mouse Office Laptop Charger </description>
     </item>
     <item>
       <title>How To Learn Programming</title>
-      <link>https://naresh-chaurasia.github.io/talk2naresh/technical/programming/</link>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/technical/programming/</link>
       <pubDate>Mon, 10 Jan 2022 08:00:12 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/talk2naresh/technical/programming/</guid>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/technical/programming/</guid>
       <description></description>
     </item>
     <item>
       <title>Learn Programming</title>
-      <link>https://naresh-chaurasia.github.io/talk2naresh/technical/learn-programming/</link>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/technical/learn-programming/</link>
       <pubDate>Mon, 10 Jan 2022 08:00:12 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/talk2naresh/technical/learn-programming/</guid>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/technical/learn-programming/</guid>
       <description>References A B </description>
     </item>
     <item>
       <title>Spring Framework</title>
-      <link>https://naresh-chaurasia.github.io/talk2naresh/technical/spring-framework/</link>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/technical/spring-framework/</link>
       <pubDate>Mon, 10 Jan 2022 08:00:12 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/talk2naresh/technical/spring-framework/</guid>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/technical/spring-framework/</guid>
       <description>Actionable Items for Blogging Course Material Reference Diagrams and Pics Others What is Spring? Meet the Spring Family
 The Spring family all began with the creation of the Spring Framework, which was built largely in response to the complexity of developing applications using Java&amp;rsquo;s enterprise framework called J2EE, it&amp;rsquo;s now called Java EE, and the Spring Framework aimed at removing the complexity and helped to make things like web development and data access easier for developers to implement.</description>
     </item>
     <item>
       <title>Visual Code Hacks</title>
-      <link>https://naresh-chaurasia.github.io/talk2naresh/technical/visual-code/</link>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/technical/visual-code/</link>
       <pubDate>Mon, 10 Jan 2022 08:00:12 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/talk2naresh/technical/visual-code/</guid>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/technical/visual-code/</guid>
       <description> Short Cuts References Short Cuts Command Palette: Ctrl + Shift + P Go to Explorer (Ctrl + Shift + E) Right click on your favorite folder, Select &amp;ldquo;Find in folder&amp;rdquo; (Alt + Shift + F) Search Files: Ctrl + Shift + F References https://www.crio.do/blog/vs-code-shortcuts/ </description>
     </item>
     <item>
       <title>Why Python</title>
-      <link>https://naresh-chaurasia.github.io/talk2naresh/technical/why-python/</link>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/technical/why-python/</link>
       <pubDate>Mon, 10 Jan 2022 08:00:12 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/talk2naresh/technical/why-python/</guid>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/technical/why-python/</guid>
       <description>Why Python? Simple to Learn
 Python is very simple to learn. Very minimal computer knowledge is required to learn and use Python. You don&amp;rsquo;t need to know the difference between computer memory and a hard drive, you don&amp;rsquo;t need to know what an operating system is, you don&amp;rsquo;t need to know what a compiler is, nor do you need to know about build systems, and you don&amp;rsquo;t need to learn any other programming languages first.</description>
     </item>
