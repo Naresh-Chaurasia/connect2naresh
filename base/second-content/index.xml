@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Second on Naresh Chaurasia</title>
+    <link>https://naresh-chaurasia.github.io/talk2naresh/base/second-content/</link>
+    <description>Recent content in Second on Naresh Chaurasia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Jul 2022 10:45:06 +0530</lastBuildDate><atom:link href="https://naresh-chaurasia.github.io/talk2naresh/base/second-content/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Second Content</title>
+      <link>https://naresh-chaurasia.github.io/talk2naresh/base/second-content/second-content/</link>
+      <pubDate>Tue, 05 Jul 2022 10:45:06 +0530</pubDate>
+      <guid>https://naresh-chaurasia.github.io/talk2naresh/base/second-content/second-content/</guid>
+      <description>Second</description>
+    </item>
+  </channel>
+</rss>

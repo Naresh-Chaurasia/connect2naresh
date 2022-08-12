@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Course on Naresh Chaurasia</title>
+    <link>https://naresh-chaurasia.github.io/talk2naresh/course/</link>
+    <description>Recent content in Course on Naresh Chaurasia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 Apr 2022 14:48:23 +0530</lastBuildDate><atom:link href="https://naresh-chaurasia.github.io/talk2naresh/course/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Content Creation</title>
+      <link>https://naresh-chaurasia.github.io/talk2naresh/course/content-creation/</link>
+      <pubDate>Mon, 25 Apr 2022 14:48:23 +0530</pubDate>
+      <guid>https://naresh-chaurasia.github.io/talk2naresh/course/content-creation/</guid>
+      <description>Java Selenium Automation Course Goals Java Selenium Automation Course Goals Clarify your student&amp;rsquo;s ending point. This will help you identify the skills you’d like to help people acquire.
+what skills do your students need to learn to reach their goal? what will be different about your students after they take your course?
+Goals should be realistic and measurable, meaning students should be able to demonstrate their skill. Include strong action verbs (&amp;ldquo;build&amp;rdquo;, &amp;ldquo;create&amp;rdquo;, &amp;ldquo;explain&amp;rdquo;, &amp;ldquo;differentiate&amp;rdquo;).</description>
+    </item>
+    <item>
+      <title>Python Kids</title>
+      <link>https://naresh-chaurasia.github.io/talk2naresh/course/python-kids/</link>
+      <pubDate>Mon, 25 Apr 2022 14:48:23 +0530</pubDate>
+      <guid>https://naresh-chaurasia.github.io/talk2naresh/course/python-kids/</guid>
+      <description>Description What You Will Learn Table of Contents YouTube Channel Prerequisite Other Details Description Learn Python the Fun and Easy Way
+Teach yourself (and your kids) to code fun games, graphics and GUI in Python, the powerful programming language used at tech companies and in academia.
+This course introduces you to this computer language by drawing shapes, coding a simple game, and designing GUIs (Graphic User Interfaces).
+Python GUI Programming</description>
+    </item>
+  </channel>
+</rss>

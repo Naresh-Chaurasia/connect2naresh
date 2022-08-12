@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>First Content on Naresh Chaurasia</title>
+    <link>https://naresh-chaurasia.github.io/talk2naresh/basics/first-content/</link>
+    <description>Recent content in First Content on Naresh Chaurasia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Apr 2022 10:55:16 +0530</lastBuildDate><atom:link href="https://naresh-chaurasia.github.io/talk2naresh/basics/first-content/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
