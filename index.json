@@ -1,103 +1,5 @@
 [
   {
-    "content": "Chapter X Some Chapter title Lorem Ipsum.\n",
-    "description": "",
-    "tags": null,
-    "title": "Base",
-    "uri": "/connect2naresh/base/"
-  },
-  {
-    "content": "Chapter X Some Chapter title Lorem Ipsum.\n",
-    "description": "",
-    "tags": null,
-    "title": "Second",
-    "uri": "/connect2naresh/base/second-content/"
-  },
-  {
-    "content": "Chapter X Some Chapter title Lorem Ipsum.\n",
-    "description": "",
-    "tags": null,
-    "title": "Creativity",
-    "uri": "/connect2naresh/creativity/"
-  },
-  {
-    "content": "Chapter X Some Chapter title Lorem Ipsum.\n",
-    "description": "",
-    "tags": null,
-    "title": "Mind Maps",
-    "uri": "/connect2naresh/mind-maps/"
-  },
-  {
-    "content": "Chapter X Some Chapter title Lorem Ipsum.\n",
-    "description": "",
-    "tags": null,
-    "title": "Core Java",
-    "uri": "/connect2naresh/core-java/"
-  },
-  {
-    "content": "Memory Palaces ",
-    "description": "",
-    "tags": null,
-    "title": "Memory Palaces",
-    "uri": "/connect2naresh/memory-palaces/"
-  },
-  {
-    "content": "Chapter X Some Chapter title Lorem Ipsum.\n",
-    "description": "",
-    "tags": null,
-    "title": "Mind \u0026 Body",
-    "uri": "/connect2naresh/mind-body/"
-  },
-  {
-    "content": "Chapter X Some Chapter title Lorem Ipsum.\n",
-    "description": "",
-    "tags": null,
-    "title": "Up Skill",
-    "uri": "/connect2naresh/up-skill/"
-  },
-  {
-    "content": "",
-    "description": "",
-    "tags": null,
-    "title": "Dance",
-    "uri": "/connect2naresh/dance/"
-  },
-  {
-    "content": "Chapter X Some Chapter title Lorem Ipsum.\n",
-    "description": "",
-    "tags": null,
-    "title": "Blogs",
-    "uri": "/connect2naresh/blogs/"
-  },
-  {
-    "content": "Course Courses Welcome to Courses\n",
-    "description": "",
-    "tags": null,
-    "title": "Course",
-    "uri": "/connect2naresh/course/"
-  },
-  {
-    "content": "",
-    "description": "",
-    "tags": null,
-    "title": "Soft Skills",
-    "uri": "/connect2naresh/soft-skills/"
-  },
-  {
-    "content": "Books ",
-    "description": "",
-    "tags": null,
-    "title": "Books",
-    "uri": "/connect2naresh/books/"
-  },
-  {
-    "content": "Chapter X Some Chapter title Lorem Ipsum.\n",
-    "description": "",
-    "tags": null,
-    "title": "Basics",
-    "uri": "/connect2naresh/basics/"
-  },
-  {
     "content": "",
     "description": "",
     "tags": null,
@@ -115,36 +17,85 @@
     "content": "Chapter X Some Chapter title Lorem Ipsum.\n",
     "description": "",
     "tags": null,
-    "title": "Technical",
-    "uri": "/connect2naresh/technical/"
+    "title": "Blogs",
+    "uri": "/connect2naresh/blogs/"
   },
   {
-    "content": "This is Base Content Page\n",
+    "content": "Books ",
     "description": "",
     "tags": null,
-    "title": "Base Content",
-    "uri": "/connect2naresh/base/base-content/"
+    "title": "Books",
+    "uri": "/connect2naresh/books/"
+  },
+  {
+    "content": "Basic Home Page This page contains basic getting started. This information is used extensively on day today basis.\nHugo Documentation Visual Code Documentation IntelliJ documentation ",
+    "description": "",
+    "tags": null,
+    "title": "Basics",
+    "uri": "/connect2naresh/basics/"
+  },
+  {
+    "content": "Chapter X Some Chapter title Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
+    "title": "Core Java",
+    "uri": "/connect2naresh/core-java/"
+  },
+  {
+    "content": "Course Courses Welcome to Courses\n",
+    "description": "",
+    "tags": null,
+    "title": "Course",
+    "uri": "/connect2naresh/course/"
   },
   {
     "content": "",
     "description": "",
     "tags": null,
-    "title": "Naresh Chaurasia",
-    "uri": "/connect2naresh/"
+    "title": "Dance",
+    "uri": "/connect2naresh/dance/"
   },
   {
-    "content": "Second\n",
+    "content": "Chapter X Some Chapter title Lorem Ipsum.\n",
     "description": "",
     "tags": null,
-    "title": "Second Content",
-    "uri": "/connect2naresh/base/second-content/second-content/"
+    "title": "Mind Maps",
+    "uri": "/connect2naresh/mind-maps/"
   },
   {
-    "content": " Turn Off Live Photo ",
+    "content": "Memory Palaces ",
     "description": "",
     "tags": null,
-    "title": "iPhone",
-    "uri": "/connect2naresh/creativity/iphone/"
+    "title": "Memory Palaces",
+    "uri": "/connect2naresh/memory-palaces/"
+  },
+  {
+    "content": "Chapter X Some Chapter title Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
+    "title": "Mind \u0026 Body",
+    "uri": "/connect2naresh/mind-body/"
+  },
+  {
+    "content": "",
+    "description": "",
+    "tags": null,
+    "title": "Soft Skills",
+    "uri": "/connect2naresh/soft-skills/"
+  },
+  {
+    "content": "Chapter X Some Chapter title Lorem Ipsum.\n",
+    "description": "",
+    "tags": null,
+    "title": "Technical",
+    "uri": "/connect2naresh/technical/"
+  },
+  {
+    "content": "Up Skill Weight 100 ",
+    "description": "",
+    "tags": null,
+    "title": "Up Skill",
+    "uri": "/connect2naresh/up-skill/"
   },
   {
     "content": "",
@@ -152,6 +103,13 @@
     "tags": null,
     "title": "Mind Maps",
     "uri": "/connect2naresh/mind-maps/mind-maps/"
+  },
+  {
+    "content": "",
+    "description": "",
+    "tags": null,
+    "title": "Naresh Chaurasia",
+    "uri": "/connect2naresh/"
   },
   {
     "content": "For the time being, this page will server as canvass for me for anything related to core java with respect to creating Udemy course. Any idea that come to mind will be captured here.\nLater on you might put these information in different and appropriate locations, but for now let me have everything here.\nUdemy, YouTube There is a lot of difference in teaching java and teaching java for selenium. Make sure you understand and respect the boundries.\nCheck out Best Selling Selenium course on Udemy. Go through its Java Content. Capture the idea. Check out Best Selling Java course on Udemy. Capture the idea. Check out Highest Rated Java course on YouTube. Capture the idea. Udemy Java Selenium ",
@@ -189,7 +147,7 @@
     "uri": "/connect2naresh/up-skill/journaling/"
   },
   {
-    "content": "Bachata Song by Kay One Es por ti\nQue el destino me trajo hasta aquí\nPara bailar\nBailar esta bachata, mi amor\nVen a mi lado, corazón\nBaila conmigo suavemente\nToda mi vida te busqué\nEres mi sueño de mujer, mi sueño de mujer\nGuy Comes In Bailar esta bachata es lo que me desata (1,2,3,4 - 5,6,7,8)\nContigo a mi lado (1,2,3,4)\nLo único que quiero es (5,6,7,8) bailar\nThere are 4 counts for swing here\nBailar esta bachata\nBailar esta bachata\nThere are 2 counts for girl’s forward bend\nBailar esta bachata es lo que me desata (1,2,3,4 - 5,6,7,8)\nContigo a mi lado (1,2,3,4)\nLo único que quiero es (5,6,7,8) bailar\nThere are 4 counts for comb and flip her hand.\nBailar esta bachata\n(1,2,3,4, - 5,6,7,8)\n",
+    "content": " Bachata Song by Kay One References Bachata Song by Kay One Es por ti\nQue el destino me trajo hasta aquí\nPara bailar\nBailar esta bachata, mi amor\nVen a mi lado, corazón\nBaila conmigo suavemente\nToda mi vida te busqué\nEres mi sueño de mujer, mi sueño de mujer\nGuy Comes In\nBailar esta bachata es lo que me desata (1,2,3,4 - 5,6,7,8)\nContigo a mi lado (1,2,3,4)\nLo único que quiero es (5,6,7,8) bailar\nThere are 4 counts for swing here\nBailar esta bachata\nBailar esta bachata\nThere are 2 counts for girl’s forward bend\nBailar esta bachata es lo que me desata (1,2,3,4 - 5,6,7,8)\nContigo a mi lado (1,2,3,4)\nLo único que quiero es (5,6,7,8) bailar\nThere are 4 counts for comb and flip her hand.\nBailar esta bachata\n(1,2,3,4, - 5,6,7,8)\nReferences ",
     "description": "",
     "tags": null,
     "title": "Bachata",
@@ -294,7 +252,7 @@
     "uri": "/connect2naresh/blogs/gone-with-wind/"
   },
   {
-    "content": " Day 1 Day 2 Day 3 Day 1 My Name is Naresh: माझे नाव नरेश आहे\nI live in Pune: मी पुण्यात राहतो\nI am engineer: मी इंजीनियर आहे\nI work at Cognizant: मी Cognizant मध्ये/Madhe (में) Job करतो\nI am a native of MP: Me Mulcha MPcha aahe\nमाझा (mAjhA ) for masculine, माझी (mAjhI ) for feminine, माझे (mAjhe) for neuter\nDay 2 I am learning marathi in morning: मी सकाळी मराठीन शिकतो\nWhat is your name: तुझे नाव काय आहे\nWhere do you stay: तू कुठे राहतोस\nI live in pune: मी पुण्यात राहतो, मी पुणे ला राहतो\nWhat do you do: तू काय करतोस\nDay 3 Tu aaj gym la janar ahes ka? Nakkich - Definitely References https://www.easyhindityping.com/marathi-to-english-translation http://learnmarathiwithkaushik.com/ ",
+    "content": " Day 1 Day 2 Day 3 Day 1 My Name is Naresh: माझे नाव नरेश आहे I live in Pune: मी पुण्यात राहतो I am engineer: मी इंजीनियर आहे I work at Cognizant: मी Cognizant मध्ये/Madhe (में) Job करतो I am a native of MP: Me Mulcha MPcha aahe माझा (mAjhA ) for masculine, माझी (mAjhI ) for feminine, माझे (mAjhe) for neuter\nDay 2 I am learning marathi in morning: मी सकाळी मराठीन शिकतो What is your name: तुझे नाव काय आहे Where do you stay: तू कुठे राहतोस I live in pune: मी पुण्यात राहतो, मी पुणे ला राहतो What do you do: तू काय करतोस Day 3 Tu aaj gym la janar ahes ka? Nakkich - Definitely Verbs References https://www.easyhindityping.com/marathi-to-english-translation http://learnmarathiwithkaushik.com/ ",
     "description": "",
     "tags": null,
     "title": "Marathi",
@@ -454,18 +412,18 @@
     "uri": "/connect2naresh/books/compound-effect/"
   },
   {
-    "content": " Advertisement :)\npica - high quality and fast image resize in browser. babelfish - developer friendly i18n with plurals support and easy syntax. You will like those projects!\nh1 Heading 8-) h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Horizontal Rules Typographic replacements Enable typographer option to see result.\n(c) (C) (r) (R) (tm) (TM) (p) (P) +-\ntest.. test… test….. test?….. test!….\n!!!!!! ???? ,, – —\n“Smartypants, double quotes” and ‘single quotes’\nEmphasis This is bold text\nThis is bold text\nThis is italic text\nThis is italic text\nStrikethrough\nBlockquotes Blockquotes can also be nested…\n…by using additional greater-than signs right next to each other…\n…or with spaces between arrows.\nLists Unordered\nCreate a list by starting a line with +, -, or * Sub-lists are made by indenting 2 spaces: Marker character change forces new list start: Ac tristique libero volutpat at Facilisis in pretium nisl aliquet Nulla volutpat aliquam velit Very easy! Ordered\nLorem ipsum dolor sit amet\nConsectetur adipiscing elit\nInteger molestie lorem at massa\nYou can use sequential numbers…\n…or keep all the numbers as 1.\nStart numbering with offset:\nfoo bar Code Inline code\nIndented code\n// Some comments line 1 of code line 2 of code line 3 of code Block code “fences”\nSample text here... Syntax highlighting\nvar foo = function (bar) { return bar++; }; console.log(foo(5)); Tables Option Description data path to data files to supply the data that will be passed into templates. engine engine to be used for processing templates. Handlebars is the default. ext extension to be used for dest files. Right aligned columns\nOption Description data path to data files to supply the data that will be passed into templates. engine engine to be used for processing templates. Handlebars is the default. ext extension to be used for dest files. Links link text\nlink with title\nAutoconverted link https://github.com/nodeca/pica (enable linkify to see)\nImages Like links, Images also have a footnote style syntax\nWith a reference later in the document defining the URL location:\nPlugins The killer feature of markdown-it is very effective support of syntax plugins.\nEmojies Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:\nShortcuts (emoticons): :-) :-( 8-) ;)\nsee how to change output with twemoji.\nSubscript / Superscript 19^th^ H~2~O \u003cins\u003e ++Inserted text++\n\u003cmark\u003e ==Marked text==\nFootnotes Footnote 1 link1.\nFootnote 2 link2.\nInline footnote^[Text of inline footnote] definition.\nDuplicated footnote reference2.\nDefinition lists Term 1 Definition 1 with lazy continuation.\nTerm 2 with inline markup Definition 2\n{ some code, part of Definition 2 } Third paragraph of definition 2.\nCompact style:\nTerm 1 ~ Definition 1\nTerm 2 ~ Definition 2a ~ Definition 2b\nAbbreviations This is HTML abbreviation example.\nIt converts “HTML”, but keep intact partial entries like “xxxHTMLyyy” and so on.\n*[HTML]: Hyper Text Markup Language\nCustom containers ::: warning here be dragons :::\nFootnote can have markup\nand multiple paragraphs. ↩︎\nFootnote text. ↩︎ ↩︎\n",
-    "description": "",
-    "tags": null,
-    "title": "First Content",
-    "uri": "/connect2naresh/basics/first-content/"
-  },
-  {
     "content": " ",
     "description": "",
     "tags": null,
     "title": "images",
     "uri": "/connect2naresh/basics/images/"
+  },
+  {
+    "content": " Advertisement :)\npica - high quality and fast image resize in browser. babelfish - developer friendly i18n with plurals support and easy syntax. You will like those projects!\nh1 Heading 8-) h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Horizontal Rules Typographic replacements Enable typographer option to see result.\n(c) (C) (r) (R) (tm) (TM) (p) (P) +-\ntest.. test… test….. test?….. test!….\n!!!!!! ???? ,, – —\n“Smartypants, double quotes” and ‘single quotes’\nEmphasis This is bold text\nThis is bold text\nThis is italic text\nThis is italic text\nStrikethrough\nBlockquotes Blockquotes can also be nested…\n…by using additional greater-than signs right next to each other…\n…or with spaces between arrows.\nLists Unordered\nCreate a list by starting a line with +, -, or * Sub-lists are made by indenting 2 spaces: Marker character change forces new list start: Ac tristique libero volutpat at Facilisis in pretium nisl aliquet Nulla volutpat aliquam velit Very easy! Ordered\nLorem ipsum dolor sit amet\nConsectetur adipiscing elit\nInteger molestie lorem at massa\nYou can use sequential numbers…\n…or keep all the numbers as 1.\nStart numbering with offset:\nfoo bar Code Inline code\nIndented code\n// Some comments line 1 of code line 2 of code line 3 of code Block code “fences”\nSample text here... Syntax highlighting\nvar foo = function (bar) { return bar++; }; console.log(foo(5)); Tables Option Description data path to data files to supply the data that will be passed into templates. engine engine to be used for processing templates. Handlebars is the default. ext extension to be used for dest files. Right aligned columns\nOption Description data path to data files to supply the data that will be passed into templates. engine engine to be used for processing templates. Handlebars is the default. ext extension to be used for dest files. Links link text\nlink with title\nAutoconverted link https://github.com/nodeca/pica (enable linkify to see)\nImages Like links, Images also have a footnote style syntax\nWith a reference later in the document defining the URL location:\nPlugins The killer feature of markdown-it is very effective support of syntax plugins.\nEmojies Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:\nShortcuts (emoticons): :-) :-( 8-) ;)\nsee how to change output with twemoji.\nSubscript / Superscript 19^th^ H~2~O \u003cins\u003e ++Inserted text++\n\u003cmark\u003e ==Marked text==\nFootnotes Footnote 1 link1.\nFootnote 2 link2.\nInline footnote^[Text of inline footnote] definition.\nDuplicated footnote reference2.\nDefinition lists Term 1 Definition 1 with lazy continuation.\nTerm 2 with inline markup Definition 2\n{ some code, part of Definition 2 } Third paragraph of definition 2.\nCompact style:\nTerm 1 ~ Definition 1\nTerm 2 ~ Definition 2a ~ Definition 2b\nAbbreviations This is HTML abbreviation example.\nIt converts “HTML”, but keep intact partial entries like “xxxHTMLyyy” and so on.\n*[HTML]: Hyper Text Markup Language\nCustom containers ::: warning here be dragons :::\nFootnote can have markup\nand multiple paragraphs. ↩︎\nFootnote text. ↩︎ ↩︎\n",
+    "description": "",
+    "tags": null,
+    "title": "Mark Down",
+    "uri": "/connect2naresh/basics/mark-down/"
   },
   {
     "content": " ",

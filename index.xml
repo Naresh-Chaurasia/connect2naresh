@@ -6,33 +6,55 @@
     <description>Recent content on Naresh Chaurasia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 05 Jul 2022 10:45:06 +0530</lastBuildDate><atom:link href="https://naresh-chaurasia.github.io/connect2naresh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Jun 2022 16:16:58 +0530</lastBuildDate><atom:link href="https://naresh-chaurasia.github.io/connect2naresh/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Base</title>
-      <link>https://naresh-chaurasia.github.io/connect2naresh/base/</link>
-      <pubDate>Tue, 05 Jul 2022 10:45:06 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/connect2naresh/base/</guid>
+      <title>Blogs</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/blogs/</link>
+      <pubDate>Wed, 27 Apr 2022 11:02:16 +0530</pubDate>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/blogs/</guid>
       <description>Chapter X Some Chapter title Lorem Ipsum.</description>
     </item>
     <item>
-      <title>Creativity</title>
-      <link>https://naresh-chaurasia.github.io/connect2naresh/creativity/</link>
-      <pubDate>Thu, 23 Jun 2022 14:29:25 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/connect2naresh/creativity/</guid>
-      <description>Chapter X Some Chapter title Lorem Ipsum.</description>
+      <title>Books</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/books/</link>
+      <pubDate>Fri, 15 Apr 2022 13:46:55 +0530</pubDate>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/books/</guid>
+      <description>Books </description>
     </item>
     <item>
-      <title>Mind Maps</title>
-      <link>https://naresh-chaurasia.github.io/connect2naresh/mind-maps/</link>
-      <pubDate>Tue, 21 Jun 2022 16:16:58 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/connect2naresh/mind-maps/</guid>
-      <description>Chapter X Some Chapter title Lorem Ipsum.</description>
+      <title>Basics</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/basics/</link>
+      <pubDate>Fri, 15 Apr 2022 10:55:16 +0530</pubDate>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/basics/</guid>
+      <description>Basic Home Page This page contains basic getting started. This information is used extensively on day today basis.
+Hugo Documentation Visual Code Documentation IntelliJ documentation </description>
     </item>
     <item>
       <title>Core Java</title>
       <link>https://naresh-chaurasia.github.io/connect2naresh/core-java/</link>
       <pubDate>Fri, 17 Jun 2022 10:15:38 +0530</pubDate>
       <guid>https://naresh-chaurasia.github.io/connect2naresh/core-java/</guid>
+      <description>Chapter X Some Chapter title Lorem Ipsum.</description>
+    </item>
+    <item>
+      <title>Course</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/course/</link>
+      <pubDate>Mon, 25 Apr 2022 14:48:23 +0530</pubDate>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/course/</guid>
+      <description>Course Courses Welcome to Courses</description>
+    </item>
+    <item>
+      <title>Dance</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/dance/</link>
+      <pubDate>Fri, 29 Apr 2022 13:23:01 +0530</pubDate>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/dance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mind Maps</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/mind-maps/</link>
+      <pubDate>Tue, 21 Jun 2022 16:16:58 +0530</pubDate>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/mind-maps/</guid>
       <description>Chapter X Some Chapter title Lorem Ipsum.</description>
     </item>
     <item>
@@ -50,34 +72,6 @@
       <description>Chapter X Some Chapter title Lorem Ipsum.</description>
     </item>
     <item>
-      <title>Up Skill</title>
-      <link>https://naresh-chaurasia.github.io/connect2naresh/up-skill/</link>
-      <pubDate>Tue, 03 May 2022 15:53:08 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/connect2naresh/up-skill/</guid>
-      <description>Chapter X Some Chapter title Lorem Ipsum.</description>
-    </item>
-    <item>
-      <title>Dance</title>
-      <link>https://naresh-chaurasia.github.io/connect2naresh/dance/</link>
-      <pubDate>Fri, 29 Apr 2022 13:23:01 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/connect2naresh/dance/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Blogs</title>
-      <link>https://naresh-chaurasia.github.io/connect2naresh/blogs/</link>
-      <pubDate>Wed, 27 Apr 2022 11:02:16 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/connect2naresh/blogs/</guid>
-      <description>Chapter X Some Chapter title Lorem Ipsum.</description>
-    </item>
-    <item>
-      <title>Course</title>
-      <link>https://naresh-chaurasia.github.io/connect2naresh/course/</link>
-      <pubDate>Mon, 25 Apr 2022 14:48:23 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/connect2naresh/course/</guid>
-      <description>Course Courses Welcome to Courses</description>
-    </item>
-    <item>
       <title>Soft Skills</title>
       <link>https://naresh-chaurasia.github.io/connect2naresh/soft-skills/</link>
       <pubDate>Fri, 15 Apr 2022 13:50:24 +0530</pubDate>
@@ -85,25 +79,18 @@
       <description></description>
     </item>
     <item>
-      <title>Books</title>
-      <link>https://naresh-chaurasia.github.io/connect2naresh/books/</link>
-      <pubDate>Fri, 15 Apr 2022 13:46:55 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/connect2naresh/books/</guid>
-      <description>Books </description>
-    </item>
-    <item>
-      <title>Basics</title>
-      <link>https://naresh-chaurasia.github.io/connect2naresh/basics/</link>
-      <pubDate>Fri, 15 Apr 2022 10:55:16 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/connect2naresh/basics/</guid>
-      <description>Chapter X Some Chapter title Lorem Ipsum.</description>
-    </item>
-    <item>
       <title>Technical</title>
       <link>https://naresh-chaurasia.github.io/connect2naresh/technical/</link>
       <pubDate>Mon, 10 Jan 2022 08:00:12 +0530</pubDate>
       <guid>https://naresh-chaurasia.github.io/connect2naresh/technical/</guid>
       <description>Chapter X Some Chapter title Lorem Ipsum.</description>
+    </item>
+    <item>
+      <title>Up Skill</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/up-skill/</link>
+      <pubDate>Tue, 03 May 2022 15:53:08 +0530</pubDate>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/up-skill/</guid>
+      <description>Up Skill Weight 100 </description>
     </item>
     <item>
       <title>Media Folder</title>
