@@ -51,6 +51,13 @@ Door Outside - Queue Printout (Queue, EC2, S3) Door Inside (Hanging Hooks) - Eac
       <description>References A B </description>
     </item>
     <item>
+      <title>Microservices Architecture</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/technical/microservices/</link>
+      <pubDate>Mon, 10 Jan 2022 08:00:12 +0530</pubDate>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/technical/microservices/</guid>
+      <description>Springboot Microservices Reference Implementation Springboot Microservices Reference Implementation Eureka Discovery Service Account Management Microservice - Registration, Login, Authentication, User Status Spring Cloud API Gateway as a Load Balancer H2 In-Memory Database Spring Cloud API Gateway - Creating a Custom Filters, Gateway Global Filters Spring Cloud Config Server - Git Backend Spring Cloud Bus Spring Cloud Config - File System Backend Spring Cloud Config - Configuration for Multiple Microservices Spring Boot Actuator Using MySQL Instead of In-Memory Database Encryption and Decryption Microservices Communication Microservices communications - Hystrix Circuit Breaker, Resilience4j - Circuit Breaker, Resilience4j - Retry.</description>
+    </item>
+    <item>
       <title>Spring Framework</title>
       <link>https://naresh-chaurasia.github.io/connect2naresh/technical/spring-framework/</link>
       <pubDate>Mon, 10 Jan 2022 08:00:12 +0530</pubDate>
