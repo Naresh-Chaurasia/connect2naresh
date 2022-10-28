@@ -9,16 +9,16 @@
     <title>Technical :: Naresh Chaurasia</title>
     <link rel="canonical" type="text/html" href="/connect2naresh/technical/" title="Naresh Chaurasia" />
     <link rel="alternate" type="application/rss&#43;xml" href="/connect2naresh/technical/index.xml" title="Naresh Chaurasia" />
-    <link href="/connect2naresh/css/nucleus.css?1666628695" rel="stylesheet">
-    <link href="/connect2naresh/css/fontawesome-all.min.css?1666628695" rel="stylesheet">
-    <link href="/connect2naresh/css/featherlight.min.css?1666628695" rel="stylesheet">
-    <link href="/connect2naresh/css/perfect-scrollbar.min.css?1666628695" rel="stylesheet">
-    <link href="/connect2naresh/css/auto-complete.css?1666628695" rel="stylesheet">
-    <link href="/connect2naresh/css/theme.css?1666628695" rel="stylesheet">
-    <link href="/connect2naresh/css/theme-relearn-light.css?1666628695" rel="stylesheet" id="variant-style">
-    <link href="/connect2naresh/css/variant.css?1666628695" rel="stylesheet">
-    <link href="/connect2naresh/css/print.css?1666628695" rel="stylesheet">
-    <script src="/connect2naresh/js/variant.js?1666628695"></script>
+    <link href="/connect2naresh/css/nucleus.css?1666965952" rel="stylesheet">
+    <link href="/connect2naresh/css/fontawesome-all.min.css?1666965952" rel="stylesheet">
+    <link href="/connect2naresh/css/featherlight.min.css?1666965952" rel="stylesheet">
+    <link href="/connect2naresh/css/perfect-scrollbar.min.css?1666965952" rel="stylesheet">
+    <link href="/connect2naresh/css/auto-complete.css?1666965952" rel="stylesheet">
+    <link href="/connect2naresh/css/theme.css?1666965952" rel="stylesheet">
+    <link href="/connect2naresh/css/theme-relearn-light.css?1666965952" rel="stylesheet" id="variant-style">
+    <link href="/connect2naresh/css/variant.css?1666965952" rel="stylesheet">
+    <link href="/connect2naresh/css/print.css?1666965952" rel="stylesheet">
+    <script src="/connect2naresh/js/variant.js?1666965952"></script>
     <script>
       // hack to let hugo tell us how to get to the root when using relativeURLs, it needs to be called *url= for it to do its magic:
       // https://github.com/gohugoio/hugo/blob/145b3fcce35fbac25c7033c91c1b7ae6d1179da8/transform/urlreplacers/absurlreplacer.go#L72
@@ -34,7 +34,7 @@
       var baseUriFull='https:\/\/naresh-chaurasia.github.io\/connect2naresh/';
       variants.init( [ 'relearn-light' ] );
     </script>
-    <script src="/connect2naresh/js/jquery.min.js?1666628695"></script>
+    <script src="/connect2naresh/js/jquery.min.js?1666965952"></script>
   </head>
   <body class="mobile-support print" data-url="/connect2naresh/technical/">
     <div id="body" class="default-animation">
@@ -121,6 +121,42 @@
             </footer>
           </article>
           </section>
+    
+          <article>
+
+<h1>Microservices - API Management</h1>
+<ul>
+<li><a href="#consumers-of-microservices-api">Consumers of Microservices API</a></li>
+<li><a href="#what-is-api-management">What is API Management</a></li>
+<li><a href="#how-does-api-management-work">How does API Management Work</a></li>
+<li><a href="#api-management-control">API management control</a></li>
+</ul>
+<h3 id="consumers-of-microservices-api">Consumers of Microservices API</h3>
+<p>Microservices API are consumed by 3 types of consumers, these being <strong>private or internal API consumer</strong>, <strong>public or external consumers</strong>, <strong>partner API</strong>. So depending on the consumer of the API and API is marked as private, public or partner API.</p>
+<p><strong>Private or Internal API consumer</strong></p>
+<p>The Private or Internal API consumer are microservices that are built by team(s), which are in similar organization.</p>
+<p><strong>Public or External consumers</strong></p>
+<p>These are the independent developers outside the organization. These developers invoke the publicly exposed APIs.</p>
+<p><strong>Partner API</strong></p>
+<p>It may be the resellers or the affiliate.</p>
+<h3 id="what-is-api-management">What is API Management</h3>
+<p>From the developer&rsquo;s / implementation perspective, there is no difference between the three types of APIs. <strong>The difference is in how these apps are managed</strong>.</p>
+<p>For example, the private API consumer may be able to invoke the API 5000 times per second, whereas the public API consumers will be allowed to invoke the same API five times per second.</p>
+<p>Another example is where the private API consumer may be allowed to access all of the API features, whereas the public API consumer will be restricted only to certain get calls on the API.</p>
+<p>The above aspects of an API are managed outside of the micro services implementation by way of API management platform. API management platform is a technology that is used for addressing the Common API concerns, like access and authorization of APIs, logging and analytics, Quotas (consumer is allowed to access the API 5000 times per second or five times per second), and API documentation which provides information to the consumers on how to use the apps.</p>
+<h3 id="how-does-api-management-work">How does API Management Work</h3>
+<p>Micro services expose their APIs by way of these API management platforms. The API management platform exposes the APIs by way of a proxy point. The consumers of the API invoke the API by way of the proxy endpoint. They never connect directly to the API exposed by the micro service where the consumer invokes the API. The API management platform applies the management control and based on the outcome of those controls, the EPA management platform either allows the invocation of the EPA on the micro servers or it denies the request for invocation.</p>
+<h3 id="api-management-control">API management control</h3>
+<p>Most API management platform offers are declarative or policy based management features. What that means is that the developer of the micro servers doesn’t have to code any of these management controls. They can simply put together policies for defining these controls. For example, a policy may be defined for the internal or private consumer to be such that maximum flexibility is provided to the consumer. So in other words, most of their calls will go through.</p>
+<p>For the public domain developers, yhe policy may be extremely restricted for the partnerships. The policy may be such that it define some kind of SLA.</p>
+<p>Now, if you’re wondering how these policies are defined, these policy definition mechanism is totally dependent on the API management product. JSON is commonly used for defining these policies. So if you’re interested in knowing more about how these policies are defined, you’ll have to pick up one of the API management products, such as <strong>apigee</strong>, <strong>Mulesoft</strong>, <strong>WSO2</strong> to understand the nature of these policy documents.</p>
+<p>Most cloud vendors today also offer API management services like the <strong>Amazon API Gateway</strong> and the <strong>Azure API management</strong>. If you’re not using an API management platform, I highly recommend that you look at the possibility of adopting an API management solution.</p>
+<p>Although there are multiple benefits of using an API management platform from the micro services development team perspective. The biggest benefit is that the team can focus on the domain or the business logic rather than spending time on common concerns such as security, logging, etc..</p>
+<p>As a result, the micro services source code is cleaner. Last but not the least, since the consumers of the EPA do not connect directly to the Microsoft service, change management become easier. So what that means is that the microservices development team can make the changes to the API and adjust the proxy on the API management platform to insulate the end consumer from those changes.</p>
+
+            <footer class="footline">
+            </footer>
+          </article>
     
           <article>
 
@@ -409,9 +445,9 @@ One of the most common uses of scripting with Python is to perform administratio
           <input data-search-input id="search-by" type="search" placeholder="Search...">
           <span data-search-clear=""><i class="fas fa-times"></i></span>
         </div>
-        <script src="/connect2naresh/js/lunr.min.js?1666628695"></script>
-        <script src="/connect2naresh/js/auto-complete.js?1666628695"></script>
-        <script src="/connect2naresh/js/search.js?1666628695"></script>
+        <script src="/connect2naresh/js/lunr.min.js?1666965952"></script>
+        <script src="/connect2naresh/js/auto-complete.js?1666965952"></script>
+        <script src="/connect2naresh/js/search.js?1666965952"></script>
       </div>
       <div id="homelinks" class="default-animation">
         <ul>
@@ -476,6 +512,7 @@ One of the most common uses of scripting with Python is to perform administratio
           <li data-nav-id="/connect2naresh/technical/java/core-java/" title="Core Java" class="dd-item"><a href="/connect2naresh/technical/java/core-java/">Core Java</a></li></ul></li>
           <li data-nav-id="/connect2naresh/technical/spring/" title="Spring Framework" class="dd-item alwaysopen"><input type="checkbox" id="section-65aa292aa059165a76cf2fc973d92cc0" class="toggle" checked/><label for="section-65aa292aa059165a76cf2fc973d92cc0" ></label><a href="/connect2naresh/technical/spring/"><b> + </b>Spring Framework</a><ul>
           <li data-nav-id="/connect2naresh/technical/spring/spring-frameworks/" title="Spring Framework" class="dd-item"><a href="/connect2naresh/technical/spring/spring-frameworks/">Spring Framework</a></li></ul></li>
+          <li data-nav-id="/connect2naresh/technical/ms-api-management/" title="Microservices - API Management" class="dd-item"><a href="/connect2naresh/technical/ms-api-management/">Microservices - API Management</a></li>
           <li data-nav-id="/connect2naresh/technical/architect-memi-lavi/" title="Architect Memi Lavi" class="dd-item"><a href="/connect2naresh/technical/architect-memi-lavi/">Architect Memi Lavi</a></li>
           <li data-nav-id="/connect2naresh/technical/aws-solution-architect/" title="AWS Solution Architect" class="dd-item"><a href="/connect2naresh/technical/aws-solution-architect/">AWS Solution Architect</a></li>
           <li data-nav-id="/connect2naresh/technical/digital-transformation/" title="Digital Transformation" class="dd-item"><a href="/connect2naresh/technical/digital-transformation/">Digital Transformation</a></li>
@@ -529,9 +566,9 @@ One of the most common uses of scripting with Python is to perform administratio
         </div>
       </div>
     </aside>
-    <script src="/connect2naresh/js/clipboard.min.js?1666628695"></script>
-    <script src="/connect2naresh/js/perfect-scrollbar.min.js?1666628695"></script>
-    <script src="/connect2naresh/js/featherlight.min.js?1666628695"></script>
-    <script src="/connect2naresh/js/theme.js?1666628695"></script>
+    <script src="/connect2naresh/js/clipboard.min.js?1666965952"></script>
+    <script src="/connect2naresh/js/perfect-scrollbar.min.js?1666965952"></script>
+    <script src="/connect2naresh/js/featherlight.min.js?1666965952"></script>
+    <script src="/connect2naresh/js/theme.js?1666965952"></script>
   </body>
 </html>
