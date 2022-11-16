@@ -31,6 +31,14 @@ Private or Internal API consumer
 The Private or Internal API consumer are microservices that are built by team(s), which are in similar organization.</description>
     </item>
     <item>
+      <title>API and File Based Integration</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/technical/file-api/</link>
+      <pubDate>Mon, 10 Jan 2022 08:00:12 +0530</pubDate>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/technical/file-api/</guid>
+      <description>What’s what Major challenges around file-based integration and how to prevent them Common issues that affect API integration and how to avoid them What’s what File-based integration is the communication between two systems that occurs via a file that represents the initial data source and its destination data.
+To synchronize data with another system, file-based architecture sends a CSV file or a flat file. A CSV file can only contain a single file, whereas a flat file can combine elements from a number of files.</description>
+    </item>
+    <item>
       <title>Architect Memi Lavi</title>
       <link>https://naresh-chaurasia.github.io/connect2naresh/technical/architect-memi-lavi/</link>
       <pubDate>Mon, 10 Jan 2022 08:00:12 +0530</pubDate>
@@ -56,6 +64,13 @@ business strategy
 In essence, a business strategy is an organizational master plan. This plan is what the management of a company develops and implements to achieve their strategic goals. Essentially, a business plan is a long-term sketch of the desired strategic destination for a company.</description>
     </item>
     <item>
+      <title>File-Based Data Integration</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/technical/file-integration/</link>
+      <pubDate>Mon, 10 Jan 2022 08:00:12 +0530</pubDate>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/technical/file-integration/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>How To Learn Programming</title>
       <link>https://naresh-chaurasia.github.io/connect2naresh/technical/programming/</link>
       <pubDate>Mon, 10 Jan 2022 08:00:12 +0530</pubDate>
@@ -71,9 +86,9 @@ In essence, a business strategy is an organizational master plan. This plan is w
     </item>
     <item>
       <title>Microservices Architecture</title>
-      <link>https://naresh-chaurasia.github.io/connect2naresh/technical/microservices/</link>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/technical/microservice/</link>
       <pubDate>Mon, 10 Jan 2022 08:00:12 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/connect2naresh/technical/microservices/</guid>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/technical/microservice/</guid>
       <description>Springboot Microservices Reference Implementation What is Microservices Microservices Architecture Eureka Discovery Service Spring Cloud API Gateway Springboot Microservices Reference Implementation Eureka Discovery Service Account Management Microservice - Registration, Login, Authentication, User Status Spring Cloud API Gateway as a Load Balancer H2 In-Memory Database Spring Cloud API Gateway - Creating a Custom Filters, Gateway Global Filters Spring Cloud Config Server - Git Backend Spring Cloud Bus Spring Cloud Config - File System Backend Spring Cloud Config - Configuration for Multiple Microservices Spring Boot Actuator Using MySQL Instead of In-Memory Database Encryption and Decryption Microservices Communication Microservices communications - Hystrix Circuit Breaker, Resilience4j - Circuit Breaker, Resilience4j - Retry.</description>
     </item>
     <item>

@@ -9,16 +9,16 @@
     <title>Technical :: Naresh Chaurasia</title>
     <link rel="canonical" type="text/html" href="/connect2naresh/technical/" title="Naresh Chaurasia" />
     <link rel="alternate" type="application/rss&#43;xml" href="/connect2naresh/technical/index.xml" title="Naresh Chaurasia" />
-    <link href="/connect2naresh/css/nucleus.css?1666965952" rel="stylesheet">
-    <link href="/connect2naresh/css/fontawesome-all.min.css?1666965952" rel="stylesheet">
-    <link href="/connect2naresh/css/featherlight.min.css?1666965952" rel="stylesheet">
-    <link href="/connect2naresh/css/perfect-scrollbar.min.css?1666965952" rel="stylesheet">
-    <link href="/connect2naresh/css/auto-complete.css?1666965952" rel="stylesheet">
-    <link href="/connect2naresh/css/theme.css?1666965952" rel="stylesheet">
-    <link href="/connect2naresh/css/theme-relearn-light.css?1666965952" rel="stylesheet" id="variant-style">
-    <link href="/connect2naresh/css/variant.css?1666965952" rel="stylesheet">
-    <link href="/connect2naresh/css/print.css?1666965952" rel="stylesheet">
-    <script src="/connect2naresh/js/variant.js?1666965952"></script>
+    <link href="/connect2naresh/css/nucleus.css?1668581735" rel="stylesheet">
+    <link href="/connect2naresh/css/fontawesome-all.min.css?1668581735" rel="stylesheet">
+    <link href="/connect2naresh/css/featherlight.min.css?1668581735" rel="stylesheet">
+    <link href="/connect2naresh/css/perfect-scrollbar.min.css?1668581735" rel="stylesheet">
+    <link href="/connect2naresh/css/auto-complete.css?1668581735" rel="stylesheet">
+    <link href="/connect2naresh/css/theme.css?1668581735" rel="stylesheet">
+    <link href="/connect2naresh/css/theme-relearn-light.css?1668581735" rel="stylesheet" id="variant-style">
+    <link href="/connect2naresh/css/variant.css?1668581735" rel="stylesheet">
+    <link href="/connect2naresh/css/print.css?1668581735" rel="stylesheet">
+    <script src="/connect2naresh/js/variant.js?1668581735"></script>
     <script>
       // hack to let hugo tell us how to get to the root when using relativeURLs, it needs to be called *url= for it to do its magic:
       // https://github.com/gohugoio/hugo/blob/145b3fcce35fbac25c7033c91c1b7ae6d1179da8/transform/urlreplacers/absurlreplacer.go#L72
@@ -34,7 +34,7 @@
       var baseUriFull='https:\/\/naresh-chaurasia.github.io\/connect2naresh/';
       variants.init( [ 'relearn-light' ] );
     </script>
-    <script src="/connect2naresh/js/jquery.min.js?1666965952"></script>
+    <script src="/connect2naresh/js/jquery.min.js?1668581735"></script>
   </head>
   <body class="mobile-support print" data-url="/connect2naresh/technical/">
     <div id="body" class="default-animation">
@@ -160,6 +160,82 @@
     
           <article>
 
+<h1>API and File Based Integration</h1>
+<ul>
+<li><a href="#whats-what">What’s what</a></li>
+<li><a href="#major-challenges-around-file-based-integration-and-how-to-prevent-them">Major challenges around file-based integration and how to prevent them</a></li>
+<li><a href="#common-issues-that-affect-api-integration-and-how-to-avoid-them">Common issues that affect API integration and how to avoid them</a></li>
+</ul>
+<h3 id="whats-what">What’s what</h3>
+<p>File-based integration is the communication between two systems that occurs via a file that represents the initial data source and its destination data.</p>
+<p>To synchronize data with another system, file-based architecture sends a CSV file or a flat file. A CSV file can only contain a single file, whereas a flat file can combine elements from a number of files. File transfer is required when systems store data in tables; that’s often the case with e-commerce programs or legacy systems where there’s no accessible API.</p>
+<p>Advanced business systems can require real-time data transmission, and that’s where API integration has the upper hand. API allows you to establish a connection between two systems with the help of cloud applications.</p>
+<p>You can utilize one of them exclusively, but file-based and API integration can complement each other, depending on your company’s needs. Let’s take a closer look at the possible difficulties of each and how to overcome them.</p>
+<h3 id="major-challenges-around-file-based-integration-and-how-to-prevent-them">Major challenges around file-based integration and how to prevent them</h3>
+<p>File-based integration is mostly used in legacy systems and is much more time-consuming than API integration, that’s why developers don’t like it much. This approach presents several challenges. For example, McKinsey mentions the following ones. We offer some tips on how to avoid each of them.</p>
+<p><strong>Limited exception handling on format mismatches</strong></p>
+<p>Some nondigestible formats, like phone numbers, only require format normalizations. In other cases, not only format but also data would need to be standardized. There are several solutions to the problem: using an open-source universal identifier, standardizing with Excel or scripts and APIs, and utilizing standardization software depending on the data type.</p>
+<p><strong>Manual failure recovery following network or system outages</strong></p>
+<p>To recover lost or corrupted data, utilize the business rule management system (BRMS). One indispensable feature of this software is a sequence of reports that allow you to recover the system bit by bit. From the reports, you’ll find out how much of the system is damaged and learn a set of instructions on how to restore it. The BRMS allows you to bring back your entire system or separate items of choice, including control groups, libraries, folders, ASPs, spooled files, or integrated file system links.</p>
+<p><strong>Weak controls for file tampering and man-in-the-middle breaches</strong></p>
+<p>Robust security is a must to avoid data encryption by attackers, who mostly conduct such attacks to receive a ransom. Here are the ways to avert this kind of attack:</p>
+<ul>
+<li>
+<p>Encrypt the stored and transmitted data first—outsmart the attackers</p>
+</li>
+<li>
+<p>Ensure snapshots are taken each time a database is modified by integrating COW (copy-on-write)</p>
+</li>
+<li>
+<p>Utilize HMAC to sign messages or files: a shared secret key will ensure the data transferred and received is authentic and unmodified by a third party</p>
+</li>
+<li>
+<p>Initiate file integrity monitoring (FIM), which checks a wide range of files, including encryption key stores, and alerts you once it detects any changes</p>
+</li>
+<li>
+<p>Establish write once read many (WORM) systems to make sure data cannot be changed or erased accidentally or deliberately</p>
+</li>
+<li>
+<p>A man-in-the-middle (MITM) attack occurs when an actor intercepts a communication of two systems to steal data. To enhance systems against this type of attack, upgrade your website to HTTPS protocol and configure it to exclude any leftover HTTP. Also, ensure the use of TLS 1.1 and 1.2 server protocols and disable all other protocols.</p>
+</li>
+</ul>
+<p><strong>Time-consuming customer onboarding (4–6 months)</strong></p>
+<p>One way to streamline the onboarding process is to integrate an integration platform as a service (iPaaS) solution. This platform, underpinned by API, ensures apps are integrated in a standardized way, which allows onboarding automation and quick and easy data exchange across applications.</p>
+<p><strong>Bulky file formats for enterprise resource planning (ERP) integration, requiring customization for each company</strong></p>
+<p>To process and transfer large files, you’ll need the tools and processes to break the large data files into small enough chunks. INSART can provide you with the solutions to solve this problem in a quick and efficient way.</p>
+<p><strong>Higher operating cost to run and maintain the specialized software needed</strong></p>
+<p>As we mentioned before, API integration and file-based integration can be used in parallel. Using APIs is usually more cost-efficient, because instead of amplifying the range of software used (which often requires special expertise), you can connect to another product and transfer data securely in real time.</p>
+<h3 id="common-issues-that-affect-api-integration-and-how-to-avoid-them">Common issues that affect API integration and how to avoid them</h3>
+<p><strong>Adoption and transition bottlenecks</strong></p>
+<p>To avert confusion and delays, make sure running is easy and the process is clear. Take into consideration legacy systems and old versions and put them into the adoption context to prevent unexpected failures.</p>
+<p><strong>A lack of API flexibility, consistency, and standards in services</strong></p>
+<p>Switching is expensive. That’s why it’s crucial to build the base for the future: come up with a strategy, choose only the tools you need, make the process consistent, document it, and set security standards to protect data. Also, it’s important to know what data you have and what to do with it: don’t miss an opportunity to monetize.</p>
+<p><strong>Backward compatibility</strong></p>
+<p>Someone can, for instance, swap out, unknown to an integrator currently working on the integration. Everyone should be aware of the steps being followed in the integration process, so communication is key.</p>
+<p>Technical debt due to legacy code with multiple layers is a whole load of extra work that hinders progress. Infrastructure as code and containerization techniques can help you avoid the problem.</p>
+<p><strong>Poor security and documentation</strong></p>
+<p>A lack of documentation or outdated information results in delays and lots of implementation bugs, so make sure that the process of building an API is thoroughly documented.</p>
+<p>Unclear integration requirements is another problem. Rather than pursuing some other purposes, put the application user first.</p>
+<p>Security vulnerabilities may lead to data breaches and losses. Ensure proper security standards and practices to save finances and business. Our materials on security can provide you with valuable insights.</p>
+<p>Optimizing for systems
+The ultimate consumer of your API will be a computer system, not a human. This means that some usual intuitions like minimizing the number of steps in a workflow don’t apply; it’s more important to make the building blocks as intuitive as possible for developers to build this computer system.</p>
+<p>Lack of consistency in API development
+Define your versioning strategy carefully, as developing APIs is like developing a language; changing APIs can break the computer system built on top of it.</p>
+<p>Assessing usability
+Consider creating either a client library for the API or a dummy application that consumes the API in parallel with the API itself. This allows you to create quicker feedback loops to test the usability of your APIs.</p>
+<p>Other issues
+API design management where new apps keep being added
+Vague and unclear error messages
+Unannounced changes
+The backend coding that is required to integrate with existing services is a complex and time-consuming endeavor
+Releases only once in two months—it’s impossible for integration to catch up since it takes three weeks to three months to fix one integration</p>
+
+            <footer class="footline">
+            </footer>
+          </article>
+    
+          <article>
+
 <h1>Architect Memi Lavi</h1>
 <ul>
 <li><a href="#what-is-software-architect">What is Software Architect</a></li>
@@ -240,6 +316,14 @@
 <p>Strategic goals are the specific financial and non-financial objectives and results a company aims to achieve over a specific period of time, usually the next three to five years.</p>
 <p><strong>VUCA</strong></p>
 <p>Volatike, Uncertain, Complex, Ambigious.</p>
+
+            <footer class="footline">
+            </footer>
+          </article>
+    
+          <article>
+
+<h1>File-Based Data Integration</h1>
 
             <footer class="footline">
             </footer>
@@ -445,9 +529,9 @@ One of the most common uses of scripting with Python is to perform administratio
           <input data-search-input id="search-by" type="search" placeholder="Search...">
           <span data-search-clear=""><i class="fas fa-times"></i></span>
         </div>
-        <script src="/connect2naresh/js/lunr.min.js?1666965952"></script>
-        <script src="/connect2naresh/js/auto-complete.js?1666965952"></script>
-        <script src="/connect2naresh/js/search.js?1666965952"></script>
+        <script src="/connect2naresh/js/lunr.min.js?1668581735"></script>
+        <script src="/connect2naresh/js/auto-complete.js?1668581735"></script>
+        <script src="/connect2naresh/js/search.js?1668581735"></script>
       </div>
       <div id="homelinks" class="default-animation">
         <ul>
@@ -513,12 +597,14 @@ One of the most common uses of scripting with Python is to perform administratio
           <li data-nav-id="/connect2naresh/technical/spring/" title="Spring Framework" class="dd-item alwaysopen"><input type="checkbox" id="section-65aa292aa059165a76cf2fc973d92cc0" class="toggle" checked/><label for="section-65aa292aa059165a76cf2fc973d92cc0" ></label><a href="/connect2naresh/technical/spring/"><b> + </b>Spring Framework</a><ul>
           <li data-nav-id="/connect2naresh/technical/spring/spring-frameworks/" title="Spring Framework" class="dd-item"><a href="/connect2naresh/technical/spring/spring-frameworks/">Spring Framework</a></li></ul></li>
           <li data-nav-id="/connect2naresh/technical/ms-api-management/" title="Microservices - API Management" class="dd-item"><a href="/connect2naresh/technical/ms-api-management/">Microservices - API Management</a></li>
+          <li data-nav-id="/connect2naresh/technical/file-api/" title="API and File Based Integration" class="dd-item"><a href="/connect2naresh/technical/file-api/">API and File Based Integration</a></li>
           <li data-nav-id="/connect2naresh/technical/architect-memi-lavi/" title="Architect Memi Lavi" class="dd-item"><a href="/connect2naresh/technical/architect-memi-lavi/">Architect Memi Lavi</a></li>
           <li data-nav-id="/connect2naresh/technical/aws-solution-architect/" title="AWS Solution Architect" class="dd-item"><a href="/connect2naresh/technical/aws-solution-architect/">AWS Solution Architect</a></li>
           <li data-nav-id="/connect2naresh/technical/digital-transformation/" title="Digital Transformation" class="dd-item"><a href="/connect2naresh/technical/digital-transformation/">Digital Transformation</a></li>
+          <li data-nav-id="/connect2naresh/technical/file-integration/" title="File-Based Data Integration" class="dd-item"><a href="/connect2naresh/technical/file-integration/">File-Based Data Integration</a></li>
           <li data-nav-id="/connect2naresh/technical/programming/" title="How To Learn Programming" class="dd-item"><a href="/connect2naresh/technical/programming/">How To Learn Programming</a></li>
           <li data-nav-id="/connect2naresh/technical/learn-programming/" title="Learn Programming" class="dd-item"><a href="/connect2naresh/technical/learn-programming/">Learn Programming</a></li>
-          <li data-nav-id="/connect2naresh/technical/microservices/" title="Microservices Architecture" class="dd-item"><a href="/connect2naresh/technical/microservices/">Microservices Architecture</a></li>
+          <li data-nav-id="/connect2naresh/technical/microservice/" title="Microservices Architecture" class="dd-item"><a href="/connect2naresh/technical/microservice/">Microservices Architecture</a></li>
           <li data-nav-id="/connect2naresh/technical/spring-framework/" title="Spring Framework" class="dd-item"><a href="/connect2naresh/technical/spring-framework/">Spring Framework</a></li>
           <li data-nav-id="/connect2naresh/technical/visual-code/" title="Visual Code Hacks" class="dd-item"><a href="/connect2naresh/technical/visual-code/">Visual Code Hacks</a></li>
           <li data-nav-id="/connect2naresh/technical/why-python/" title="Why Python" class="dd-item"><a href="/connect2naresh/technical/why-python/">Why Python</a></li></ul></li>
@@ -566,9 +652,9 @@ One of the most common uses of scripting with Python is to perform administratio
         </div>
       </div>
     </aside>
-    <script src="/connect2naresh/js/clipboard.min.js?1666965952"></script>
-    <script src="/connect2naresh/js/perfect-scrollbar.min.js?1666965952"></script>
-    <script src="/connect2naresh/js/featherlight.min.js?1666965952"></script>
-    <script src="/connect2naresh/js/theme.js?1666965952"></script>
+    <script src="/connect2naresh/js/clipboard.min.js?1668581735"></script>
+    <script src="/connect2naresh/js/perfect-scrollbar.min.js?1668581735"></script>
+    <script src="/connect2naresh/js/featherlight.min.js?1668581735"></script>
+    <script src="/connect2naresh/js/theme.js?1668581735"></script>
   </body>
 </html>
