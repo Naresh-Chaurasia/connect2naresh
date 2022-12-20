@@ -9,16 +9,16 @@
     <title>Technical :: Naresh Chaurasia</title>
     <link rel="canonical" type="text/html" href="/connect2naresh/technical/" title="Naresh Chaurasia" />
     <link rel="alternate" type="application/rss&#43;xml" href="/connect2naresh/technical/index.xml" title="Naresh Chaurasia" />
-    <link href="/connect2naresh/css/nucleus.css?1670726387" rel="stylesheet">
-    <link href="/connect2naresh/css/fontawesome-all.min.css?1670726387" rel="stylesheet">
-    <link href="/connect2naresh/css/featherlight.min.css?1670726387" rel="stylesheet">
-    <link href="/connect2naresh/css/perfect-scrollbar.min.css?1670726387" rel="stylesheet">
-    <link href="/connect2naresh/css/auto-complete.css?1670726387" rel="stylesheet">
-    <link href="/connect2naresh/css/theme.css?1670726387" rel="stylesheet">
-    <link href="/connect2naresh/css/theme-relearn-light.css?1670726387" rel="stylesheet" id="variant-style">
-    <link href="/connect2naresh/css/variant.css?1670726387" rel="stylesheet">
-    <link href="/connect2naresh/css/print.css?1670726387" rel="stylesheet">
-    <script src="/connect2naresh/js/variant.js?1670726387"></script>
+    <link href="/connect2naresh/css/nucleus.css?1671534845" rel="stylesheet">
+    <link href="/connect2naresh/css/fontawesome-all.min.css?1671534845" rel="stylesheet">
+    <link href="/connect2naresh/css/featherlight.min.css?1671534845" rel="stylesheet">
+    <link href="/connect2naresh/css/perfect-scrollbar.min.css?1671534845" rel="stylesheet">
+    <link href="/connect2naresh/css/auto-complete.css?1671534845" rel="stylesheet">
+    <link href="/connect2naresh/css/theme.css?1671534845" rel="stylesheet">
+    <link href="/connect2naresh/css/theme-relearn-light.css?1671534845" rel="stylesheet" id="variant-style">
+    <link href="/connect2naresh/css/variant.css?1671534845" rel="stylesheet">
+    <link href="/connect2naresh/css/print.css?1671534845" rel="stylesheet">
+    <script src="/connect2naresh/js/variant.js?1671534845"></script>
     <script>
       // hack to let hugo tell us how to get to the root when using relativeURLs, it needs to be called *url= for it to do its magic:
       // https://github.com/gohugoio/hugo/blob/145b3fcce35fbac25c7033c91c1b7ae6d1179da8/transform/urlreplacers/absurlreplacer.go#L72
@@ -34,7 +34,7 @@
       var baseUriFull='https:\/\/naresh-chaurasia.github.io\/connect2naresh/';
       variants.init( [ 'relearn-light' ] );
     </script>
-    <script src="/connect2naresh/js/jquery.min.js?1670726387"></script>
+    <script src="/connect2naresh/js/jquery.min.js?1671534845"></script>
   </head>
   <body class="mobile-support print" data-url="/connect2naresh/technical/">
     <div id="body" class="default-animation">
@@ -359,6 +359,53 @@ Releases only once in two months—it’s impossible for integration to catch up
     
           <article>
 
+<h1>Microservices Reference Implementation</h1>
+<h4 id="what-is-microservices">What is Microservices</h4>
+<p>Microservices is an architectural style that structures an application as a collection of services, communicating through lightweight protocols, that are</p>
+<ul>
+<li>Highly maintainable and testable</li>
+<li>Loosely coupled</li>
+<li>Independently deployable</li>
+<li>Organized around business capabilities</li>
+<li>Owned by a small team</li>
+</ul>
+<p>The microservice architecture enables the rapid, frequent and reliable delivery of large, complex applications. It also enables an organization to evolve its technology stack.</p>
+<hr>
+<h4 id="monolith-vs-microservices">Monolith V/s Microservices</h4>
+<p>We have a monolithic application which can be a single springboot application with multiple controller classes. Each controller class is responsible for one particular domain or a business capability, like, for example, working with users or working with a product or a search functionality. But all of these controllers are in one single springboot application. And if you make a change to any of these controllers, then you have to rebuild and redeploy the entire application.</p>
+<img src="/connect2naresh/technical/microservice-ri/../images/monolith-microservice.png">
+<p>If we look at Microservices architecture, then here we have multiple smaller web services rather than one a large monolithic Web service. This Web services are much smaller and each service is responsible for it&rsquo;s one thing for one particular  business capability. One Web service is responsible for working with user resource, like, for example, create and update user details while on the Web service is responsible only to perform the email verification functionality. These Web services can also be implemented in different programming languages and the hosted on different platforms.</p>
+<hr>
+<h4 id="microservices-architecture">Microservices Architecture</h4>
+<img src="/connect2naresh/technical/microservice-ri/../images/ms-architecture.png">
+<hr>
+<ul>
+<li><strong>Eureka</strong> Discovery Service</li>
+<li>Account Management Microservice - Registration, Login, Authentication, User Status</li>
+<li>Spring Cloud <strong>API Gateway</strong> as a <strong>Load Balancer</strong></li>
+<li>H2 In-Memory Database</li>
+<li>Spring Cloud API Gateway - Creating a Custom Filters, Gateway Global <strong>Filters</strong></li>
+<li>Spring Cloud <strong>Config Server</strong> - Git Backend</li>
+<li>Spring <strong>Cloud Bus</strong></li>
+<li>Spring Cloud Config - File System Backend</li>
+<li>Spring Cloud Config - Configuration for Multiple Microservices</li>
+<li>Spring Boot <strong>Actuator</strong></li>
+<li>Using MySQL Instead of In-Memory Database</li>
+<li>Encryption and Decryption</li>
+<li>Microservices Communication</li>
+<li>Microservices communications - <strong>Hystrix</strong> Circuit Breaker, <strong>Resilience4j</strong> - Circuit Breaker, Resilience4j - Retry.</li>
+<li>Distributed Tracing with <strong>Sleuth and Zipkin</strong></li>
+<li>Aggregaring Log Files with <strong>ELK Stack</strong></li>
+</ul>
+<hr>
+<p><a href="https://microservices.io/">https://microservices.io/</a></p>
+
+            <footer class="footline">
+            </footer>
+          </article>
+    
+          <article>
+
 <h1>Spring Framework</h1>
 <h3 id="actionable-items-for-blogging">Actionable Items for Blogging</h3>
 <ul>
@@ -498,9 +545,9 @@ One of the most common uses of scripting with Python is to perform administratio
           <input data-search-input id="search-by" type="search" placeholder="Search...">
           <span data-search-clear=""><i class="fas fa-times"></i></span>
         </div>
-        <script src="/connect2naresh/js/lunr.min.js?1670726387"></script>
-        <script src="/connect2naresh/js/auto-complete.js?1670726387"></script>
-        <script src="/connect2naresh/js/search.js?1670726387"></script>
+        <script src="/connect2naresh/js/lunr.min.js?1671534845"></script>
+        <script src="/connect2naresh/js/auto-complete.js?1671534845"></script>
+        <script src="/connect2naresh/js/search.js?1671534845"></script>
       </div>
       <div id="homelinks" class="default-animation">
         <ul>
@@ -517,6 +564,7 @@ One of the most common uses of scripting with Python is to perform administratio
           <li data-nav-id="/connect2naresh/books/atomic-habits/" title="Atomic Habits - James Clear" class="dd-item"><a href="/connect2naresh/books/atomic-habits/">Atomic Habits - James Clear</a></li>
           <li data-nav-id="/connect2naresh/books/ballroom-dancing/" title="Ballroom Dancing - JJ" class="dd-item"><a href="/connect2naresh/books/ballroom-dancing/">Ballroom Dancing - JJ</a></li>
           <li data-nav-id="/connect2naresh/books/book-summary/" title="Book Summary" class="dd-item"><a href="/connect2naresh/books/book-summary/">Book Summary</a></li>
+          <li data-nav-id="/connect2naresh/books/nice-guy/" title="Book Summary" class="dd-item"><a href="/connect2naresh/books/nice-guy/">Book Summary</a></li>
           <li data-nav-id="/connect2naresh/books/harry-lorrayne/" title="Harry Lorayne" class="dd-item"><a href="/connect2naresh/books/harry-lorrayne/">Harry Lorayne</a></li>
           <li data-nav-id="/connect2naresh/books/remember-book/" title="Remember The Book You Read" class="dd-item"><a href="/connect2naresh/books/remember-book/">Remember The Book You Read</a></li>
           <li data-nav-id="/connect2naresh/books/steal-like-artist/" title="Steal Like An Artist - Austin Kelon" class="dd-item"><a href="/connect2naresh/books/steal-like-artist/">Steal Like An Artist - Austin Kelon</a></li>
@@ -558,6 +606,7 @@ One of the most common uses of scripting with Python is to perform administratio
           <li data-nav-id="/connect2naresh/mind-body/chest-workout/" title="Chest Workout" class="dd-item"><a href="/connect2naresh/mind-body/chest-workout/">Chest Workout</a></li></ul></li>
           <li data-nav-id="/connect2naresh/soft-skills/" title="Soft Skills" class="dd-item"><input type="checkbox" id="section-b8da8998c8545f3acd7299f13c84cc73" class="toggle"/><label for="section-b8da8998c8545f3acd7299f13c84cc73" ></label><a href="/connect2naresh/soft-skills/"><b> + </b>Soft Skills</a><ul>
           <li data-nav-id="/connect2naresh/soft-skills/eq1/" title="Emotional Intelligence" class="dd-item"><a href="/connect2naresh/soft-skills/eq1/">Emotional Intelligence</a></li>
+          <li data-nav-id="/connect2naresh/soft-skills/eq2/" title="Emotional Intelligence: Anxiety, Fear &amp; Emotions" class="dd-item"><a href="/connect2naresh/soft-skills/eq2/">Emotional Intelligence: Anxiety, Fear &amp; Emotions</a></li>
           <li data-nav-id="/connect2naresh/soft-skills/eq-resolution/" title="EQ Resolution" class="dd-item"><a href="/connect2naresh/soft-skills/eq-resolution/">EQ Resolution</a></li>
           <li data-nav-id="/connect2naresh/soft-skills/journaling/" title="Journaling" class="dd-item"><a href="/connect2naresh/soft-skills/journaling/">Journaling</a></li>
           <li data-nav-id="/connect2naresh/soft-skills/pnp/" title="Prioritization &amp; Productivity" class="dd-item"><a href="/connect2naresh/soft-skills/pnp/">Prioritization &amp; Productivity</a></li></ul></li>
@@ -571,6 +620,7 @@ One of the most common uses of scripting with Python is to perform administratio
           <li data-nav-id="/connect2naresh/technical/programming/" title="How To Learn Programming" class="dd-item"><a href="/connect2naresh/technical/programming/">How To Learn Programming</a></li>
           <li data-nav-id="/connect2naresh/technical/learn-programming/" title="Learn Programming" class="dd-item"><a href="/connect2naresh/technical/learn-programming/">Learn Programming</a></li>
           <li data-nav-id="/connect2naresh/technical/microservice/" title="Microservices Architecture" class="dd-item"><a href="/connect2naresh/technical/microservice/">Microservices Architecture</a></li>
+          <li data-nav-id="/connect2naresh/technical/microservice-ri/" title="Microservices Reference Implementation" class="dd-item"><a href="/connect2naresh/technical/microservice-ri/">Microservices Reference Implementation</a></li>
           <li data-nav-id="/connect2naresh/technical/spring-framework/" title="Spring Framework" class="dd-item"><a href="/connect2naresh/technical/spring-framework/">Spring Framework</a></li>
           <li data-nav-id="/connect2naresh/technical/visual-code/" title="Visual Code Hacks" class="dd-item"><a href="/connect2naresh/technical/visual-code/">Visual Code Hacks</a></li>
           <li data-nav-id="/connect2naresh/technical/why-python/" title="Why Python" class="dd-item"><a href="/connect2naresh/technical/why-python/">Why Python</a></li></ul></li>
@@ -618,9 +668,9 @@ One of the most common uses of scripting with Python is to perform administratio
         </div>
       </div>
     </aside>
-    <script src="/connect2naresh/js/clipboard.min.js?1670726387"></script>
-    <script src="/connect2naresh/js/perfect-scrollbar.min.js?1670726387"></script>
-    <script src="/connect2naresh/js/featherlight.min.js?1670726387"></script>
-    <script src="/connect2naresh/js/theme.js?1670726387"></script>
+    <script src="/connect2naresh/js/clipboard.min.js?1671534845"></script>
+    <script src="/connect2naresh/js/perfect-scrollbar.min.js?1671534845"></script>
+    <script src="/connect2naresh/js/featherlight.min.js?1671534845"></script>
+    <script src="/connect2naresh/js/theme.js?1671534845"></script>
   </body>
 </html>
