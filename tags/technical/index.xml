@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical on Naresh Chaurasia</title>
+    <link>https://naresh-chaurasia.github.io/connect2naresh/tags/technical/</link>
+    <description>Recent content in Technical on Naresh Chaurasia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Jan 2022 08:00:12 +0530</lastBuildDate><atom:link href="https://naresh-chaurasia.github.io/connect2naresh/tags/technical/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Apigee Gateway</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/technical/apigee/</link>
+      <pubDate>Mon, 10 Jan 2022 08:00:12 +0530</pubDate>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/technical/apigee/</guid>
+      <description>API Management Use Case What is APIGEE API Management Use Case Organisation has decided to expose these APIs to other organisations (Clients) While doing so below challenges arise Expose as less complex REST API with API spec Track consumers (Developer apps) Traffic management Consider better security options Analytics Support Https and JSON payload Group services into Products and monetize Existing services are not scalable It will be great if all the above features can be added to APIs without the need to modify existing services This is where API Management platforms comes into picture What is APIGEE Apigee is an API Management platform that provides all the above mentioned capabilities and few more features</description>
+    </item>
+  </channel>
+</rss>
