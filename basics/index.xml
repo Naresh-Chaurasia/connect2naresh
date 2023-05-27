@@ -30,7 +30,14 @@ Shift + Command + Right Arrow: Entire Line Shift + Option + Right Arrow: Word by
       <link>https://naresh-chaurasia.github.io/connect2naresh/basics/images/</link>
       <pubDate>Fri, 15 Apr 2022 10:55:16 +0530</pubDate>
       <guid>https://naresh-chaurasia.github.io/connect2naresh/basics/images/</guid>
-      <description> </description>
+      <description>{{ $image := resources.Get &amp;ldquo;images/img.png&amp;rdquo; }}</description>
+    </item>
+    <item>
+      <title>images</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/basics/images2/</link>
+      <pubDate>Fri, 15 Apr 2022 10:55:16 +0530</pubDate>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/basics/images2/</guid>
+      <description>{{ $image := resources.GetRemote &amp;ldquo;https://gohugo.io/img/hugo-logo.png&amp;quot; }}</description>
     </item>
     <item>
       <title>iPhone Photography</title>
