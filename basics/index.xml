@@ -26,18 +26,11 @@ Working with Text Shift, Conrol, Option, Command
 Shift + Command + Right Arrow: Entire Line Shift + Option + Right Arrow: Word by Word Shift + Press Mouse at the End of Line: It will select entire line.</description>
     </item>
     <item>
-      <title>images</title>
-      <link>https://naresh-chaurasia.github.io/connect2naresh/basics/images/</link>
+      <title>Hugo</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/basics/hugo/</link>
       <pubDate>Fri, 15 Apr 2022 10:55:16 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/connect2naresh/basics/images/</guid>
-      <description>{{ $image := resources.Get &amp;ldquo;images/img.png&amp;rdquo; }}</description>
-    </item>
-    <item>
-      <title>images</title>
-      <link>https://naresh-chaurasia.github.io/connect2naresh/basics/images2/</link>
-      <pubDate>Fri, 15 Apr 2022 10:55:16 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/connect2naresh/basics/images2/</guid>
-      <description>{{ $image := resources.GetRemote &amp;ldquo;https://gohugo.io/img/hugo-logo.png&amp;quot; }}</description>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/basics/hugo/</guid>
+      <description> https://mcshelby.github.io/hugo-theme-relearn/cont/menushortcuts/index.html https://themes.gohugo.io/themes/hugo-theme-relearn/ file:///Users/nareshchaurasia/nc/Awakening-The-Giant/entrepreneur/Hugo.adoc </description>
     </item>
     <item>
       <title>iPhone Photography</title>
@@ -71,13 +64,6 @@ h1 Heading 8-) h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Horizontal
 (c) (C) (r) (R) (tm) (TM) (p) (P) +-
 test.. test&amp;hellip; test&amp;hellip;.. test?&amp;hellip;.. test!&amp;hellip;.
 !!!!!! ???? ,, &amp;ndash; &amp;mdash;</description>
-    </item>
-    <item>
-      <title>sammples</title>
-      <link>https://naresh-chaurasia.github.io/connect2naresh/basics/samples/</link>
-      <pubDate>Fri, 15 Apr 2022 10:55:16 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/connect2naresh/basics/samples/</guid>
-      <description> </description>
     </item>
   </channel>
 </rss>
