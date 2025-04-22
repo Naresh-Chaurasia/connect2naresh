@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://naresh-chaurasia.github.io/connect2naresh/core-java/</loc>
-    <lastmod>2022-06-17T10:15:38+05:30</lastmod>
-  </url>
-  <url>
     <loc>https://naresh-chaurasia.github.io/connect2naresh/basics/</loc>
     <lastmod>2022-04-15T10:55:16+05:30</lastmod>
+  </url>
+  <url>
+    <loc>https://naresh-chaurasia.github.io/connect2naresh/core-java/</loc>
+    <lastmod>2022-06-17T10:15:38+05:30</lastmod>
   </url>
   <url>
     <loc>https://naresh-chaurasia.github.io/connect2naresh/python/</loc>

@@ -8,13 +8,6 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Apr 2025 10:15:38 +0530</lastBuildDate><atom:link href="https://naresh-chaurasia.github.io/connect2naresh/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Core Java</title>
-      <link>https://naresh-chaurasia.github.io/connect2naresh/core-java/</link>
-      <pubDate>Fri, 17 Jun 2022 10:15:38 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/connect2naresh/core-java/</guid>
-      <description>Chapter X Some Chapter title Lorem Ipsum.</description>
-    </item>
-    <item>
       <title>Basics</title>
       <link>https://naresh-chaurasia.github.io/connect2naresh/basics/</link>
       <pubDate>Fri, 15 Apr 2022 10:55:16 +0530</pubDate>
@@ -23,11 +16,18 @@
 Hugo Documentation Visual Code Documentation IntelliJ documentation </description>
     </item>
     <item>
+      <title>Core Java</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/core-java/</link>
+      <pubDate>Fri, 17 Jun 2022 10:15:38 +0530</pubDate>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/core-java/</guid>
+      <description>Chapter X Some Chapter title Lorem Ipsum.</description>
+    </item>
+    <item>
       <title>Python</title>
       <link>https://naresh-chaurasia.github.io/connect2naresh/python/</link>
       <pubDate>Tue, 22 Apr 2025 10:15:38 +0530</pubDate>
       <guid>https://naresh-chaurasia.github.io/connect2naresh/python/</guid>
-      <description>Learn Python In today’s fast-evolving tech landscape, the choice of your first (or next) programming language can shape your career. If you&amp;rsquo;re wondering where to invest your time and effort, Python stands out as the smartest bet in 2025 and beyond.
+      <description>Python: The Future Of Programming In today’s fast-evolving tech landscape, the choice of your first (or next) programming language can shape your career. If you&amp;rsquo;re wondering where to invest your time and effort, Python stands out as the smartest bet in 2025 and beyond.
 🚀 Python Is Everywhere
 Python isn’t just a language; it’s a gateway into multiple booming industries:
 Web development: With frameworks like Django and Flask. Data science and machine learning: Powering tools used by data analysts, scientists, and AI engineers.</description>
