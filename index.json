@@ -1,17 +1,24 @@
 [
   {
-    "content": "Learn Python In today’s fast-evolving tech landscape, the choice of your first (or next) programming language can shape your career. If you’re wondering where to invest your time and effort, Python stands out as the smartest bet in 2025 and beyond.\n🚀 Python Is Everywhere\nPython isn’t just a language; it’s a gateway into multiple booming industries:\nWeb development: With frameworks like Django and Flask. Data science and machine learning: Powering tools used by data analysts, scientists, and AI engineers. Automation and DevOps: Simplify repetitive tasks and manage infrastructure. Cybersecurity: Used in scripting, automation, and threat detection tools. Finance and fintech: Driving quantitative research, analytics, and trading bots. Game development, IoT, and hardware interaction: Yes, Python does that too! 💼 Career Opportunities: Python Skills Are in High Demand\nLet’s talk about what matters most: jobs and income.\n🔍 Job Market Snapshot\nAccording to Indeed, Python consistently ranks among the top 3 most in-demand programming languages. The average Python developer salary in the US is $115,000+ per year, with senior roles going as high as $160,000 or more. Companies hiring Python developers include Google, Netflix, Amazon, NASA, IBM, and almost every startup in the tech world. Whether you’re an absolute beginner or someone switching careers, Python opens doors to roles like:\nPython Developer Data Analyst / Data Scientist Machine Learning Engineer Cloud Engineer Backend Developer Automation Tester DevOps Engineer 📈 Future of Python\nPython’s future looks incredibly bright, and here’s why:\nAI \u0026 Machine Learning Boom: Python is the go-to language for AI. Libraries like TensorFlow, PyTorch, Scikit-learn, and OpenAI’s tools are built for Python. Simplicity + Power = Longevity: Python’s readable syntax makes it ideal for beginners, but it’s powerful enough for experts building complex systems. Cross-industry adoption: From healthcare to space science, Python is everywhere. Its versatility ensures it remains relevant for decades. Strong Community and Ecosystem: With millions of developers worldwide, Python has a rich ecosystem of libraries, frameworks, and documentation. Cloud and Automation Growth: As companies move to the cloud and adopt DevOps, Python is becoming critical in managing infrastructure and writing cloud scripts. ",
-    "description": "",
-    "tags": null,
-    "title": "Python",
-    "uri": "/connect2naresh/python/"
-  },
-  {
     "content": "Chapter X Some Chapter title Lorem Ipsum.\n",
     "description": "",
     "tags": null,
     "title": "Core Java",
     "uri": "/connect2naresh/core-java/"
+  },
+  {
+    "content": "Basic Home Page This page contains basic getting started. This information is used extensively on day today basis.\nHugo Documentation Visual Code Documentation IntelliJ documentation ",
+    "description": "",
+    "tags": null,
+    "title": "Basics",
+    "uri": "/connect2naresh/basics/"
+  },
+  {
+    "content": "Learn Python In today’s fast-evolving tech landscape, the choice of your first (or next) programming language can shape your career. If you’re wondering where to invest your time and effort, Python stands out as the smartest bet in 2025 and beyond.\n🚀 Python Is Everywhere\nPython isn’t just a language; it’s a gateway into multiple booming industries:\nWeb development: With frameworks like Django and Flask. Data science and machine learning: Powering tools used by data analysts, scientists, and AI engineers. Automation and DevOps: Simplify repetitive tasks and manage infrastructure. Cybersecurity: Used in scripting, automation, and threat detection tools. Finance and fintech: Driving quantitative research, analytics, and trading bots. Game development, IoT, and hardware interaction: Yes, Python does that too! 💼 Career Opportunities: Python Skills Are in High Demand\nLet’s talk about what matters most: jobs and income.\n🔍 Job Market Snapshot\nAccording to Indeed, Python consistently ranks among the top 3 most in-demand programming languages. The average Python developer salary in the US is $115,000+ per year, with senior roles going as high as $160,000 or more. Companies hiring Python developers include Google, Netflix, Amazon, NASA, IBM, and almost every startup in the tech world. Whether you’re an absolute beginner or someone switching careers, Python opens doors to roles like:\nPython Developer Data Analyst / Data Scientist Machine Learning Engineer Cloud Engineer Backend Developer Automation Tester DevOps Engineer 📈 Future of Python\nPython’s future looks incredibly bright, and here’s why:\nAI \u0026 Machine Learning Boom: Python is the go-to language for AI. Libraries like TensorFlow, PyTorch, Scikit-learn, and OpenAI’s tools are built for Python. Simplicity + Power = Longevity: Python’s readable syntax makes it ideal for beginners, but it’s powerful enough for experts building complex systems. Cross-industry adoption: From healthcare to space science, Python is everywhere. Its versatility ensures it remains relevant for decades. Strong Community and Ecosystem: With millions of developers worldwide, Python has a rich ecosystem of libraries, frameworks, and documentation. Cloud and Automation Growth: As companies move to the cloud and adopt DevOps, Python is becoming critical in managing infrastructure and writing cloud scripts. ",
+    "description": "",
+    "tags": null,
+    "title": "Python",
+    "uri": "/connect2naresh/python/"
   },
   {
     "content": "",
@@ -33,6 +40,83 @@
     "tags": null,
     "title": "Core Java",
     "uri": "/connect2naresh/core-java/core-java/"
+  },
+  {
+    "content": "You do not rise to the level of your goals. You fall to the level of your systems\nlink text\nHello\nHello\npdf\n",
+    "description": "",
+    "tags": null,
+    "title": "bookmark",
+    "uri": "/connect2naresh/basics/bookmark/"
+  },
+  {
+    "content": "Bombay High Court\n",
+    "description": "",
+    "tags": null,
+    "title": "Dummy",
+    "uri": "/connect2naresh/basics/dummy/"
+  },
+  {
+    "content": " Boat 161 Skullcandy Headphone Boat 161 Skullcandy Headphone ",
+    "description": "",
+    "tags": null,
+    "title": "Gadgets",
+    "uri": "/connect2naresh/basics/gadgets/"
+  },
+  {
+    "content": " https://mcshelby.github.io/hugo-theme-relearn/cont/menushortcuts/index.html https://themes.gohugo.io/themes/hugo-theme-relearn/ file:///Users/nareshchaurasia/nc/Awakening-The-Giant/entrepreneur/Hugo.adoc ",
+    "description": "",
+    "tags": null,
+    "title": "Hugo",
+    "uri": "/connect2naresh/basics/hugo/"
+  },
+  {
+    "content": "",
+    "description": "",
+    "tags": null,
+    "title": "iPhone Photography",
+    "uri": "/connect2naresh/basics/iphone/"
+  },
+  {
+    "content": " Mac Book Pro Short Cuts Working With Files and Folders YES NO Screenshot: - Command + Shift + 3, 4, 5 - Command + Shift + 4 + Spacebar Keyboard Shortcuts February $80 March $420 Mac Book Pro Short Cuts Show Desktop -\u003e Command + F3 Split Window -\u003e https://support.apple.com/en-in/HT204948 Hidden File and Folders -\u003e Command + Shift + . (period) keys at the same time Working With Files and Folders Command + N -\u003e Open Finder While On Finder Window View Menu/Show Path Bar. From the Path Bar, Open finder in new Tab (Finder can be opened in multiple tabs) Top Right corner has + button to open new Finder Tab. Java Location: /Library/Java/JavaVirtualMachines/jdk-11.0.15.1.jdk/Contents/Home\nShort Cuts\nFinder: Command + n Side Bar, Path Bar\n",
+    "description": "",
+    "tags": null,
+    "title": "Mac Book Pro",
+    "uri": "/connect2naresh/basics/mac-book-pro/"
+  },
+  {
+    "content": " To switch between open windows in one kind of app. Hit command. Tilde. ",
+    "description": "",
+    "tags": null,
+    "title": "Macbook",
+    "uri": "/connect2naresh/basics/mac-book/"
+  },
+  {
+    "content": " Tips \u0026 Tricks Troubleshooting Tips \u0026 Tricks https://support.apple.com/en-in/guide/mac-help/mh40695/mac Troubleshooting There is another way you can evoke a new line with that command that works as it should, but you have to switch to the Mac’s Voice Control in the Accessibility in the System Preferences window. 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\n",
+    "description": "",
+    "tags": null,
+    "title": "MacBook Apple M1 Pro",
+    "uri": "/connect2naresh/basics/mac/"
+  },
+  {
+    "content": " Advertisement :)\npica - high quality and fast image resize in browser. babelfish - developer friendly i18n with plurals support and easy syntax. You will like those projects!\nh1 Heading 8-) h2 Heading h3 Heading h4 Heading h5 Heading h6 Heading Horizontal Rules Typographic replacements Enable typographer option to see result.\n(c) (C) (r) (R) (tm) (TM) (p) (P) +-\ntest.. test… test….. test?….. test!….\n!!!!!! ???? ,, – —\n“Smartypants, double quotes” and ‘single quotes’\nEmphasis This is bold text\nThis is bold text\nThis is italic text\nThis is italic text\nStrikethrough\nBlockquotes Blockquotes can also be nested…\n…by using additional greater-than signs right next to each other…\n…or with spaces between arrows.\nLists Unordered\nCreate a list by starting a line with +, -, or * Sub-lists are made by indenting 2 spaces: Marker character change forces new list start: Ac tristique libero volutpat at Facilisis in pretium nisl aliquet Nulla volutpat aliquam velit Very easy! Ordered\nLorem ipsum dolor sit amet\nConsectetur adipiscing elit\nInteger molestie lorem at massa\nYou can use sequential numbers…\n…or keep all the numbers as 1.\nStart numbering with offset:\nfoo bar Code Inline code\nIndented code\n// Some comments line 1 of code line 2 of code line 3 of code Block code “fences”\nSample text here... Syntax highlighting\nvar foo = function (bar) { return bar++; }; console.log(foo(5)); Tables Option Description data path to data files to supply the data that will be passed into templates. engine engine to be used for processing templates. Handlebars is the default. ext extension to be used for dest files. Right aligned columns\nOption Description data path to data files to supply the data that will be passed into templates. engine engine to be used for processing templates. Handlebars is the default. ext extension to be used for dest files. Links link text\nlink with title\nAutoconverted link https://github.com/nodeca/pica (enable linkify to see)\nImages Like links, Images also have a footnote style syntax\nWith a reference later in the document defining the URL location:\nPlugins The killer feature of markdown-it is very effective support of syntax plugins.\nEmojies Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:\nShortcuts (emoticons): :-) :-( 8-) ;)\nsee how to change output with twemoji.\nSubscript / Superscript 19^th^ H~2~O \u003cins\u003e ++Inserted text++\n\u003cmark\u003e ==Marked text==\nFootnotes Footnote 1 link1.\nFootnote 2 link2.\nInline footnote^[Text of inline footnote] definition.\nDuplicated footnote reference2.\nDefinition lists Term 1 Definition 1 with lazy continuation.\nTerm 2 with inline markup Definition 2\n{ some code, part of Definition 2 } Third paragraph of definition 2.\nCompact style:\nTerm 1 ~ Definition 1\nTerm 2 ~ Definition 2a ~ Definition 2b\nAbbreviations This is HTML abbreviation example.\nIt converts “HTML”, but keep intact partial entries like “xxxHTMLyyy” and so on.\n*[HTML]: Hyper Text Markup Language\nCustom containers ::: warning here be dragons :::\nFootnote can have markup\nand multiple paragraphs. ↩︎\nFootnote text. ↩︎ ↩︎\n",
+    "description": "",
+    "tags": null,
+    "title": "Mark Down",
+    "uri": "/connect2naresh/basics/mark-down/"
+  },
+  {
+    "content": "ScreenBrush Function + F1: Right Click: Clear Screen Right Click + Command: Flashlight Right Click + Option: Color Selection Wheel Changing Colors ",
+    "description": "",
+    "tags": null,
+    "title": "ScreenBrush",
+    "uri": "/connect2naresh/basics/screen-brush/"
+  },
+  {
+    "content": " ScreenBrush Notion Visual Studio iMovie The Complete iMovie Course - Rafi Saar Section 5 Section 7: Editing in the Timeline IntelliJ Mac Book Pro Apple Mac Basics - The Complete Course for beginners Working with Text iPhone ScreenBrush Function + F1: Right Click: Clear Screen Right Click + Command: Flashlight Right Click + Option: Color Selection Wheel Notion Tips and Tricks - Highlight and Control D. Awesome. Try. Feature. Select all. Drag and Drop Visual Studio iMovie The Complete iMovie Course - Rafi Saar Section 5 How to Favourite a clip. Section 7: Editing in the Timeline j,k,l keys - really cool Joining Splitted Clips IntelliJ Format Code: From the main menu, select Code | Reformat Code or press Ctrl+Alt+L Search in Folder: Ctrl+Shift+F Mac Book Pro Apple Mac Basics - The Complete Course for beginners Java Location: /Library/Java/JavaVirtualMachines/jdk-11.0.15.1.jdk/Contents/Home\nShort Cuts\nFinder: Command + n Side Bar, Path Bar\nWorking with Text Shift, Conrol, Option, Command\nShift + Command + Right Arrow: Entire Line Shift + Option + Right Arrow: Word by Word Shift + Press Mouse at the End of Line: It will select entire line. Read more here # It works!\nDownload file\nGeneral\n⌘ N New document ⌘ W Close document ⌘ O Open file ⌘ S Save document ⌘ Q Quit ⌘ H Hide app ⌘ M Minimize window ⌃ ⌘ F Full screen ⌘ P Print A A A A A A A A A ⌘ ⇧ ⌥ ⌃ ⏎ ⌫ ⎋ ⏏ ︎ ⇪ Command Shift Option Control Return Delete Escape Eject Caps Lock iPhone ",
+    "description": "",
+    "tags": null,
+    "title": "Tips \u0026 Tricks",
+    "uri": "/connect2naresh/basics/daily-tips-trick/"
   },
   {
     "content": "",

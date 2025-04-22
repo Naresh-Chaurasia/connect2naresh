@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://naresh-chaurasia.github.io/connect2naresh/python/</loc>
-    <lastmod>2025-04-22T10:15:38+05:30</lastmod>
-  </url>
-  <url>
     <loc>https://naresh-chaurasia.github.io/connect2naresh/core-java/</loc>
     <lastmod>2022-06-17T10:15:38+05:30</lastmod>
+  </url>
+  <url>
+    <loc>https://naresh-chaurasia.github.io/connect2naresh/basics/</loc>
+    <lastmod>2022-04-15T10:55:16+05:30</lastmod>
+  </url>
+  <url>
+    <loc>https://naresh-chaurasia.github.io/connect2naresh/python/</loc>
+    <lastmod>2025-04-22T10:15:38+05:30</lastmod>
   </url>
   <url>
     <loc>https://naresh-chaurasia.github.io/connect2naresh/</loc>
@@ -19,6 +23,50 @@
   <url>
     <loc>https://naresh-chaurasia.github.io/connect2naresh/core-java/core-java/</loc>
     <lastmod>2022-06-17T10:15:38+05:30</lastmod>
+  </url>
+  <url>
+    <loc>https://naresh-chaurasia.github.io/connect2naresh/basics/bookmark/</loc>
+    <lastmod>2022-04-15T10:55:16+05:30</lastmod>
+  </url>
+  <url>
+    <loc>https://naresh-chaurasia.github.io/connect2naresh/basics/dummy/</loc>
+    <lastmod>2022-04-15T10:55:16+05:30</lastmod>
+  </url>
+  <url>
+    <loc>https://naresh-chaurasia.github.io/connect2naresh/basics/gadgets/</loc>
+    <lastmod>2022-04-15T10:55:16+05:30</lastmod>
+  </url>
+  <url>
+    <loc>https://naresh-chaurasia.github.io/connect2naresh/basics/hugo/</loc>
+    <lastmod>2022-04-15T10:55:16+05:30</lastmod>
+  </url>
+  <url>
+    <loc>https://naresh-chaurasia.github.io/connect2naresh/basics/iphone/</loc>
+    <lastmod>2022-04-15T10:55:16+05:30</lastmod>
+  </url>
+  <url>
+    <loc>https://naresh-chaurasia.github.io/connect2naresh/basics/mac-book-pro/</loc>
+    <lastmod>2022-04-15T10:55:16+05:30</lastmod>
+  </url>
+  <url>
+    <loc>https://naresh-chaurasia.github.io/connect2naresh/basics/mac-book/</loc>
+    <lastmod>2022-04-15T10:55:16+05:30</lastmod>
+  </url>
+  <url>
+    <loc>https://naresh-chaurasia.github.io/connect2naresh/basics/mac/</loc>
+    <lastmod>2022-04-15T10:55:16+05:30</lastmod>
+  </url>
+  <url>
+    <loc>https://naresh-chaurasia.github.io/connect2naresh/basics/mark-down/</loc>
+    <lastmod>2022-04-15T10:55:16+05:30</lastmod>
+  </url>
+  <url>
+    <loc>https://naresh-chaurasia.github.io/connect2naresh/basics/screen-brush/</loc>
+    <lastmod>2022-04-15T10:55:16+05:30</lastmod>
+  </url>
+  <url>
+    <loc>https://naresh-chaurasia.github.io/connect2naresh/basics/daily-tips-trick/</loc>
+    <lastmod>2022-04-15T10:55:16+05:30</lastmod>
   </url>
   <url>
     <loc>https://naresh-chaurasia.github.io/connect2naresh/categories/</loc>
