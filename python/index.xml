@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Naresh Chaurasia</title>
+    <link>https://naresh-chaurasia.github.io/connect2naresh/python/</link>
+    <description>Recent content in Python on Naresh Chaurasia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Apr 2025 10:15:38 +0530</lastBuildDate><atom:link href="https://naresh-chaurasia.github.io/connect2naresh/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python Programming</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/python/python/</link>
+      <pubDate>Tue, 22 Apr 2025 10:15:38 +0530</pubDate>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/python/python/</guid>
+      <description>1. Introduction to Python Overview of Python Installation and Setup Python IDEs (PyCharm, VSCode, etc.) Writing and Running Your First Python Program 2. Basic Syntax and Operations Variables and Data Types Basic Input and Output Arithmetic, Comparison, and Logical Operators Python Comments and Documentation 3. Control Flow Conditional Statements (if, elif, else) Looping Constructs (for loop, while loop) break, continue, and pass Statements 4. Data Structures Lists Creating, Accessing, and Modifying Lists List Methods Tuples Differences between Lists and Tuples Dictionaries Key-Value Pairs, Common Methods Sets Creating Sets, Set Operations 5.</description>
+    </item>
+  </channel>
+</rss>

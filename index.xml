@@ -6,28 +6,16 @@
     <description>Recent content on Naresh Chaurasia</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Apr 2024 13:22:56 +0530</lastBuildDate><atom:link href="https://naresh-chaurasia.github.io/connect2naresh/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 22 Apr 2025 10:15:38 +0530</lastBuildDate><atom:link href="https://naresh-chaurasia.github.io/connect2naresh/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Blogs</title>
-      <link>https://naresh-chaurasia.github.io/connect2naresh/blogs/</link>
-      <pubDate>Wed, 27 Apr 2022 11:02:16 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/connect2naresh/blogs/</guid>
-      <description>Chapter X Some Chapter title Lorem Ipsum.</description>
-    </item>
-    <item>
-      <title>Books</title>
-      <link>https://naresh-chaurasia.github.io/connect2naresh/books/</link>
-      <pubDate>Fri, 15 Apr 2022 13:46:55 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/connect2naresh/books/</guid>
-      <description>Books </description>
-    </item>
-    <item>
-      <title>Basics</title>
-      <link>https://naresh-chaurasia.github.io/connect2naresh/basics/</link>
-      <pubDate>Fri, 15 Apr 2022 10:55:16 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/connect2naresh/basics/</guid>
-      <description>Basic Home Page This page contains basic getting started. This information is used extensively on day today basis.
-Hugo Documentation Visual Code Documentation IntelliJ documentation </description>
+      <title>Python</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/python/</link>
+      <pubDate>Tue, 22 Apr 2025 10:15:38 +0530</pubDate>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/python/</guid>
+      <description>Learn Python In today’s fast-evolving tech landscape, the choice of your first (or next) programming language can shape your career. If you&amp;rsquo;re wondering where to invest your time and effort, Python stands out as the smartest bet in 2025 and beyond.
+🚀 Python Is Everywhere
+Python isn’t just a language; it’s a gateway into multiple booming industries:
+Web development: With frameworks like Django and Flask. Data science and machine learning: Powering tools used by data analysts, scientists, and AI engineers.</description>
     </item>
     <item>
       <title>Core Java</title>
@@ -35,69 +23,6 @@ Hugo Documentation Visual Code Documentation IntelliJ documentation </descriptio
       <pubDate>Fri, 17 Jun 2022 10:15:38 +0530</pubDate>
       <guid>https://naresh-chaurasia.github.io/connect2naresh/core-java/</guid>
       <description>Chapter X Some Chapter title Lorem Ipsum.</description>
-    </item>
-    <item>
-      <title>Course</title>
-      <link>https://naresh-chaurasia.github.io/connect2naresh/course/</link>
-      <pubDate>Mon, 25 Apr 2022 14:48:23 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/connect2naresh/course/</guid>
-      <description>Course Courses Welcome to Courses</description>
-    </item>
-    <item>
-      <title>Dance</title>
-      <link>https://naresh-chaurasia.github.io/connect2naresh/dance/</link>
-      <pubDate>Mon, 29 Apr 2024 13:22:56 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/connect2naresh/dance/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Mind Maps</title>
-      <link>https://naresh-chaurasia.github.io/connect2naresh/mind-maps/</link>
-      <pubDate>Tue, 21 Jun 2022 16:16:58 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/connect2naresh/mind-maps/</guid>
-      <description>Chapter X Some Chapter title Lorem Ipsum.</description>
-    </item>
-    <item>
-      <title>Memory Palaces</title>
-      <link>https://naresh-chaurasia.github.io/connect2naresh/memory-palaces/</link>
-      <pubDate>Mon, 13 Jun 2022 17:19:18 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/connect2naresh/memory-palaces/</guid>
-      <description>Memory Palaces </description>
-    </item>
-    <item>
-      <title>Mind &amp; Body</title>
-      <link>https://naresh-chaurasia.github.io/connect2naresh/mind-body/</link>
-      <pubDate>Sun, 12 Jun 2022 16:52:49 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/connect2naresh/mind-body/</guid>
-      <description>Chapter X Some Chapter title Lorem Ipsum.</description>
-    </item>
-    <item>
-      <title>Soft Skills</title>
-      <link>https://naresh-chaurasia.github.io/connect2naresh/soft-skills/</link>
-      <pubDate>Mon, 28 Aug 2023 13:22:56 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/connect2naresh/soft-skills/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Technical</title>
-      <link>https://naresh-chaurasia.github.io/connect2naresh/technical/</link>
-      <pubDate>Tue, 25 Oct 2022 10:00:00 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/connect2naresh/technical/</guid>
-      <description>Chapter X Some Chapter title Lorem Ipsum.</description>
-    </item>
-    <item>
-      <title>Up Skill</title>
-      <link>https://naresh-chaurasia.github.io/connect2naresh/up-skill/</link>
-      <pubDate>Tue, 03 May 2022 15:53:08 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/connect2naresh/up-skill/</guid>
-      <description>Up Skill Weight 100 </description>
-    </item>
-    <item>
-      <title>Media Folder</title>
-      <link>https://naresh-chaurasia.github.io/connect2naresh/images/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://naresh-chaurasia.github.io/connect2naresh/images/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
