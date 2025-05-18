@@ -16,5 +16,12 @@
 In the beginning, you&amp;rsquo;ll learn how to install Python on your computer, explore popular code editors like VS Code and PyCharm, and write your very first Python program.
 You&amp;rsquo;ll also understand how Python code runs, how to use the Python interpreter, and get comfortable with basic tools that make coding fun and efficient.</description>
     </item>
+    <item>
+      <title>Python Selenium Automation</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/python/python-selenium/</link>
+      <pubDate>Tue, 22 Apr 2025 10:15:38 +0530</pubDate>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/python/python-selenium/</guid>
+      <description>📚 Table of Contents 1. Introduction to Selenium and Python 2. Python Fundamentals (Prerequisite Topics) 3. Getting Started with Selenium 4. Interacting with Web Elements 5. Handling Web Elements 6. Advanced Python for Selenium 7. Advanced Selenium Techniques 8. Data-Driven Testing 9. Selenium with PyTest Framework 10. Page Object Model (POM) and Design Patterns 11. Cross-Browser and Parallel Testing 12. Continuous Integration and Reporting 13. Best Practices and Optimization 14. Project: End-to-End Test Automation 15.</description>
+    </item>
   </channel>
 </rss>

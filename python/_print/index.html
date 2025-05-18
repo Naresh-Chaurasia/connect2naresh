@@ -9,16 +9,16 @@
     <title>Python :: Naresh Chaurasia</title>
     <link rel="canonical" type="text/html" href="/connect2naresh/python/" title="Naresh Chaurasia" />
     <link rel="alternate" type="application/rss&#43;xml" href="/connect2naresh/python/index.xml" title="Naresh Chaurasia" />
-    <link href="/connect2naresh/css/nucleus.css?1746543903" rel="stylesheet">
-    <link href="/connect2naresh/css/fontawesome-all.min.css?1746543903" rel="stylesheet">
-    <link href="/connect2naresh/css/featherlight.min.css?1746543903" rel="stylesheet">
-    <link href="/connect2naresh/css/perfect-scrollbar.min.css?1746543903" rel="stylesheet">
-    <link href="/connect2naresh/css/auto-complete.css?1746543903" rel="stylesheet">
-    <link href="/connect2naresh/css/theme.css?1746543903" rel="stylesheet">
-    <link href="/connect2naresh/css/theme-relearn-light.css?1746543903" rel="stylesheet" id="variant-style">
-    <link href="/connect2naresh/css/variant.css?1746543903" rel="stylesheet">
-    <link href="/connect2naresh/css/print.css?1746543903" rel="stylesheet">
-    <script src="/connect2naresh/js/variant.js?1746543903"></script>
+    <link href="/connect2naresh/css/nucleus.css?1747538560" rel="stylesheet">
+    <link href="/connect2naresh/css/fontawesome-all.min.css?1747538560" rel="stylesheet">
+    <link href="/connect2naresh/css/featherlight.min.css?1747538560" rel="stylesheet">
+    <link href="/connect2naresh/css/perfect-scrollbar.min.css?1747538560" rel="stylesheet">
+    <link href="/connect2naresh/css/auto-complete.css?1747538560" rel="stylesheet">
+    <link href="/connect2naresh/css/theme.css?1747538560" rel="stylesheet">
+    <link href="/connect2naresh/css/theme-relearn-light.css?1747538560" rel="stylesheet" id="variant-style">
+    <link href="/connect2naresh/css/variant.css?1747538560" rel="stylesheet">
+    <link href="/connect2naresh/css/print.css?1747538560" rel="stylesheet">
+    <script src="/connect2naresh/js/variant.js?1747538560"></script>
     <script>
       // hack to let hugo tell us how to get to the root when using relativeURLs, it needs to be called *url= for it to do its magic:
       // https://github.com/gohugoio/hugo/blob/145b3fcce35fbac25c7033c91c1b7ae6d1179da8/transform/urlreplacers/absurlreplacer.go#L72
@@ -34,7 +34,7 @@
       var baseUriFull='https:\/\/naresh-chaurasia.github.io\/connect2naresh/';
       variants.init( [ 'relearn-light' ] );
     </script>
-    <script src="/connect2naresh/js/jquery.min.js?1746543903"></script>
+    <script src="/connect2naresh/js/jquery.min.js?1747538560"></script>
   </head>
   <body class="mobile-support print" data-url="/connect2naresh/python/">
     <div id="body" class="default-animation">
@@ -369,6 +369,308 @@ Choose an option:
             <footer class="footline">
             </footer>
           </article>
+    
+          <article>
+
+<h1>Python Selenium Automation</h1>
+<h2 id="-table-of-contents">📚 Table of Contents</h2>
+<ul>
+<li><a href="#1-introduction-to-selenium-and-python">1. Introduction to Selenium and Python</a></li>
+<li><a href="#2-python-fundamentals-prerequisite-topics">2. Python Fundamentals (Prerequisite Topics)</a></li>
+<li><a href="#3-getting-started-with-selenium">3. Getting Started with Selenium</a></li>
+<li><a href="#4-interacting-with-web-elements">4. Interacting with Web Elements</a></li>
+<li><a href="#5-handling-web-elements">5. Handling Web Elements</a></li>
+<li><a href="#6-advanced-python-for-selenium">6. Advanced Python for Selenium</a></li>
+<li><a href="#7-advanced-selenium-techniques">7. Advanced Selenium Techniques</a></li>
+<li><a href="#8-data-driven-testing">8. Data-Driven Testing</a></li>
+<li><a href="#9-selenium-with-pytest-framework">9. Selenium with PyTest Framework</a></li>
+<li><a href="#10-page-object-model-pom-and-design-patterns">10. Page Object Model (POM) and Design Patterns</a></li>
+<li><a href="#11-cross-browser-and-parallel-testing">11. Cross-Browser and Parallel Testing</a></li>
+<li><a href="#12-continuous-integration-and-reporting">12. Continuous Integration and Reporting</a></li>
+<li><a href="#13-best-practices-and-optimization">13. Best Practices and Optimization</a></li>
+<li><a href="#14-project-end-to-end-test-automation">14. Project: End-to-End Test Automation</a></li>
+<li><a href="#15-mock-interview-preparation">15. Mock Interview Preparation</a></li>
+<li><a href="#16-assignments-and-exercises">16. Assignments and Exercises</a></li>
+</ul>
+<hr>
+<h2 id="1-introduction-to-selenium-and-python">1. Introduction to Selenium and Python</h2>
+<ul>
+<li>What is Selenium?</li>
+<li>Importance of automation testing.</li>
+<li>Overview of Python and why it is used with Selenium.</li>
+<li>Setting up Python and IDE (PyCharm, VS Code).</li>
+<li>Installing Selenium and necessary libraries.</li>
+</ul>
+<p><em>Mock interview sessions on Selenium and Python basics will be conducted regularly.</em></p>
+<hr>
+<h2 id="2-python-fundamentals-prerequisite-topics">2. Python Fundamentals (Prerequisite Topics)</h2>
+<p><strong>Python Basics</strong></p>
+<ul>
+<li>Python syntax and structure.</li>
+<li>Variables and data types (int, float, string, boolean).</li>
+<li>Basic input and output.</li>
+</ul>
+<p><strong>Operators in Python</strong></p>
+<ul>
+<li>Arithmetic, comparison, and logical operators.</li>
+<li>Assignment and membership operators.</li>
+</ul>
+<p><strong>Control Flow</strong></p>
+<ul>
+<li><code>if</code>, <code>else</code>, <code>elif</code> statements.</li>
+<li>Nested conditions.</li>
+</ul>
+<p><strong>Loops in Python</strong></p>
+<ul>
+<li><code>for</code> and <code>while</code> loops.</li>
+<li>Using <code>break</code>, <code>continue</code>, and <code>pass</code> statements.</li>
+</ul>
+<p><strong>Functions in Python</strong></p>
+<ul>
+<li>Defining and calling functions.</li>
+<li>Function parameters and return values.</li>
+<li>Lambda functions.</li>
+</ul>
+<p><strong>Exception Handling</strong></p>
+<ul>
+<li><code>try</code>, <code>except</code>, <code>finally</code> blocks.</li>
+<li>Handling multiple exceptions.</li>
+</ul>
+<p><strong>File Handling</strong></p>
+<ul>
+<li>Reading and writing files.</li>
+<li>Using <code>with open()</code> for file management.</li>
+</ul>
+<p><strong>Working with Libraries</strong></p>
+<ul>
+<li>Importing libraries.</li>
+<li>Using <code>pip</code> for package management.</li>
+</ul>
+<p><em>Mock interview sessions on Python fundamentals will be conducted regularly.</em></p>
+<hr>
+<h2 id="3-getting-started-with-selenium">3. Getting Started with Selenium</h2>
+<ul>
+<li>Introduction to WebDriver.</li>
+<li>Inspecting web elements (HTML, CSS, XPath).</li>
+<li>Locating elements:
+<ul>
+<li>By ID, Name, Class, Tag Name.</li>
+<li>By CSS Selector and XPath.</li>
+</ul>
+</li>
+<li>Browser navigation commands:
+<ul>
+<li><code>get()</code>, <code>back()</code>, <code>forward()</code>, <code>refresh()</code>.</li>
+</ul>
+</li>
+</ul>
+<p><em>Mock interview sessions on Selenium basics will be conducted regularly.</em></p>
+<hr>
+<h2 id="4-interacting-with-web-elements">4. Interacting with Web Elements</h2>
+<ul>
+<li>Performing actions:
+<ul>
+<li>Clicking buttons.</li>
+<li>Entering text into input fields.</li>
+<li>Selecting dropdown options.</li>
+</ul>
+</li>
+<li>Handling checkboxes and radio buttons.</li>
+<li>Submitting forms.</li>
+<li>Working with keyboard and mouse events:
+<ul>
+<li><code>send_keys()</code></li>
+<li><code>ActionChains</code></li>
+</ul>
+</li>
+</ul>
+<p><em>Mock interview sessions on interacting with web elements will be conducted regularly.</em></p>
+<hr>
+<h2 id="5-handling-web-elements">5. Handling Web Elements</h2>
+<ul>
+<li>Working with static and dynamic web pages.</li>
+<li>Handling waits:
+<ul>
+<li>Implicit wait.</li>
+<li>Explicit wait.</li>
+<li>Fluent wait.</li>
+</ul>
+</li>
+<li>Handling alerts, pop-ups, and confirmations.</li>
+<li>Working with iframes.</li>
+</ul>
+<p><em>Mock interview sessions on handling web elements will be conducted regularly.</em></p>
+<hr>
+<h2 id="6-advanced-python-for-selenium">6. Advanced Python for Selenium</h2>
+<p><strong>Object-Oriented Programming (OOP)</strong></p>
+<ul>
+<li>Classes and objects.</li>
+<li>Inheritance and polymorphism.</li>
+<li>Encapsulation.</li>
+</ul>
+<p><strong>List, Tuple, Dictionary, and Set</strong></p>
+<ul>
+<li>Operations and methods.</li>
+<li>Iterating through collections.</li>
+</ul>
+<p><strong>Comprehensions</strong></p>
+<ul>
+<li>List, dictionary, and set comprehensions.</li>
+</ul>
+<p><strong>Regular Expressions</strong></p>
+<ul>
+<li>Using <code>re</code> module.</li>
+<li>Pattern matching and searching.</li>
+</ul>
+<p><strong>Date and Time Handling</strong></p>
+<ul>
+<li>Using <code>datetime</code> module.</li>
+<li>Formatting and parsing dates.</li>
+</ul>
+<p><strong>Working with JSON and CSV Files</strong></p>
+<ul>
+<li>Reading and writing JSON.</li>
+<li>Using <code>csv</code> module for CSV files.</li>
+</ul>
+<p><em>Mock interview sessions on advanced Python topics will be conducted regularly.</em></p>
+<hr>
+<h2 id="7-advanced-selenium-techniques">7. Advanced Selenium Techniques</h2>
+<ul>
+<li>Taking screenshots.</li>
+<li>Executing JavaScript with Selenium.</li>
+<li>Working with multiple browser windows and tabs.</li>
+<li>Handling browser cookies.</li>
+<li>Downloading and uploading files using Selenium.</li>
+</ul>
+<p><em>Mock interview sessions on advanced Selenium techniques will be conducted regularly.</em></p>
+<hr>
+<h2 id="8-data-driven-testing">8. Data-Driven Testing</h2>
+<ul>
+<li>Introduction to data-driven testing.</li>
+<li>Reading data from:
+<ul>
+<li>Excel files using <code>openpyxl</code>.</li>
+<li>CSV files.</li>
+</ul>
+</li>
+<li>Parameterizing test cases.</li>
+</ul>
+<p><em>Mock interview sessions on data-driven testing will be conducted regularly.</em></p>
+<hr>
+<h2 id="9-selenium-with-pytest-framework">9. Selenium with PyTest Framework</h2>
+<ul>
+<li>Introduction to PyTest.</li>
+<li>Setting up PyTest with Selenium.</li>
+<li>Writing and running test cases.</li>
+<li>Using assertions in PyTest.</li>
+<li>Implementing fixtures.</li>
+<li>Generating test reports.</li>
+</ul>
+<p><em>Mock interview sessions on PyTest framework will be conducted regularly.</em></p>
+<hr>
+<h2 id="10-page-object-model-pom-and-design-patterns">10. Page Object Model (POM) and Design Patterns</h2>
+<ul>
+<li>What is POM and why use it?</li>
+<li>Creating page classes.</li>
+<li>Separating test logic from page actions.</li>
+<li>Implementing reusable components.</li>
+<li>Using POM with PyTest.</li>
+</ul>
+<p><em>Mock interview sessions on POM and design patterns will be conducted regularly.</em></p>
+<hr>
+<h2 id="11-cross-browser-and-parallel-testing">11. Cross-Browser and Parallel Testing</h2>
+<ul>
+<li>Running tests on different browsers (Chrome, Firefox, Edge).</li>
+<li>Using <code>pytest-xdist</code> for parallel execution.</li>
+<li>Running headless browser tests.</li>
+</ul>
+<p><em>Mock interview sessions on cross-browser and parallel testing will be conducted regularly.</em></p>
+<hr>
+<h2 id="12-continuous-integration-and-reporting">12. Continuous Integration and Reporting</h2>
+<ul>
+<li>Integrating Selenium with GitHub Actions.</li>
+<li>Generating HTML reports.</li>
+<li>Using Allure for better reporting.</li>
+<li>Running tests in CI/CD pipelines.</li>
+</ul>
+<p><em>Mock interview sessions on CI/CD and reporting will be conducted regularly.</em></p>
+<hr>
+<h2 id="13-best-practices-and-optimization">13. Best Practices and Optimization</h2>
+<ul>
+<li>Writing efficient and maintainable Selenium scripts.</li>
+<li>Using reusable functions and utilities.</li>
+<li>Handling flaky tests and retries.</li>
+<li>Optimizing test execution time.</li>
+</ul>
+<p><em>Mock interview sessions on best practices will be conducted regularly.</em></p>
+<hr>
+<h2 id="14-project-end-to-end-test-automation">14. Project: End-to-End Test Automation</h2>
+<ul>
+<li>Creating a sample project.</li>
+<li>Automating an e-commerce website.</li>
+<li>Performing:
+<ul>
+<li>User login/logout.</li>
+<li>Adding items to the cart.</li>
+<li>Checkout process.</li>
+</ul>
+</li>
+<li>Generating reports and analyzing results.</li>
+</ul>
+<p><em>Mock interview sessions on end-to-end test automation will be conducted regularly.</em></p>
+<hr>
+<h2 id="15-mock-interview-preparation">15. Mock Interview Preparation</h2>
+<p><strong>Mock Interview Sessions</strong></p>
+<ul>
+<li>Conducting mock interviews simulating real interview scenarios.</li>
+<li>Asking practical and theoretical Selenium + Python questions.</li>
+</ul>
+<p><strong>Behavioral and Technical Questions</strong></p>
+<ul>
+<li>Common interview questions for automation testers.</li>
+<li>Questions on Python fundamentals and Selenium commands.</li>
+<li>Questions on PyTest, POM, and reporting.</li>
+</ul>
+<p><strong>Coding Challenges</strong></p>
+<ul>
+<li>Writing automation scripts under time constraints.</li>
+<li>Solving Python-based automation problems.</li>
+<li>Debugging and optimizing code.</li>
+</ul>
+<hr>
+<h2 id="16-assignments-and-exercises">16. Assignments and Exercises</h2>
+<p><strong>Objective Assignments</strong></p>
+<ul>
+<li>Multiple-choice questions covering:
+<ul>
+<li>Selenium fundamentals.</li>
+<li>Python basics and advanced concepts.</li>
+<li>PyTest framework.</li>
+</ul>
+</li>
+<li>Testing concepts with practical scenarios.</li>
+</ul>
+<p><strong>Coding Assignments</strong></p>
+<ul>
+<li>Writing Selenium scripts for:
+<ul>
+<li>Form submission and validation.</li>
+<li>Dynamic element handling.</li>
+<li>Data-driven test execution.</li>
+</ul>
+</li>
+<li>Creating POM-based test frameworks.</li>
+<li>Running cross-browser and parallel tests.</li>
+</ul>
+<p><strong>Debugging Challenges</strong></p>
+<ul>
+<li>Identifying and fixing issues in sample Selenium scripts.</li>
+<li>Optimizing slow or failing test cases.</li>
+</ul>
+
+            <footer class="footline">
+            </footer>
+          </article>
           </section>
         </div>
       </main>
@@ -441,9 +743,9 @@ Choose an option:
           <input data-search-input id="search-by" type="search" placeholder="Search...">
           <span data-search-clear=""><i class="fas fa-times"></i></span>
         </div>
-        <script src="/connect2naresh/js/lunr.min.js?1746543903"></script>
-        <script src="/connect2naresh/js/auto-complete.js?1746543903"></script>
-        <script src="/connect2naresh/js/search.js?1746543903"></script>
+        <script src="/connect2naresh/js/lunr.min.js?1747538560"></script>
+        <script src="/connect2naresh/js/auto-complete.js?1747538560"></script>
+        <script src="/connect2naresh/js/search.js?1747538560"></script>
       </div>
       <div id="homelinks" class="default-animation">
         <ul>
@@ -469,7 +771,8 @@ Choose an option:
           <li data-nav-id="/connect2naresh/core-java/" title="Core Java" class="dd-item"><input type="checkbox" id="section-dd26c60accd22f6b9a54ab75d3b37561" class="toggle"/><label for="section-dd26c60accd22f6b9a54ab75d3b37561" ></label><a href="/connect2naresh/core-java/"><b> + </b>Core Java</a><ul>
           <li data-nav-id="/connect2naresh/core-java/core-java/" title="Core Java" class="dd-item"><a href="/connect2naresh/core-java/core-java/">Core Java</a></li></ul></li>
           <li data-nav-id="/connect2naresh/python/" title="Python" class="dd-item active"><input type="checkbox" id="section-c8861a2651b27ee3930a98ce392020d1" class="toggle"/><label for="section-c8861a2651b27ee3930a98ce392020d1" ></label><a href="/connect2naresh/python/"><b> + </b>Python</a><ul>
-          <li data-nav-id="/connect2naresh/python/python/" title="Python Programming" class="dd-item"><a href="/connect2naresh/python/python/">Python Programming</a></li></ul></li>
+          <li data-nav-id="/connect2naresh/python/python/" title="Python Programming" class="dd-item"><a href="/connect2naresh/python/python/">Python Programming</a></li>
+          <li data-nav-id="/connect2naresh/python/python-selenium/" title="Python Selenium Automation" class="dd-item"><a href="/connect2naresh/python/python-selenium/">Python Selenium Automation</a></li></ul></li>
         </ul>
         <div class="footermargin footerLangSwitch footerVariantSwitch footerVisitedLinks footerFooter showFooter"></div>
         <hr class="default-animation footerLangSwitch footerVariantSwitch footerVisitedLinks footerFooter showFooter"/>
@@ -507,9 +810,9 @@ Choose an option:
         </div>
       </div>
     </aside>
-    <script src="/connect2naresh/js/clipboard.min.js?1746543903"></script>
-    <script src="/connect2naresh/js/perfect-scrollbar.min.js?1746543903"></script>
-    <script src="/connect2naresh/js/featherlight.min.js?1746543903"></script>
-    <script src="/connect2naresh/js/theme.js?1746543903"></script>
+    <script src="/connect2naresh/js/clipboard.min.js?1747538560"></script>
+    <script src="/connect2naresh/js/perfect-scrollbar.min.js?1747538560"></script>
+    <script src="/connect2naresh/js/featherlight.min.js?1747538560"></script>
+    <script src="/connect2naresh/js/theme.js?1747538560"></script>
   </body>
 </html>
