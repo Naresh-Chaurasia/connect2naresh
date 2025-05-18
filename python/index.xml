@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Apr 2025 10:15:38 +0530</lastBuildDate><atom:link href="https://naresh-chaurasia.github.io/connect2naresh/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Python Basics</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/python/python-basic/</link>
+      <pubDate>Tue, 22 Apr 2025 10:15:38 +0530</pubDate>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/python/python-basic/</guid>
+      <description>Python is a simple, easy-to-learn programming language that&amp;rsquo;s perfect for beginners. It uses clean, readable syntax that feels like writing plain English, making it a great first language for anyone new to coding.
+In the beginning, you&amp;rsquo;ll learn how to install Python on your computer, explore popular code editors like VS Code and PyCharm, and write your very first Python program.
+You&amp;rsquo;ll also understand how Python code runs, how to use the Python interpreter, and get comfortable with basic tools that make coding fun and efficient.</description>
+    </item>
+    <item>
       <title>Python Programming</title>
       <link>https://naresh-chaurasia.github.io/connect2naresh/python/python/</link>
       <pubDate>Tue, 22 Apr 2025 10:15:38 +0530</pubDate>
