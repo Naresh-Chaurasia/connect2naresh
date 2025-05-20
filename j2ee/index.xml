@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>J2EE on Naresh Chaurasia</title>
+    <link>https://naresh-chaurasia.github.io/connect2naresh/j2ee/</link>
+    <description>Recent content in J2EE on Naresh Chaurasia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Jun 2022 10:15:38 +0530</lastBuildDate><atom:link href="https://naresh-chaurasia.github.io/connect2naresh/j2ee/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Spring Tech Stack</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/j2ee/spring-tech-stack/</link>
+      <pubDate>Fri, 17 Jun 2022 10:15:38 +0530</pubDate>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/j2ee/spring-tech-stack/</guid>
+      <description>🚀 Full Course: Enterprise Java Development with Spring &amp;amp; Docker 📘 Table of Contents 1. 🌱 Spring Framework 2. ⚡ Spring Boot 3. ☁️ Spring Cloud 4. 🧩 Spring Microservices 5. 🗃️ Spring Data JPA 6. 🛠️ Hibernate Framework 7. 🐳 Docker 8. 🔐 Security with Spring and JWT 9. 📚 Microservice Project 1 - Book Management System 10. 🛒 Microservice Project 2 - Online Order Processing System 1. 🌱 Spring Framework 1.</description>
+    </item>
+  </channel>
+</rss>
