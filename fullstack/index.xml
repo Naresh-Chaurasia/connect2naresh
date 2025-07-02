@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FullStack on Naresh Chaurasia</title>
+    <link>https://naresh-chaurasia.github.io/connect2naresh/fullstack/</link>
+    <description>Recent content in FullStack on Naresh Chaurasia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Jun 2022 10:15:38 +0530</lastBuildDate><atom:link href="https://naresh-chaurasia.github.io/connect2naresh/fullstack/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Java Full Stack (React &#43; Angular)</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/fullstack/spring-tech-stack/</link>
+      <pubDate>Fri, 17 Jun 2022 10:15:38 +0530</pubDate>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/fullstack/spring-tech-stack/</guid>
+      <description>Table of Contents HTML5 CSS3 JavaScript Bootstrap 5 jQuery ANSI SQL Using MySQL Core Java Agile Methodology Design Principles Spring with Maven TDD using JUnit and Mockito Logging and Continuous Code Quality GIT Application Debugging - Backend Spring Data JPA with Spring Boot and Hibernate Spring REST with Spring Boot 3 Microservices with Spring Boot 3 and Spring Cloud React Application Debugging - Frontend Angular (v16) Projects HTML5 Introduction Getting Started Elements &amp;amp; Attributes Navigation Events Web Forms 2.</description>
+    </item>
+  </channel>
+</rss>
