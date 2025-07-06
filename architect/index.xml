@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Architect on Naresh Chaurasia</title>
+    <link>https://naresh-chaurasia.github.io/connect2naresh/architect/</link>
+    <description>Recent content in Architect on Naresh Chaurasia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Apr 2025 10:15:38 +0530</lastBuildDate><atom:link href="https://naresh-chaurasia.github.io/connect2naresh/architect/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Automation Architect</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/architect/automation-architect/</link>
+      <pubDate>Tue, 22 Apr 2025 10:15:38 +0530</pubDate>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/architect/automation-architect/</guid>
+      <description>📚 Table of Contents ☕ Core Java Programming 🧪 TestNG/JUnit Framework 🗃️ SQL / MySQL Database 📦 Maven Basics 🧭 Selenium Automation with Java 🌐 Web Services and REST API 🔁 API Automation using REST Assured ⚙️ DevOps Concepts 🐧 Linux Basics 🐙 GitHub Basics 🧩 Jenkins Introduction 📦 Docker Container Introduction 🧱 Microservices Architecture ☁️ AWS Cloud Basics 🚀 Projects 🎯 Mock Interviews 🛠️ IDE Setup This Automation Architect course is crafted for experienced QA professionals, test automation engineers, and SDETs who want to go deeper into the design, structure, and scalability of test automation systems.</description>
+    </item>
+    <item>
+      <title>Java Automation</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/architect/java-automation/</link>
+      <pubDate>Tue, 22 Apr 2025 10:15:38 +0530</pubDate>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/architect/java-automation/</guid>
+      <description>📚 Table of Contents ☕ Core Java Programming
+🧪 TestNG/JUnit Framework
+🗃️ SQL JDBC Programming
+📦 Maven Basics
+🧭 Selenium Automation with Java
+🌐 Web Services and REST API
+🔁 API Automation using REST Assured
+🚀 Projects
+🎯 Mock Interviews
+🛠️ IDE Setup
+This Java Automation course is crafted for experienced QA professionals, test automation engineers, and SDETs who want to go deeper into the design, structure, and scalability of test automation systems.</description>
+    </item>
+  </channel>
+</rss>
