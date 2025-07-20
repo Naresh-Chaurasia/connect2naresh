@@ -6,9 +6,9 @@
     <meta name="generator" content="Hugo 0.104.2" />
     <meta name="generator" content="Relearn 3.4.1&#43;tip">
     <meta name="description" content="">
-    <title>Core Java :: Naresh Chaurasia</title>
-    <link rel="canonical" type="text/html" href="/connect2naresh/core-java/" title="Naresh Chaurasia" />
-    <link rel="alternate" type="application/rss&#43;xml" href="/connect2naresh/core-java/index.xml" title="Naresh Chaurasia" />
+    <title>Java Selenium API Automation :: Naresh Chaurasia</title>
+    <link rel="alternate" type="application/rss&#43;xml" href="/connect2naresh/architect/java-selenium-api/index.xml" title="Naresh Chaurasia" />
+    <link rel="alternate" type="text/html" href="/connect2naresh/_print/architect/java-selenium-api/" title="Naresh Chaurasia" />
     <link href="/connect2naresh/css/nucleus.css?1752997385" rel="stylesheet">
     <link href="/connect2naresh/css/fontawesome-all.min.css?1752997385" rel="stylesheet">
     <link href="/connect2naresh/css/featherlight.min.css?1752997385" rel="stylesheet">
@@ -17,7 +17,7 @@
     <link href="/connect2naresh/css/theme.css?1752997385" rel="stylesheet">
     <link href="/connect2naresh/css/theme-relearn-light.css?1752997385" rel="stylesheet" id="variant-style">
     <link href="/connect2naresh/css/variant.css?1752997385" rel="stylesheet">
-    <link href="/connect2naresh/css/print.css?1752997385" rel="stylesheet">
+    <link href="/connect2naresh/css/print.css?1752997385" rel="stylesheet" media="print">
     <script src="/connect2naresh/js/variant.js?1752997385"></script>
     <script>
       // hack to let hugo tell us how to get to the root when using relativeURLs, it needs to be called *url= for it to do its magic:
@@ -36,20 +36,20 @@
     </script>
     <script src="/connect2naresh/js/jquery.min.js?1752997385"></script>
   </head>
-  <body class="mobile-support print" data-url="/connect2naresh/core-java/">
+  <body class="mobile-support" data-url="/connect2naresh/architect/java-selenium-api/">
     <div id="body" class="default-animation">
       <div id="sidebar-overlay"></div>
       <div id="toc-overlay"></div>
       <nav id="topbar" class="highlightable">
         <div>
           <div class="navigation">
-             <a class="nav nav-next" href="/connect2naresh/core-java/core-java/" title="Core Java"><i class="fas fa-chevron-right fa-fw"></i></a>
+             <a class="nav nav-next" href="/connect2naresh/python/" title="Python"><i class="fas fa-chevron-right fa-fw"></i></a>
           </div>
           <div class="navigation">
-             <a class="nav nav-prev" href="/connect2naresh/ai/genai/" title="GenAI Java &amp; Python"><i class="fas fa-chevron-left fa-fw"></i></a>
+             <a class="nav nav-prev" href="/connect2naresh/architect/automation-architect/" title="Automation Architect"><i class="fas fa-chevron-left fa-fw"></i></a>
           </div>
           <div id="top-print-link">
-            <a class="print-link" title='Print whole chapter' href="/connect2naresh/core-java/_print/">
+            <a class="print-link" title='Print whole chapter' href="/connect2naresh/_print/architect/java-selenium-api/">
               <i class="fas fa-print fa-fw"></i>
             </a>
           </div>
@@ -57,50 +57,448 @@
             <span id="sidebar-toggle-span">
               <a href="#" id="sidebar-toggle" title='Menu'><i class="fas fa-bars fa-fw"></i></a>
             </span>
+            <span id="toc-menu" title='Table of Contents'><i class="fas fa-list-alt fa-fw"></i></span>
             <ol class="links" itemscope itemtype="http://schema.org/BreadcrumbList">
               <meta itemprop="itemListOrder" content="Descending" />
-              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><meta itemprop="position" content="2" /><a itemprop="item" href="/connect2naresh/"><span itemprop="name">Naresh Chaurasia</span></a> > </li>
-              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><meta itemprop="position" content="1" /><a itemprop="item" href="/connect2naresh/core-java/" aria-disabled="true"><span itemprop="name">Core Java</span></a></li>
+              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><meta itemprop="position" content="3" /><a itemprop="item" href="/connect2naresh/"><span itemprop="name">Naresh Chaurasia</span></a> > </li>
+              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><meta itemprop="position" content="2" /><a itemprop="item" href="/connect2naresh/architect/"><span itemprop="name">Architect</span></a> > </li>
+              <li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement"><meta itemprop="position" content="1" /><a itemprop="item" href="/connect2naresh/architect/java-selenium-api/" aria-disabled="true"><span itemprop="name">Java Selenium API Automation</span></a></li>
             </ol>
+          </div>
+          <div class="default-animation progress">
+            <div class="wrapper">
+<nav id="TableOfContents">
+  <ul>
+    <li><a href="#-core-java-programming">☕ Core Java Programming</a></li>
+    <li><a href="#-testngjunit-framework">🧪 TestNG/JUnit Framework</a></li>
+    <li><a href="#-sql-jdbc-programming">🗃️ SQL JDBC Programming</a></li>
+    <li><a href="#-maven-basics">📦 Maven Basics</a></li>
+    <li><a href="#-selenium-automation-with-java">🧭 Selenium Automation with Java</a></li>
+    <li><a href="#-web-services-and-rest-api">🌐 Web Services and REST API</a></li>
+    <li><a href="#-api-automation-using-rest-assured">🔁 API Automation using REST Assured</a></li>
+    <li><a href="#-projects">🚀 Projects</a></li>
+    <li><a href="#-mock-interviews">🎯 Mock Interviews</a></li>
+    <li><a href="#-ide-setup">🛠️ IDE Setup</a></li>
+  </ul>
+</nav>
+            </div>
           </div>
         </div>
       </nav>
-      <main id="body-inner" class="highlightable chapter">
+      <main id="body-inner" class="highlightable">
         <div class="flex-block-wrapper">
           <div id="head-tags">
           </div>
-    
-          <article class="chapter">
-
-<h3 id="chapter-x">Chapter X</h3>
-<h1 id="some-chapter-title">Some Chapter title</h1>
-<p>Lorem Ipsum.</p>
-
-            <footer class="footline">
-            </footer>
-          </article>
-          <section>
-    
           <article>
 
-<h1>Core Java</h1>
-<p>For the time being, this page will server as canvass for me for anything related to core java with respect to creating Udemy course. Any idea that come to mind will be captured here.</p>
-<p>Later on you might put these information in different and appropriate locations, but for now let me have everything here.</p>
-<h3 id="udemy-youtube">Udemy, YouTube</h3>
-<blockquote>
-<p>There is a lot of difference in teaching java and teaching java for selenium. Make sure you understand and respect the boundries.</p>
-</blockquote>
+<h1>Java Selenium API Automation</h1>
+<p><a href="#-core-java-programming">☕ Core Java Programming</a></p>
+<p><a href="#-testngjunit-framework">🧪 TestNG/JUnit Framework</a></p>
+<p><a href="#-sql-jdbc-programming">🗃️ SQL JDBC Programming</a></p>
+<p><a href="#-maven-basics">📦 Maven Basics</a></p>
+<p><a href="#-selenium-automation-with-java">🧭 Selenium Automation with Java</a></p>
+<p><a href="#-web-services-and-rest-api">🌐 Web Services and REST API</a></p>
+<p><a href="#-api-automation-using-rest-assured">🔁 API Automation using REST Assured</a></p>
+<p><a href="#-projects">🚀 Projects</a></p>
+<p><a href="#-mock-interviews">🎯 Mock Interviews</a></p>
+<p><a href="#-ide-setup">🛠️ IDE Setup</a></p>
+<hr>
+<p>This <strong>Java Automation</strong> course is crafted for experienced QA professionals, test automation engineers, and SDETs who want to go deeper into the <strong>design, structure, and scalability</strong> of test automation systems.</p>
+<p>You’ll gain deep expertise in Core Java, Selenium WebDriver, REST Assured, and JUnit, with a strong focus on building <strong>robust, reusable, and maintainable automation frameworks</strong> for UI and API testing.</p>
+<p>You will also learn how to plan for modular automation, manage test data, structure your codebase, and apply best practices to ensure high-quality and efficient testing.</p>
+<h2 id="-core-java-programming">☕ Core Java Programming</h2>
+<table>
+<thead>
+<tr>
+<th><strong>📚 Category</strong></th>
+<th><strong>Topics Covered</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>🛠️ Java Installation &amp; Setup</td>
+<td>- Java Installation<br>- Environment Variables<br>- Path and CLASSPATH</td>
+</tr>
+<tr>
+<td>💡 Java Basics</td>
+<td>- Introduction to Java<br>- Setting up Java Development Environment<br>- Writing your first Java program<br>- Data Types and Variables:<br>    - Primitive and Reference Types<br>    - Variables and Constants</td>
+</tr>
+<tr>
+<td>🔁 Control Flow</td>
+<td>- If-Else, Switch<br>- For, While, Do-While loops</td>
+</tr>
+<tr>
+<td>🧱 Object-Oriented Programming (OOP)</td>
+<td>- Classes, Objects, Constructors<br>- Inheritance<br>- Method Overloading &amp; Overriding<br>- Polymorphism<br>- Encapsulation<br>- Abstraction (Abstract Classes &amp; Interfaces)</td>
+</tr>
+<tr>
+<td>🚨 Exception Handling</td>
+<td>- Types: Checked vs Unchecked<br>- Try-Catch, Finally<br>- Throw &amp; Throws</td>
+</tr>
+<tr>
+<td>🧺 Collections Framework</td>
+<td>- List: ArrayList, LinkedList<br>- Set: HashSet, TreeSet<br>- Map: HashMap, TreeMap</td>
+</tr>
+<tr>
+<td>📂 Java I/O</td>
+<td>- File Handling<br>- Streams: Byte &amp; Character</td>
+</tr>
+<tr>
+<td>🧵 Multithreading</td>
+<td>- Creating Threads<br>- Runnable Interface<br>- Synchronization &amp; Communication</td>
+</tr>
+<tr>
+<td>🧰 Utility Classes</td>
+<td>- String, StringBuilder, StringBuffer<br>- Wrapper Classes<br>- Autoboxing/Unboxing</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="-testngjunit-framework">🧪 TestNG/JUnit Framework</h2>
+<table>
+<thead>
+<tr>
+<th><strong>Topic</strong></th>
+<th><strong>Subtopics</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Unit Testing</strong></td>
+<td>What is Unit Testing?</td>
+</tr>
+<tr>
+<td><strong>Setting up JUnit</strong></td>
+<td>Using Maven, Using Gradle</td>
+</tr>
+<tr>
+<td><strong>Annotations</strong></td>
+<td><code>@Test</code>, <code>@BeforeEach</code>, <code>@AfterEach</code>, Other useful annotations</td>
+</tr>
+<tr>
+<td><strong>Assertions</strong></td>
+<td><code>assertEquals</code>, <code>assertTrue</code>, <code>assertFalse</code>, <code>assertThrows</code>, <code>assertNotNull</code>, <code>assertNull</code></td>
+</tr>
+<tr>
+<td><strong>Parameterized Tests</strong></td>
+<td>Running tests with multiple sets of data, <code>@ParameterizedTest</code>, <code>@ValueSource</code>, <code>@CsvSource</code></td>
+</tr>
+<tr>
+<td><strong>Test Suites</strong></td>
+<td>Grouping multiple test classes, Running them together using <code>@Suite</code></td>
+</tr>
+<tr>
+<td><strong>Exception Testing</strong></td>
+<td>Validating exceptions using <code>assertThrows</code></td>
+</tr>
+<tr>
+<td><strong>Nested Tests</strong></td>
+<td>Organizing related tests within inner classes using <code>@Nested</code></td>
+</tr>
+<tr>
+<td><strong>Mocking Dependencies</strong></td>
+<td>Introduction to mocking frameworks (e.g., Mockito), Creating and injecting mocks, Verifying interactions</td>
+</tr>
+<tr>
+<td><strong>Hands-on Practice</strong></td>
+<td>Writing simple test cases, Practicing with a sample Java class and methods</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="-sql-jdbc-programming">🗃️ SQL JDBC Programming</h2>
+<table>
+<thead>
+<tr>
+<th><strong>Topic</strong></th>
+<th><strong>Subtopics</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Introduction to SQL</strong></td>
+<td>- Overview of SQL and its importance in automation testing<br>- Types of SQL databases (e.g., MySQL, PostgreSQL, Oracle)</td>
+</tr>
+<tr>
+<td><strong>SQL Basics</strong></td>
+<td>- Understanding databases, tables, and records<br>- Data types in SQL</td>
+</tr>
+<tr>
+<td><strong>Basic SQL Commands</strong></td>
+<td>- <code>SELECT</code> statement for data retrieval<br>- <code>WHERE</code> clause for filtering data<br>- Sorting results with <code>ORDER BY</code></td>
+</tr>
+<tr>
+<td><strong>SQL Functions</strong></td>
+<td>- Common functions like <code>COUNT</code>, <code>SUM</code>, <code>AVG</code>, <code>MIN</code>, <code>MAX</code><br>- String functions (e.g., <code>CONCAT</code>, <code>UPPER</code>, <code>LOWER</code>)<br>- Date functions (e.g., <code>NOW</code>, <code>DATE_ADD</code>)</td>
+</tr>
+<tr>
+<td><strong>Data Manipulation</strong></td>
+<td>- Inserting data using <code>INSERT INTO</code><br>- Updating data using <code>UPDATE</code><br>- Deleting data using <code>DELETE</code></td>
+</tr>
+<tr>
+<td><strong>Joins in SQL</strong></td>
+<td>- Understanding different types of joins: <code>INNER JOIN</code>, <code>LEFT JOIN</code>, <code>RIGHT JOIN</code>, <code>FULL JOIN</code><br>- Retrieving data from multiple tables using joins</td>
+</tr>
+<tr>
+<td><strong>Aggregating Data</strong></td>
+<td>- Grouping data using <code>GROUP BY</code><br>- Filtering groups with <code>HAVING</code> clause</td>
+</tr>
+<tr>
+<td><strong>Indexes and Keys</strong></td>
+<td>- Understanding primary keys and foreign keys<br>- Using indexes for performance optimization</td>
+</tr>
+<tr>
+<td><strong>Basic Database Testing</strong></td>
+<td>- Verifying data integrity with SQL queries<br>- Validating test scenarios using SQL<br>- Common database testing use cases in automation</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="-maven-basics">📦 Maven Basics</h2>
 <ul>
-<li>Check out <strong>Best Selling Selenium</strong> course on Udemy. Go through its Java Content. Capture the idea.</li>
-<li>Check out <strong>Best Selling Java</strong> course on Udemy. Capture the idea.</li>
-<li>Check out <strong>Highest Rated Java</strong> course on YouTube. Capture the idea.</li>
+<li>What is Maven? Benefits</li>
+<li>Installing Maven</li>
+<li>Project Structure and POM</li>
+<li>Adding Dependencies</li>
+<li>Maven Build Lifecycle</li>
+<li>Common Plugins</li>
+<li>Example Maven Project</li>
 </ul>
-<h4 id="udemy-java-selenium">Udemy Java Selenium</h4>
+<hr>
+<h2 id="-selenium-automation-with-java">🧭 Selenium Automation with Java</h2>
+<table>
+<thead>
+<tr>
+<th><strong>Topic</strong></th>
+<th><strong>Subtopics</strong></th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Introduction to Selenium</strong></td>
+<td>- Selenium components <br> - Comparison with other tools <br> - Setting up WebDriver, IDE, drivers</td>
+</tr>
+<tr>
+<td><strong>Selenium WebDriver Basics</strong></td>
+<td>- WebDriver architecture <br> - Locating elements: ID, name, XPath, CSS <br> - Interacting with elements</td>
+</tr>
+<tr>
+<td><strong>Handling Web Elements</strong></td>
+<td>- Buttons, text boxes, checkboxes <br> - Alerts, pop-ups, frames <br> - Dynamic elements</td>
+</tr>
+<tr>
+<td><strong>Synchronization</strong></td>
+<td>- Implicit vs Explicit Waits <br> - AJAX handling</td>
+</tr>
+<tr>
+<td><strong>Advanced Concepts</strong></td>
+<td>- Multiple windows/tabs <br> - Screenshots <br> - JavaScript execution</td>
+</tr>
+<tr>
+<td><strong>Data-Driven Testing</strong></td>
+<td>- External data sources <br> - <code>DataProvider</code> in TestNG</td>
+</tr>
+<tr>
+<td><strong>Framework Development</strong></td>
+<td>- Types: keyword-driven, data-driven, hybrid <br> - Page Object Model (POM) <br> - Managing dependencies with Maven/Gradle</td>
+</tr>
+<tr>
+<td><strong>Cross-Browser Testing</strong></td>
+<td>- Running tests on multiple browsers <br> - Parallel execution with TestNG/JUnit</td>
+</tr>
+<tr>
+<td><strong>Reporting and Logging</strong></td>
+<td>- TestNG, Extent Reports <br> - Log4j for logging</td>
+</tr>
+<tr>
+<td><strong>Selenium Grid</strong></td>
+<td>- Distributed testing with Selenium Grid <br> - Remote test execution</td>
+</tr>
+<tr>
+<td><strong>CI Integration</strong></td>
+<td>- Jenkins, GitHub Actions <br> - Automated test execution on commits</td>
+</tr>
+</tbody>
+</table>
+<hr>
+<h2 id="-web-services-and-rest-api">🌐 Web Services and REST API</h2>
+<ul>
+<li>What are Web Services?</li>
+<li>REST vs SOAP</li>
+<li>Components of REST API</li>
+<li>HTTP Methods: GET, POST, PUT, DELETE, PATCH</li>
+<li>HTTP Status Codes: 1xx–5xx</li>
+<li>Tools: Postman, curl</li>
+<li>Parsing JSON/XML</li>
+<li>Error Handling</li>
+<li>Examples using Flask &amp; Express.js</li>
+</ul>
+<hr>
+<h2 id="-api-automation-using-rest-assured">🔁 API Automation using REST Assured</h2>
+<ul>
+<li>
+<p><strong>What is REST-Assured?</strong></p>
+<ul>
+<li>A Java-based library used to test RESTful APIs.</li>
+<li>Provides a domain-specific language (DSL) for writing readable and maintainable API tests.</li>
+<li>Integrates seamlessly with Java-based testing frameworks like JUnit and TestNG.</li>
+</ul>
+</li>
+<li>
+<p><strong>Setting up with Maven</strong></p>
+<ul>
+<li>Add REST-Assured dependency in your <code>pom.xml</code>.
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-xml" data-lang="xml"><span style="display:flex;"><span><span style="color:#f92672">&lt;dependency&gt;</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">&lt;groupId&gt;</span>io.rest-assured<span style="color:#f92672">&lt;/groupId&gt;</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">&lt;artifactId&gt;</span>rest-assured<span style="color:#f92672">&lt;/artifactId&gt;</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">&lt;version&gt;</span>5.3.0<span style="color:#f92672">&lt;/version&gt;</span>
+</span></span><span style="display:flex;"><span>    <span style="color:#f92672">&lt;scope&gt;</span>test<span style="color:#f92672">&lt;/scope&gt;</span>
+</span></span><span style="display:flex;"><span><span style="color:#f92672">&lt;/dependency&gt;</span>
+</span></span></code></pre></div></li>
+<li>Optionally include JSON/XML path and Hamcrest matchers for assertions.</li>
+</ul>
+</li>
+<li>
+<p><strong>HTTP Method Testing</strong></p>
+<ul>
+<li><code>GET</code>: Retrieve data from an API.</li>
+<li><code>POST</code>: Send data to the server.</li>
+<li><code>PUT</code>: Update existing data.</li>
+<li><code>DELETE</code>: Remove data from the server.</li>
+<li><code>PATCH</code>: Partially update resources.</li>
+</ul>
+</li>
+<li>
+<p><strong>Validating Responses</strong></p>
+<ul>
+<li><strong>Status Code</strong>
+<ul>
+<li>Validate HTTP response code (e.g., 200 OK, 404 Not Found).</li>
+</ul>
+</li>
+<li><strong>Headers</strong>
+<ul>
+<li>Assert presence and values of headers like <code>Content-Type</code>, <code>Authorization</code>, etc.</li>
+</ul>
+</li>
+<li><strong>Body</strong>
+<ul>
+<li>Validate fields in JSON or XML response using path expressions.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Authentication</strong></p>
+<ul>
+<li><strong>Basic Authentication</strong>
+<ul>
+<li>Pass credentials using <code>.auth().basic(username, password)</code>.</li>
+</ul>
+</li>
+<li><strong>Token-Based Authentication</strong>
+<ul>
+<li>Use <code>.auth().oauth2(token)</code> for Bearer tokens (commonly used in REST APIs).</li>
+</ul>
+</li>
+<li><strong>Custom Headers</strong>
+<ul>
+<li>Add custom <code>Authorization</code> headers when needed.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Request Parameters &amp; Payloads</strong></p>
+<ul>
+<li><strong>Query Parameters</strong>
+<ul>
+<li>Use <code>.param(&quot;key&quot;, &quot;value&quot;)</code> or <code>.queryParam()</code>.</li>
+</ul>
+</li>
+<li><strong>Path Parameters</strong>
+<ul>
+<li>Define placeholders in the endpoint URL.</li>
+</ul>
+</li>
+<li><strong>Request Body</strong>
+<ul>
+<li>Send JSON, XML, or form data as payload using <code>.body()</code>.</li>
+</ul>
+</li>
+</ul>
+</li>
+<li>
+<p><strong>Assertions with Hamcrest</strong></p>
+<ul>
+<li>Use expressive matchers for validating response:
+<ul>
+<li><code>equalTo()</code>, <code>hasItems()</code>, <code>containsString()</code>, etc.</li>
+</ul>
+</li>
+<li>Enables readable assertions like:
+<div class="highlight"><pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;"><code class="language-java" data-lang="java"><span style="display:flex;"><span>then<span style="color:#f92672">().</span><span style="color:#a6e22e">body</span><span style="color:#f92672">(</span><span style="color:#e6db74">&#34;name&#34;</span><span style="color:#f92672">,</span> equalTo<span style="color:#f92672">(</span><span style="color:#e6db74">&#34;John&#34;</span><span style="color:#f92672">));</span>
+</span></span></code></pre></div></li>
+</ul>
+</li>
+<li>
+<p><strong>Logging and Configurations</strong></p>
+<ul>
+<li>Enable request and response logging:
+<ul>
+<li><code>.log().all()</code> or <code>.log().body()</code></li>
+</ul>
+</li>
+<li>Configure timeouts, proxies, and base URI using <code>RestAssured.config</code>.</li>
+</ul>
+</li>
+<li>
+<p><strong>File Uploads/Downloads</strong></p>
+<ul>
+<li>Upload files using <code>.multiPart()</code> method.</li>
+<li>Download files and validate content type, size, etc.</li>
+</ul>
+</li>
+<li>
+<p><strong>TestNG / JUnit Integration</strong></p>
+<ul>
+<li>Use REST-Assured inside test methods.</li>
+<li>Combine with test annotations for setup, teardown, and grouping.</li>
+<li>Create reusable test suites and CI pipelines.</li>
+</ul>
+</li>
+<li>
+<p><strong>Best Practices and Hands-on</strong></p>
+<ul>
+<li>Use <code>RequestSpecification</code> and <code>ResponseSpecification</code> for reusability.</li>
+<li>Externalize base URIs, endpoints, and payloads in config files or constants.</li>
+<li>Follow clear naming conventions and logging to maintain readable tests.</li>
+<li>Hands-on practice: Create CRUD tests against public APIs like <code>https://reqres.in</code> or your own mock server.</li>
+</ul>
+</li>
+</ul>
+<hr>
+<h2 id="-projects">🚀 Projects</h2>
+<ol>
+<li>Project 1 - Java Selenium Automation</li>
+<li>Project 2 - Java Selenium Automation</li>
+<li>Project 3 - API Automation using REST Assured</li>
+<li>Project 4 - API Automation using REST Assured</li>
+</ol>
+<hr>
+<h2 id="-mock-interviews">🎯 Mock Interviews</h2>
+<hr>
+<h2 id="-ide-setup">🛠️ IDE Setup</h2>
+<ul>
+<li>Visual Studio Code</li>
+<li>IntelliJ</li>
+<li>Useful Plugins</li>
+</ul>
+<hr>
 
             <footer class="footline">
             </footer>
           </article>
-          </section>
         </div>
       </main>
     </div>
@@ -187,15 +585,15 @@
         <ul class="topics">
           <li data-nav-id="/connect2naresh/ai/" title="AI" class="dd-item"><input type="checkbox" id="section-22ee2eca2a6f1f193c2796a2a380573a" class="toggle"/><label for="section-22ee2eca2a6f1f193c2796a2a380573a" ></label><a href="/connect2naresh/ai/"><b> + </b>AI</a><ul>
           <li data-nav-id="/connect2naresh/ai/genai/" title="GenAI Java &amp; Python" class="dd-item"><a href="/connect2naresh/ai/genai/">GenAI Java &amp; Python</a></li></ul></li>
-          <li data-nav-id="/connect2naresh/core-java/" title="Core Java" class="dd-item active"><input type="checkbox" id="section-dd26c60accd22f6b9a54ab75d3b37561" class="toggle"/><label for="section-dd26c60accd22f6b9a54ab75d3b37561" ></label><a href="/connect2naresh/core-java/"><b> + </b>Core Java</a><ul>
+          <li data-nav-id="/connect2naresh/core-java/" title="Core Java" class="dd-item"><input type="checkbox" id="section-dd26c60accd22f6b9a54ab75d3b37561" class="toggle"/><label for="section-dd26c60accd22f6b9a54ab75d3b37561" ></label><a href="/connect2naresh/core-java/"><b> + </b>Core Java</a><ul>
           <li data-nav-id="/connect2naresh/core-java/core-java/" title="Core Java" class="dd-item"><a href="/connect2naresh/core-java/core-java/">Core Java</a></li></ul></li>
           <li data-nav-id="/connect2naresh/fullstack/" title="FullStack" class="dd-item"><input type="checkbox" id="section-a4d3d82c2d6657cfe442b6b85cd63700" class="toggle"/><label for="section-a4d3d82c2d6657cfe442b6b85cd63700" ></label><a href="/connect2naresh/fullstack/"><b> + </b>FullStack</a><ul>
           <li data-nav-id="/connect2naresh/fullstack/java-full-stack/" title="Java Full Stack (React &#43; Angular)" class="dd-item"><a href="/connect2naresh/fullstack/java-full-stack/">Java Full Stack (React &#43; Angular)</a></li></ul></li>
           <li data-nav-id="/connect2naresh/j2ee/" title="J2EE" class="dd-item"><input type="checkbox" id="section-cd8476e331ae5716850e1170c938f06d" class="toggle"/><label for="section-cd8476e331ae5716850e1170c938f06d" ></label><a href="/connect2naresh/j2ee/"><b> + </b>J2EE</a><ul>
           <li data-nav-id="/connect2naresh/j2ee/spring-tech-stack/" title="Spring Tech Stack" class="dd-item"><a href="/connect2naresh/j2ee/spring-tech-stack/">Spring Tech Stack</a></li></ul></li>
-          <li data-nav-id="/connect2naresh/architect/" title="Architect" class="dd-item"><input type="checkbox" id="section-d7b1ffea7e58aa8af07c693981be6be0" class="toggle"/><label for="section-d7b1ffea7e58aa8af07c693981be6be0" ></label><a href="/connect2naresh/architect/"><b> + </b>Architect</a><ul>
+          <li data-nav-id="/connect2naresh/architect/" title="Architect" class="dd-item parent"><input type="checkbox" id="section-d7b1ffea7e58aa8af07c693981be6be0" class="toggle" checked/><label for="section-d7b1ffea7e58aa8af07c693981be6be0" ></label><a href="/connect2naresh/architect/"><b> + </b>Architect</a><ul>
           <li data-nav-id="/connect2naresh/architect/automation-architect/" title="Automation Architect" class="dd-item"><a href="/connect2naresh/architect/automation-architect/">Automation Architect</a></li>
-          <li data-nav-id="/connect2naresh/architect/java-selenium-api/" title="Java Selenium API Automation" class="dd-item"><a href="/connect2naresh/architect/java-selenium-api/">Java Selenium API Automation</a></li></ul></li>
+          <li data-nav-id="/connect2naresh/architect/java-selenium-api/" title="Java Selenium API Automation" class="dd-item active"><a href="/connect2naresh/architect/java-selenium-api/">Java Selenium API Automation</a></li></ul></li>
           <li data-nav-id="/connect2naresh/python/" title="Python" class="dd-item"><input type="checkbox" id="section-c8861a2651b27ee3930a98ce392020d1" class="toggle"/><label for="section-c8861a2651b27ee3930a98ce392020d1" ></label><a href="/connect2naresh/python/"><b> + </b>Python</a><ul>
           <li data-nav-id="/connect2naresh/python/python-advanced/" title="Python Advanced" class="dd-item"><a href="/connect2naresh/python/python-advanced/">Python Advanced</a></li>
           <li data-nav-id="/connect2naresh/python/python-programming/" title="Python Programming" class="dd-item"><a href="/connect2naresh/python/python-programming/">Python Programming</a></li>

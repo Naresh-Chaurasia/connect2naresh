@@ -15,11 +15,11 @@
       <description>📚 Table of Contents ☕ Core Java Programming 🧪 TestNG/JUnit Framework 🗃️ SQL / MySQL Database 📦 Maven Basics 🧭 Selenium Automation with Java 🌐 Web Services and REST API 🔁 API Automation using REST Assured ⚙️ DevOps Concepts 🐧 Linux Basics 🐙 GitHub Basics 🧩 Jenkins Introduction 📦 Docker Container Introduction 🧱 Microservices Architecture ☁️ AWS Cloud Basics 🚀 Projects 🎯 Mock Interviews 🛠️ IDE Setup This Automation Architect course is crafted for experienced QA professionals, test automation engineers, and SDETs who want to go deeper into the design, structure, and scalability of test automation systems.</description>
     </item>
     <item>
-      <title>Java Automation</title>
-      <link>https://naresh-chaurasia.github.io/connect2naresh/architect/java-automation/</link>
+      <title>Java Selenium API Automation</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/architect/java-selenium-api/</link>
       <pubDate>Tue, 22 Apr 2025 10:15:38 +0530</pubDate>
-      <guid>https://naresh-chaurasia.github.io/connect2naresh/architect/java-automation/</guid>
-      <description>📚 Table of Contents ☕ Core Java Programming
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/architect/java-selenium-api/</guid>
+      <description>☕ Core Java Programming
 🧪 TestNG/JUnit Framework
 🗃️ SQL JDBC Programming
 📦 Maven Basics
@@ -29,7 +29,8 @@
 🚀 Projects
 🎯 Mock Interviews
 🛠️ IDE Setup
-This Java Automation course is crafted for experienced QA professionals, test automation engineers, and SDETs who want to go deeper into the design, structure, and scalability of test automation systems.</description>
+This Java Automation course is crafted for experienced QA professionals, test automation engineers, and SDETs who want to go deeper into the design, structure, and scalability of test automation systems.
+You’ll gain deep expertise in Core Java, Selenium WebDriver, REST Assured, and JUnit, with a strong focus on building robust, reusable, and maintainable automation frameworks for UI and API testing.</description>
     </item>
   </channel>
 </rss>
