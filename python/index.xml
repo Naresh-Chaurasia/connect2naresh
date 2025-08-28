@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Apr 2025 10:15:38 +0530</lastBuildDate><atom:link href="https://naresh-chaurasia.github.io/connect2naresh/python/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Introduction to Linux</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/python/linux/</link>
+      <pubDate>Tue, 22 Apr 2025 10:15:38 +0530</pubDate>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/python/linux/</guid>
+      <description>Linux is a powerful open-source operating system widely used in servers, cloud environments, networking, and software development.
+It provides stability, security, and flexibility, making it the backbone of many enterprise systems.
+For beginners, learning Linux is essential to understand how servers, applications, and infrastructure run in real-world IT environments.
+Introduction to Linux Getting Started Essential Commands Working with Processes File System Management Shell Scripting Basics User and Group Management Networking Basics Package Management 1.</description>
+    </item>
+    <item>
       <title>Python Advanced</title>
       <link>https://naresh-chaurasia.github.io/connect2naresh/python/python-advanced/</link>
       <pubDate>Tue, 22 Apr 2025 10:15:38 +0530</pubDate>
