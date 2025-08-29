@@ -17,5 +17,14 @@ But how do we know if it’s really doing a good job?
 👉 That’s where Context Precision comes in.
 📑 Table of Contents 🔎 What is Context Precision? 📘 Example 📊 Why Does This Matter?</description>
     </item>
+    <item>
+      <title>RAG Recall V/s Precision</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/al-ml-genai/rag-eval2/</link>
+      <pubDate>Fri, 17 Jun 2022 10:15:38 +0530</pubDate>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/al-ml-genai/rag-eval2/</guid>
+      <description>Imagine you’re asking your school librarian for books about World War II. Whether they bring you all the right books (recall) or only the useful ones (precision) makes a huge difference in how well you study.
+Now replace the librarian with an AI system — that’s what happens in RAG (Retrieval-Augmented Generation).
+📑 Table of Contents 📚 The Librarian Analogy 🔎 What is Recall in RAG? 🎯 What is Precision in RAG?</description>
+    </item>
   </channel>
 </rss>
