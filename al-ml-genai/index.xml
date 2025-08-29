@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AL ML GenAI on Naresh Chaurasia</title>
+    <link>https://naresh-chaurasia.github.io/connect2naresh/al-ml-genai/</link>
+    <description>Recent content in AL ML GenAI on Naresh Chaurasia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Jun 2022 10:15:38 +0530</lastBuildDate><atom:link href="https://naresh-chaurasia.github.io/connect2naresh/al-ml-genai/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RAG Evaluation - Part 1</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/al-ml-genai/rag-eval1/</link>
+      <pubDate>Fri, 17 Jun 2022 10:15:38 +0530</pubDate>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/al-ml-genai/rag-eval1/</guid>
+      <description>🚀 Evaluating RAG Systems: Measuring Context Precision When we talk about Retrieval-Augmented Generation (RAG), the real magic lies in how well the system can find the right pieces of information and then use them to answer a question.
+But how do we know if it’s really doing a good job?
+👉 That’s where Context Precision comes in.
+📑 Table of Contents 🔎 What is Context Precision? 📘 Example 📊 Why Does This Matter?</description>
+    </item>
+  </channel>
+</rss>

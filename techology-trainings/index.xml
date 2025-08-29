@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technology Trainings on Naresh Chaurasia</title>
+    <link>https://naresh-chaurasia.github.io/connect2naresh/techology-trainings/</link>
+    <description>Recent content in Technology Trainings on Naresh Chaurasia</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 17 Jun 2022 10:15:38 +0530</lastBuildDate><atom:link href="https://naresh-chaurasia.github.io/connect2naresh/techology-trainings/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>GenAI Java &amp; Python</title>
+      <link>https://naresh-chaurasia.github.io/connect2naresh/techology-trainings/genai/</link>
+      <pubDate>Fri, 17 Jun 2022 10:15:38 +0530</pubDate>
+      <guid>https://naresh-chaurasia.github.io/connect2naresh/techology-trainings/genai/</guid>
+      <description>🎯 What is Generative AI 🧪 Hands-on Demos 📦 Project Ideas - Java &amp;amp; Python 📝 Text Projects 🖼️ Image Projects 🎙️ Voice Projects 🎬 Video Projects ⚙️ Full-Stack Projects 💼 Career Impact 🎯 What is Generative AI ✅ Generative AI enables machines to create text, code, images, and more — not just analyze. ✅ Powered by Large Language Models (LLMs) like GPT, Gemini, and LLaMA. ✅ With your Java/Python background, you can build GenAI apps using APIs, prompts, and lightweight tools.</description>
+    </item>
+  </channel>
+</rss>

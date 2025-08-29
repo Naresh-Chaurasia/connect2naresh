@@ -1,0 +1,14 @@
+/* Custom CSS to adjust only the main title */
+#body #body-inner h1:first-of-type,
+#body #body-inner .title:first-of-type,
+#body #body-inner>h1:first-child {
+    font-size: 2.5rem !important;
+    font-weight: 300;
+    /* This targets only the first h1 or .title in the content area */
+}
+
+/* Reset other potential title elements to default */
+#body #body-inner h1:not(:first-of-type),
+#body #body-inner .title:not(:first-of-type) {
+    font-size: revert !important;
+}
