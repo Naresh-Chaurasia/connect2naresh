@@ -12,32 +12,32 @@
 
 # [[docs]]
 #   name = "Lorem"
-#   weight = 70
-#   identifier = "lorem"
-#   url = "/docs/lorem/"
-
-[[guide]]
-  name = "Lorem"
+# Main Navigation
+[[main]]
+  name = "Tutorials"
+  url = "/tutorials/"
   weight = 10
-  identifier = "lorem"
-  url = "/guide/lorem/"
+
+[[main]]
+  name = "Guides"
+  url = "/guide/"
+  weight = 20
+
+[[main]]
+  name = "Documentation"
+  url = "/docs/guides/example-guide/"
+  weight = 30
+
+# Section menus
+[[guide]]
+  name = "Getting Started"
+  weight = 10
+  url = "/guide/getting-started/"
 
 [[tutorial]]
-  name = "Lorem"
+  name = "First Tutorial"
   weight = 10
-  identifier = "lorem"
-  url = "/tutorial/lorem/"
-
-[[main]]
-  name = "Docs"
-  url = "/docs/guides/example-guide/"
-# url = "/docs/1.0/prologue/introduction/"
-  weight = 10
-
-[[main]]
-  name = "Blog"
-  url = "/blog/"
-  weight = 30
+  url = "/tutorials/lorem/"
 
 # [[social]]
 #   name = "Twitter"
