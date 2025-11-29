@@ -1,0 +1,38 @@
+{{/* Get the image resource */}}
+{{- $image := .Page.Resources.GetMatch (printf "*%s*" (.Get "src")) -}}
+{{- $alt := .Get "alt" | default "" -}}
+{{- $caption := .Get "caption" | default "" -}}
+{{- $class := .Get "class" | default "" -}}
+
+<figure{{ with $class }} class="{{ . }}"{{ end }}>
+  {{- if $image -}}
+    {{/* Handle responsive images */}}
+    {{- $small := $image.Resize "800x" -}}
+    {{- $medium := $image.Resize "1200x" -}}
+    <img
+      srcset="
+        {{ $small.RelPermalink }} 800w,
+        {{ $medium.RelPermalink }} 1200w,
+        {{ $image.RelPermalink }} {{ $image.Width }}w"
+      sizes="(max-width: 800px) 100vw, 1200px"
+      src="{{ $image.RelPermalink }}"
+      alt="{{ $alt }}"
+      loading="lazy"
+      class="w-full h-auto rounded-lg shadow-md"
+    >
+  {{- else -}}
+    {{/* Fallback to regular img tag if image not found */}}
+    <img
+      src="{{ .Get "src" }}"
+      alt="{{ $alt }}"
+      class="w-full h-auto rounded-lg shadow-md"
+      loading="lazy"
+    >
+  {{- end -}}
+
+  {{- if $caption -}}
+    <figcaption class="mt-2 text-sm text-gray-600 text-center">
+      {{ $caption | markdownify }}
+    </figcaption>
+  {{- end -}}
+</figure>

@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning: Powering AI Revolution 🤖"
+title: "Deep Learning: Powering AI Revolution"
 description: "Deep Learning: The Technology Powering Today’s AI Revolution"
 summary: ""
 date: 2025-11-20T16:12:37+02:00
@@ -16,6 +16,16 @@ seo:
 
 
 Artificial Intelligence (AI) is rapidly reshaping industries, and at the heart of many recent breakthroughs lies **Deep Learning**. Deep Learning is a specialized branch of Machine Learning, which itself is part of the broader field of AI. It uses artificial neural networks inspired by the structure of the human brain.
+
+<figure class="my-4">
+    <img
+        src="/images/deep-learning.png"
+        alt="Deep Learning Architecture Overview"
+        class="w-full h-auto rounded-lg shadow-md">
+    <figcaption class="mt-2 text-sm text-gray-600 text-center">
+        Figure: Overview of a Deep Neural Network Architecture
+    </figcaption>
+</figure>
 
 While neural networks are not as sophisticated as the human mind, they are remarkably effective at learning from large amounts of data — especially for tasks involving images, speech, text, and complex decisions.
 
