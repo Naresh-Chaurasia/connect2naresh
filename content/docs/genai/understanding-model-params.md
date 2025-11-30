@@ -1,5 +1,5 @@
 ---
-title: "Understanding Model Parameters"
+title: "📍 Understanding Model Parameters"
 description: "Reference pages are ideal for outlining how things work in terse and clear terms."
 summary: ""
 date: 2025-11-20T16:12:37+02:00
