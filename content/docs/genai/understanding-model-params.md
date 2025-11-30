@@ -1,5 +1,5 @@
 ---
-title: "📍 Understanding Model Parameters"
+title: "✔ Understanding Model Parameters"
 description: "Reference pages are ideal for outlining how things work in terse and clear terms."
 summary: ""
 date: 2025-11-20T16:12:37+02:00
@@ -15,7 +15,17 @@ seo:
 ---
 
 
-To understand parameters, imagine a model as a **recipe**.
+<figure class="my-4">
+    <img
+        src="/images/model-params.png"
+        alt="Model Parameters"
+        class="w-full h-auto rounded-lg shadow-md">
+    <figcaption class="mt-2 text-sm text-gray-600 text-center">
+        Figure: Model Parameters
+    </figcaption>
+</figure>
+
+To understand model parameters, imagine a model as a **recipe**.
 A recipe contains ingredients with specific quantities, such as:
 
 - 2 spoons of sugar
@@ -37,7 +47,7 @@ Just like adjusting sugar or salt can change the flavor, adjusting parameters ch
 
 ---
 
-### ⭐ Example to Make It Super Clear
+### 📝 Example to Make It Super Clear
 
 Consider a simple sentence:
 
@@ -68,7 +78,7 @@ Slowly, the internal numbers shift toward the right combination. Eventually, the
 
 ---
 
-### ⭐ So What Are Parameters?
+### 💡 So What Are Parameters?
 
 Parameters are the adjustable internal numbers inside a model that guide how it interprets inputs and generates outputs. They are similar to the salt, sugar, and spice levels in a recipe — small values that collectively determine the final result.
 
@@ -76,13 +86,9 @@ Through training, these parameters keep changing until the model consistently pr
 
 ---
 
-### ⭐ One-Line Explanation
+### 🎯 One-Line Explanation
 
-**Parameters are the tiny internal settings that get tuned while the model learns.**
+Parameters are the tiny internal settings that get tuned while the model learns.
 
 
 ---
-
-###### Further reading
-
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework

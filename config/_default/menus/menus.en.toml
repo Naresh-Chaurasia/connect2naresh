@@ -28,6 +28,12 @@
   url = "/docs/guides/example-guide/"
   weight = 30
 
+
+[[main]]
+  name = "Blog"
+  url = "/blog/"
+  weight = 40
+
 # Section menus
 [[guide]]
   name = "Getting Started"
