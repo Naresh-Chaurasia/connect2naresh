@@ -10,6 +10,8 @@ tags:
   - content creation
 categories:
   - Tutorials
+contributors: []
+pinned: false
 ---
 
 ## Why Use Markdown?

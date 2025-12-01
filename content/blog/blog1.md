@@ -10,6 +10,8 @@ tags:
   - static site
 categories:
   - Tutorials
+contributors: []
+pinned: false
 ---
 
 ## Introduction to Hugo
