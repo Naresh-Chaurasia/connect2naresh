@@ -1,5 +1,5 @@
 ---
-title: "Lifecycle of Foundation Models"
+title: "✔ Lifecycle of Foundation Models"
 description: "Reference pages are ideal for outlining how things work in terse and clear terms."
 summary: ""
 date: 2025-11-20T16:12:37+02:00
@@ -32,6 +32,8 @@ Examples include:
 - **GPT-4o** – Language generation 📝
 - **DALL·E** – Image generation 🎨
 - **BERT** – Natural language understanding 🧠
+
+This means BERT does NOT generate text like GPT (summary, etc.). Instead, BERT is good at understanding text (sentiments of the text, happy or sad etc.).
 
 These models form the **base layer** upon which specialized AI systems are built.
 

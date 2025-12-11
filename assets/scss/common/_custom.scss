@@ -1,1 +1,29 @@
-// Put your custom SCSS code here
+/* Note */
+.callout-note {
+  border-left: 4px solid #6b7280;
+  background-color: #f9fafb;
+}
+
+/* Info */
+.callout-info {
+  border-left: 4px solid #3b82f6;
+  background-color: #eff6ff;
+}
+
+/* Warning */
+.callout-warning {
+  border-left: 4px solid #f59e0b;
+  background-color: #fffbeb;
+}
+
+/* Danger */
+.callout-danger {
+  border-left: 4px solid #ef4444;
+  background-color: #fef2f2;
+}
+
+/* Tip / Success */
+.callout-tip {
+  border-left: 4px solid #10b981;
+  background-color: #ecfdf5;
+}

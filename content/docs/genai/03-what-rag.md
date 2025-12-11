@@ -17,6 +17,19 @@ seo:
 
 Over the last few weeks, I built an end-to-end application that allows you to **chat with your PDFs**—similar to platforms like pdf.ai.
 
+The concept is simple but extremely powerful:
+➡️ Upload a PDF
+➡️ Ask natural language questions
+➡️ Get answers grounded in the document
+
+This is made possible using **RAG (Retrieval-Augmented Generation)**, a modern approach that combines the reasoning abilities of LLMs with precise information retrieval from your own documents.
+
+---
+
+### How It Works ⚙️
+
+Here’s a quick breakdown of the workflow:
+
 ---
 
 <figure class="my-4">
@@ -30,19 +43,6 @@ Over the last few weeks, I built an end-to-end application that allows you to **
 </figure>
 
 ---
-
-The concept is simple but extremely powerful:
-➡️ Upload a PDF
-➡️ Ask natural language questions
-➡️ Get answers grounded in the document
-
-This is made possible using **RAG (Retrieval-Augmented Generation)**, a modern approach that combines the reasoning abilities of LLMs with precise information retrieval from your own documents.
-
----
-
-### How It Works ⚙️
-
-Here’s a quick breakdown of the workflow:
 
 1. **Document Processing**
    The PDF is parsed and broken into smaller, meaningful chunks.
