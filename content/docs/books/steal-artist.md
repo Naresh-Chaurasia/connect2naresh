@@ -14,7 +14,7 @@ seo:
   noindex: false #### false (default) or true
 ---
 
-### 🎨 Steal Like an Artist
+### 🎨 1. Steal Like an Artist
 
 
 Every artist gets asked the question,Where do you get your ideas? The honest artist answers,  **I steal them**.
@@ -27,7 +27,7 @@ Every artist gets asked the question,Where do you get your ideas? The honest art
 
 
 {{< callout info >}}
-Study the work of Marius & Elena, Basi Y Deisy, Daniel Rosa, Javier Escobar.
+Study the work of Marius & Elena, Basi Y Deisy, Daniel Rosa, ~~Javier Escobar~~.
 {{< /callout >}}
 
 You don't get to pick your family, but you can pick your teachers and you can pick your friends and you can pick the music you listen to and you can pick the books you read and you can pick the movies you see. You are, in fact, a mashup of what you choose to let into your life. You are the sum of your influences. The German writer Goethe said, "We are shaped and fashioned by what we love."
@@ -53,7 +53,7 @@ Always be reading. Go to the library. **There's magic in being surrounded by boo
 ---
 
 
-### 🧭 Don't Wait Until You Know Who You Are to Get Started
+### 🧭 2. Don't Wait Until You Know Who You Are to Get Started
 
 
 {{< callout note >}}
@@ -84,7 +84,7 @@ Conan O'Brien has talked about how comedians try to **emulate their heroes, fall
 
 So: Copy your heroes. Examine where you fall short. What's in there that makes you different? That's what you should amplify and transform into your own work.
 
-### 📚 Write the Book You Want to Read
+### 📚 3. Write the Book You Want to Read
 
 The best advice is not to write what you know, it's to write what you like. Write the kind of story you like best—write the story you want to read. The same principle applies to your life and your career: Whenever you're at a loss for what move to make next, just ask yourself, "What would make a better story?
 
@@ -98,7 +98,7 @@ The manifesto is this: Draw the art you want to see, start the business you want
 Make your Dance Routine. Battle It.
 {{< /callout >}}
 
-### ✋ Use Your Hands
+### ✋ 4. Use Your Hands
 
 The computer brings out the uptight perfectionist in us—we start editing ideas before we have them. The cartoonist Tom Gauld says he stays away from the computer until he's done most of the thinking for his strips, because once the computer is involved, "things are on an inevitable path to being finished. Whereas in my sketchbook the possibilities are endless."
 
@@ -106,22 +106,42 @@ The computer brings out the uptight perfectionist in us—we start editing ideas
 Scribble on paper, as much as possible.
 {{< /callout >}}
 
-### 📌 🧪 Side Projects and Hobbies Are Important
+### 📌 🧪 5. Side Projects and Hobbies Are Important
 
 One thing I've learned in my brief career: It's the side projects that really take off. **By side projects I mean the stuff that you thought was just messing around. Stuff that's just play. That's actually the good stuff. That's when the magic happens**.
 
 Take time to be bored. One time I heard a coworker say, "When I get busy, I get stupid." Ain't that the truth. Creative people need time to just sit around and do nothing.
 
+{{< callout note >}}
 * I get some of my best ideas when I'm bored, which is why I never take my shirts to the cleaners.
 * I love ironing my shirts—it's so boring, I almost always get good ideas.
 * If you're out of ideas, wash the dishes. Take a really long walk.
 * Stare at a spot on the wall for as long as you can.
+{{< /callout>}}
+
+---
+
+{{< callout info >}}
+I do this so often. Let me now do more, minus the YouTube. Lower the fader. Let you mind wander and explore.
+{{< /callout>}}
+
 
 As the artist Maira Kalman says, "Avoiding work is the way to focus my mind." Take time to mess around. Get lost. Wander. You never know where it's going to lead you.
 
 "You can't connect the dots looking forward, you can only connect them looking backwards."
 
+{{< callout note >}}
 **Tomlinson suggests that if you love different things, you just keep spending time with them. "Let them talk to each other. Something will begin to happen."**
+{{< /callout>}}
+
+---
+
+{{< callout info >}}
+* Dance & Music, Salsa in Particular
+* Weight Training and Fitness
+* Reading Books
+* Teaching Technology
+{{< /callout>}}
 
 Music feeds into their work.
 
@@ -129,7 +149,14 @@ Music feeds into their work.
 
 Don't throw any of yourself away. Don't worry about a grand scheme or unified vision for your work. Don't worry about unity - what unifies your work is the fact that you made it. One day, you'll look back and it will all make sense.
 
-### 🌐 The Secret: Do Good Work and Share It with People
+{{< callout info >}}
+Do I need to make deliberate effort to bring them all together.
+{{< /callout>}}
+
+### 📌 Bookmark
+
+
+### 🌐 6. The Secret: Do Good Work and Share It with People
 
 This is actually a good thing, because you want attention only after you're doing really good work. **There's no pressure when you're unknown**. You can do what you want. Experiment. Do things just for the fun of it. When you're unknown, there's nothing to distract you from getting better. No public image to manage. No huge paycheck on the line. No stockholders. No e-mails from your agent. No hangers-on. You'll never get that freedom back again once people start paying you attention, and especially not once they start paying you money.
 
@@ -137,7 +164,7 @@ This is actually a good thing, because you want attention only after you're doin
 
 It's a two-step process. Step one, "do good work," is incredibly hard. There are no shortcuts. **Make stuff every day. Know you're going to suck for a while. Fail. Get better**. Step two, "share it with people," was really hard up until about ten years ago or so. Now, it's very simple: "Put your stuff on the Internet."
 
-#### ✈️ Geography Is No Longer Our Master
+#### ✈️ 7. Geography Is No Longer Our Master
 
 You don’t have to live anywhere other than the place you are to start connecting with the world you want to be in. If you feel stuck somewhere, if you are too young or tool old or too broke, or if your are somewhat tied down to a place, take heart. There’s a community of people out there you can connect with.
 
@@ -147,7 +174,7 @@ Your brain gets too comfortable in your everyday surroundings. You need to make 
 
 It helps to live around interesting people, and not necessarily people who do what you do. I feel a little incestuous when I hang out with only writers and artist, so I enjoy the many filmmakers, musicians, and tech geeks who live in Austin. Oh, and food. The food should be good. You have to find a place that feed you - creatively, socially, spritually and literally.
 
-### 🤝 Be Nice (The World Is a Small Town)
+### 🤝 8. Be Nice (The World Is a Small Town)
 
 Remember "garbage in, garbage out"? You’re only going to be as good as the people you surround yourself with. In the digital space, that means following the best people online—the people who are way smarter and better than you, the people who are doing the really interesting work. Pay attention to what they’re talking about, what they’re doing, what they’re linking to.
 
@@ -173,7 +200,7 @@ Occasionally, I have the good fortune to have something take off online, and for
 
 ---
 
-### 🧘 Be Boring (It's the Only Way to Get Work Done)
+### 🧘 9. Be Boring (It's the Only Way to Get Work Done)
 
 "Be regular and orderly in your life, so that you may be violent and original in your work."
 
@@ -202,4 +229,17 @@ Amassing a body of work or building a career is a lot about the slow accumulatio
 
 Who you marry is the most important decision you’ll ever make. And "marry well" doesn’t just mean your life partner—**it also means who you do business with, who you befriend, who you choose to be around. Relationships are hard enough, but it takes a real champion of a person to be married to someone who’s obsessed with a creative pursuit**. Lots of times you have to be a maid, a cook, a motivational
 
-#### ➖ Creativity Is Subtraction
+### ➖ 10. Creativity Is Subtraction
+
+
+{{< callout note >}}
+In this age of information abundance and overload, those who get ahead will be the folks who **figure out what to leave out**, so they can concentrate on what’s really important to them. Nothing is more paralyzing than the idea of limitless possibilities. The idea that you can do anything is absolutely terrifying.
+{{< /callout >}}
+
+The way to get over creative block is to simply place some constraints on yourself. It seems contradictory, but when it comes to creative work, limitations mean freedom. Write a song on your lunch break. Paint a painting with only one color. Start a business without any start-up capital. Shoot a movie with your iPhone and a few of your friends. Build a machine out of spare parts.
+
+{{< callout note >}}
+Don’t make excuses for not working—make things with the time, space, and materials you have, right now.
+{{< /callout >}}
+
+The artist Saul Steinberg said, “What we respond to in any work of art is the artist’s struggle against his or her limitations.” It’s often what an artist chooses to leave out that makes the art interesting. What isn’t shown versus what is. It’s the same for people: What makes us interesting isn’t just what we’ve experienced, but also what we haven’t experienced. The same is true when you do your work: You must embrace your limitations and keep moving. In the end, creativity isn’t just the things we choose to put in, it’s the things we choose to leave out. Choose wisely. And have fun.
