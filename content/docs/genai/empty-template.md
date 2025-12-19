@@ -14,6 +14,68 @@ seo:
   noindex: false # false (default) or true
 ---
 
+
+### Callouts
+
+{{< callout original >}}
+Original
+{{< /callout >}}
+
+---
+
+{{< callout comment >}}
+Comment
+{{< /callout >}}
+
+---
+
+{{< callout affirmation >}}
+Affirmation
+{{< /callout >}}
+
+---
+
+{{< callout actionable >}}
+Actionable
+{{< /callout >}}
+
+---
+{{< callout warning >}}
+Yellow
+{{< /callout >}}
+
+---
+
+{{< callout info >}}
+blue1
+{{< /callout >}}
+
+---
+
+{{< callout danger >}}
+Red
+{{< /callout >}}
+
+
+---
+
+{{< callout tip >}}
+Pink
+{{< /callout >}}
+
+
+---
+
+{{< callout note >}}
+Purple
+{{< /callout >}}
+
+---
+
+
+
+
+
 ### Emojis
 
 *Common Emojis for AsciiDoc*
@@ -104,38 +166,7 @@ seo:
 </figure>
 
 
-### Callouts
 
----
-{{< callout warning >}}
-Yellow
-{{< /callout >}}
-
----
-
-{{< callout info >}}
-blue1
-{{< /callout >}}
-
----
-
-{{< callout danger >}}
-Red
-{{< /callout >}}
-
-
----
-
-{{< callout tip >}}
-Pink
-{{< /callout >}}
-
-
----
-
-{{< callout note >}}
-Purple
-{{< /callout >}}
 
 
 

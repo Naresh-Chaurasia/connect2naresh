@@ -8,33 +8,60 @@ draft: false
 weight: 100
 toc: true
 seo:
-  title: "" #### custom title (optional)
-  description: "" #### custom description (recommended)
-  canonical: "" #### custom canonical URL (optional)
-  noindex: false #### false (default) or true
+  title: "" ##### custom title (optional)
+  description: "" ##### custom description (recommended)
+  canonical: "" ##### custom canonical URL (optional)
+  noindex: false ##### false (default) or true
 ---
 
-### 🎨 1. Steal Like an Artist
+{{< callout original >}}
+Original from Kindle etc.
+{{< /callout >}}
+
+---
+
+{{< callout comment >}}
+Comment. While reading the original, I had some comments.
+{{< /callout >}}
+
+---
+
+{{< callout affirmation >}}
+Affirmation. I could relate it to my life, in past, present and future.
+{{< /callout >}}
+
+---
+
+{{< callout actionable >}}
+Actionable. Let me take some action on this one.
+{{< /callout >}}
+
+---
+
+
+#### 🎨 1. Steal Like an Artist
 
 
 Every artist gets asked the question,Where do you get your ideas? The honest artist answers,  **I steal them**.
 
-{{< callout note >}}
-🚀 What a good artist understands is that nothing comes from nowhere. **All creative work builds on what came before. Nothing is completely original**.Every new idea is just a mashup or a remix of one or more previous ideas.
+{{< callout original >}}
+What a good artist understands is that nothing comes from nowhere. **All creative work builds on what came before. Nothing is completely original**.Every new idea is just a mashup or a remix of one or more previous ideas.
 {{< /callout >}}
 
 ---
 
-
-{{< callout info >}}
-Study the work of Marius & Elena, Basi Y Deisy, Daniel Rosa, ~~Javier Escobar~~.
+{{< callout actionable >}}
+* Study the work of Marius & Elena, Basi Y Deisy, Daniel Rosa, ~~Javier Escobar~~.
+* Javier Escobar is on2. Some day I will come back to him. For now let me watch him move on the dance floor, and enjoy.
 {{< /callout >}}
 
-You don't get to pick your family, but you can pick your teachers and you can pick your friends and you can pick the music you listen to and you can pick the books you read and you can pick the movies you see. You are, in fact, a mashup of what you choose to let into your life. You are the sum of your influences. The German writer Goethe said, "We are shaped and fashioned by what we love."
+You don't get to pick your family, **but you can pick your teachers and you can pick your friends and you can pick the music you listen to and you can pick the books you read and you can pick the movies you see. You are, in fact, a mashup of what you choose to let into your life**. You are the sum of your influences. The German writer Goethe said, "We are shaped and fashioned by what we love."
 
 **There's an economic** theory out there that if you take the incomes of your five closest friends and average them, the resulting number will be pretty close to your own income. **You're only going to be as good as the stuff you surround yourself with.**
 
 **Steal from anywhere that resonates with inspiration or fuels your imagination**. Devour old films, new films, music, books, paintings, photographs, poems, dreams, random conversations, architecture, bridges, street signs, trees, clouds, bodies of water, light and shadows. **Select only things to steal from that speak directly to your soul. If you do this, your work (and theft) will be authentic**
+
+#### 📍 Bookmark
 
 Instead, **chew on one thinker**—writer, artist, activist, role model—you really love. **Study everything there is to know about that thinker**. Then find three people that thinker loved, and find out everything about them. Repeat this as many times as you can. Climb up the tree as far as you can go. Once you build your tree, it's time to start your own branch.
 
@@ -53,7 +80,7 @@ Always be reading. Go to the library. **There's magic in being surrounded by boo
 ---
 
 
-### 🧭 2. Don't Wait Until You Know Who You Are to Get Started
+#### 🧭 2. Don't Wait Until You Know Who You Are to Get Started
 
 
 {{< callout note >}}
@@ -84,7 +111,7 @@ Conan O'Brien has talked about how comedians try to **emulate their heroes, fall
 
 So: Copy your heroes. Examine where you fall short. What's in there that makes you different? That's what you should amplify and transform into your own work.
 
-### 📚 3. Write the Book You Want to Read
+#### 📚 3. Write the Book You Want to Read
 
 The best advice is not to write what you know, it's to write what you like. Write the kind of story you like best—write the story you want to read. The same principle applies to your life and your career: Whenever you're at a loss for what move to make next, just ask yourself, "What would make a better story?
 
@@ -98,7 +125,7 @@ The manifesto is this: Draw the art you want to see, start the business you want
 Make your Dance Routine. Battle It.
 {{< /callout >}}
 
-### ✋ 4. Use Your Hands
+#### ✋ 4. Use Your Hands
 
 The computer brings out the uptight perfectionist in us—we start editing ideas before we have them. The cartoonist Tom Gauld says he stays away from the computer until he's done most of the thinking for his strips, because once the computer is involved, "things are on an inevitable path to being finished. Whereas in my sketchbook the possibilities are endless."
 
@@ -106,7 +133,7 @@ The computer brings out the uptight perfectionist in us—we start editing ideas
 Scribble on paper, as much as possible.
 {{< /callout >}}
 
-### 📌 🧪 5. Side Projects and Hobbies Are Important
+#### 🧪 5. Side Projects and Hobbies Are Important
 
 One thing I've learned in my brief career: It's the side projects that really take off. **By side projects I mean the stuff that you thought was just messing around. Stuff that's just play. That's actually the good stuff. That's when the magic happens**.
 
@@ -153,10 +180,8 @@ Don't throw any of yourself away. Don't worry about a grand scheme or unified vi
 Do I need to make deliberate effort to bring them all together.
 {{< /callout>}}
 
-### 📌 Bookmark
 
-
-### 🌐 6. The Secret: Do Good Work and Share It with People
+#### 🌐 6. The Secret: Do Good Work and Share It with People
 
 This is actually a good thing, because you want attention only after you're doing really good work. **There's no pressure when you're unknown**. You can do what you want. Experiment. Do things just for the fun of it. When you're unknown, there's nothing to distract you from getting better. No public image to manage. No huge paycheck on the line. No stockholders. No e-mails from your agent. No hangers-on. You'll never get that freedom back again once people start paying you attention, and especially not once they start paying you money.
 
@@ -164,43 +189,89 @@ This is actually a good thing, because you want attention only after you're doin
 
 It's a two-step process. Step one, "do good work," is incredibly hard. There are no shortcuts. **Make stuff every day. Know you're going to suck for a while. Fail. Get better**. Step two, "share it with people," was really hard up until about ten years ago or so. Now, it's very simple: "Put your stuff on the Internet."
 
+---
+
 #### ✈️ 7. Geography Is No Longer Our Master
 
 You don’t have to live anywhere other than the place you are to start connecting with the world you want to be in. If you feel stuck somewhere, if you are too young or tool old or too broke, or if your are somewhat tied down to a place, take heart. There’s a community of people out there you can connect with.
 
 **Surround yourself with books and objects that you love. Tape things up on the wall. Create your own world.**
 
+{{< callout note >}}
 Your brain gets too comfortable in your everyday surroundings. You need to make it uncomfortable. You need to spend time in another land, among people that do things differently than you. Travel makes the work look new, and when the world looks new, our brains work harder.
+{{< /callout>}}
 
 It helps to live around interesting people, and not necessarily people who do what you do. I feel a little incestuous when I hang out with only writers and artist, so I enjoy the many filmmakers, musicians, and tech geeks who live in Austin. Oh, and food. The food should be good. You have to find a place that feed you - creatively, socially, spritually and literally.
 
-### 🤝 8. Be Nice (The World Is a Small Town)
+#### 🤝 8. Be Nice (The World Is a Small Town)
 
-Remember "garbage in, garbage out"? You’re only going to be as good as the people you surround yourself with. In the digital space, that means following the best people online—the people who are way smarter and better than you, the people who are doing the really interesting work. Pay attention to what they’re talking about, what they’re doing, what they’re linking to.
+Remember "garbage in, garbage out"? **You’re only going to be as good as the people you surround yourself with**. In the digital space, that means following the best people online—the people who are way smarter and better than you, the people who are doing the really interesting work. Pay attention to what they’re talking about, what they’re doing, what they’re linking to.
 
-"Find the most talented person in the room, and if it’s not you, go stand next to him. Hang out with him. Try to be helpful."
+{{< callout note >}}
+**"Find the most talented person in the room, and if it’s not you, go stand next to him. Hang out with him. Try to be helpful."**
+{{< /callout >}}
 
-If you ever find that you’re the most talented person in the room, you need to find another room.
+---
+
+{{< callout info >}}
+* I find it so difficult to break the barrier of his/her ego, to approach the **most talented person in the room**. Or is it my ego barrier.
+* The least I could do is go out and given genuine complement. Anyway I don't appreciate the people who suck.
+* It is so easy to appreciate people who are good. They can always take a good compliment.
+{{< /callout >}}
+
+---
+
+
+**If you ever find that you’re the most talented person in the room, you need to find another room.**
 
 But instead of wasting my anger on complaining or lashing out at people, I try to channel it into my writing and my drawing.
+
+{{< callout info >}}
+Let your hurt, pain, anger, sorrow, frustration show in the work that you do, the dance that you dance.
+{{< /callout >}}
 
 So go on, get angry. But keep your mouth shut and go do your work. "Complain about the way other people make software by making software."
 
 So, I recommend public fan letters. The Internet is really good for this. Write a blog post about someone’s work that you admire and link to their site. Make something and dedicate it to your hero. Answer a question they’ve asked, solve a problem for them, or improve on their work and share it online.
 
-**The trouble with creative work: Sometimes by the time people catch on to what’s valuable about what you do, you’re either a) bored to death with it, or b) dead. You can’t go looking for validation from external sources. Once you put your work into the world, you have no control over the way people will react to it.**
+The trouble with creative work: Sometimes by the time people catch on to what’s valuable about what you do, you’re either a) bored to death with it, or b) dead. You can’t go looking for validation from external sources. **Once you put your work into the world, you have no control over the way people will react to it.**
 
 **Not everybody will get it. People will misinterpret you and what you do.** They might even call you names. So get comfortable with being misunderstood, disparaged, or ignored—the trick is to be too busy doing your work to care.
 
+{{< callout info >}}
+Keep going. Keep up with the Drills.
+{{< /callout >}}
+
 Life is a lonely business, often filled with discouragement and rejection. Yes, validation is for parking, but it’s still a tremendous boost when people say nice things about our work.
 
-Instead of keeping a rejection file, keep a praise file. Use it sparingly—don’t get lost in past glory- but keep it around for when you need the lift.
-
-Occasionally, I have the good fortune to have something take off online, and for a week or two, I’ll be swimming in Tweets and nice e-mails from people discovering my work. It’s pretty wonderful. And disorienting. And a major high. **But I always know that high will taper off, and a few weeks down the road I will have a dark day when I want to quit, when I wonder why the heck I even bother with this stuff.**
+{{< callout info >}}
+* I should more often stop and appeciate people for their talent, and hard work.
+* I should also learn to appreciate myself, which I rarely do.
+{{< /callout >}}
 
 ---
 
-### 🧘 9. Be Boring (It's the Only Way to Get Work Done)
+{{< callout note >}}
+Instead of keeping a rejection file, keep a praise file. Use it sparingly—don’tget lost in past glory- but keep it around for when you need the lift.
+{{< /callout >}}
+
+Occasionally, I have the good fortune to have something take off online, and for a week or two, I’ll be swimming in Tweets and nice e-mails from people discovering my work. It’s pretty wonderful. And disorienting. And a major high.
+
+{{< callout note >}}
+ **But I always know that high will taper off, and a few weeks down the road I will have a dark day when I want to quit, when I wonder why the heck I even bother with this stuff.**
+{{< /callout >}}
+
+---
+
+{{< callout info >}}
+* I wonder so often, what is all this quest about. Anyway eventually all this will come to end.
+{{< /callout >}}
+
+
+---
+#### 📌 Bookmark
+
+#### 🧘 9. Be Boring (It's the Only Way to Get Work Done)
 
 "Be regular and orderly in your life, so that you may be violent and original in your work."
 
@@ -229,7 +300,7 @@ Amassing a body of work or building a career is a lot about the slow accumulatio
 
 Who you marry is the most important decision you’ll ever make. And "marry well" doesn’t just mean your life partner—**it also means who you do business with, who you befriend, who you choose to be around. Relationships are hard enough, but it takes a real champion of a person to be married to someone who’s obsessed with a creative pursuit**. Lots of times you have to be a maid, a cook, a motivational
 
-### ➖ 10. Creativity Is Subtraction
+#### ➖ 10. Creativity Is Subtraction
 
 
 {{< callout note >}}

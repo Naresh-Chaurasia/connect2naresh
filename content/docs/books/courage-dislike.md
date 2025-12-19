@@ -14,6 +14,31 @@ seo:
   noindex: false # false (default) or true
 ---
 
+{{< callout original >}}
+Original
+{{< /callout >}}
+
+---
+
+{{< callout comment >}}
+Comment
+{{< /callout >}}
+
+---
+
+{{< callout affirmation >}}
+Affirmation
+{{< /callout >}}
+
+---
+
+{{< callout actionable >}}
+Actionable
+{{< /callout >}}
+
+---
+
+
 ### Introduction
 
 PHILOSOPHER: None of us live in an objective world, but instead in a subjective world that we ourselves have given meaning to. **The world you see is different from the one I see**, and it’s impossible to share your world with anyone else.
