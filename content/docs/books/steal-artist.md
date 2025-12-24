@@ -1,5 +1,5 @@
 ---
-title: "Steal Like An Artist"
+title: "✔ Steal Like An Artist"
 description: "Guides lead a user through a specific task they want to accomplish, often with a sequence of steps."
 summary: ""
 date: 2023-09-07T16:04:48+02:00
@@ -14,30 +14,24 @@ seo:
   noindex: false ##### false (default) or true
 ---
 
-{{< callout original >}}
-Original from Kindle etc.
-{{< /callout >}}
+<div class="my-4" style="display: flex; flex-direction: row; gap: 1rem; justify-content: center;">
+    <img
+        src="/images/books/steal1.jpg"
+        alt="Steal Like An Artist"
+        style="width: 50%; height: auto; border-radius: 0.5rem; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);">
+    <img
+        src="/images/books/steal2.jpg"
+        alt="Steal Like An Artist"
+        style="width: 50%; height: auto; border-radius: 0.5rem; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);">
+</div>
 
 ---
 
-{{< callout comment >}}
-Comment. While reading the original, I had some comments.
-{{< /callout >}}
-
----
-
-{{< callout affirmation >}}
-Affirmation. I could relate it to my life, in past, present and future.
-{{< /callout >}}
-
----
-
-{{< callout actionable >}}
-Actionable. Let me take some action on this one.
-{{< /callout >}}
-
----
-
+* You don’t need to capture every important line from the book to change your life.
+* **Whatever you’ve already highlighted and noted is more than enough**.
+* Even if you truly apply just 25% of what you’ve written down, your life will shift in meaningful ways—because **transformation doesn’t come from re-reading or perfect notes**, it comes from lived action.
+* Books give direction, but implementation gives results.
+* **Trust that what mattered most you have already noted, and now your only job is to practice it**.
 
 #### 🎨 1. Steal Like an Artist
 
@@ -61,7 +55,17 @@ You don't get to pick your family, **but you can pick your teachers and you can 
 
 **Steal from anywhere that resonates with inspiration or fuels your imagination**. Devour old films, new films, music, books, paintings, photographs, poems, dreams, random conversations, architecture, bridges, street signs, trees, clouds, bodies of water, light and shadows. **Select only things to steal from that speak directly to your soul. If you do this, your work (and theft) will be authentic**
 
-#### 📍 Bookmark
+{{< callout comment >}}
+
+**Good** = ideas that keep coming back to your mind; change how you think or act; feel personal, not impressive
+
+* Speed Reading - Jonathan Levi
+* Productivity - Josh Paulsen
+
+**Bad (or irrelevant for you)** = ideas that excite you only while reading, need constant rereading to feel important don’t survive a few days
+without notes
+
+{{< /callout >}}
 
 Instead, **chew on one thinker**—writer, artist, activist, role model—you really love. **Study everything there is to know about that thinker**. Then find three people that thinker loved, and find out everything about them. Repeat this as many times as you can. Climb up the tree as far as you can go. Once you build your tree, it's time to start your own branch.
 
@@ -73,6 +77,11 @@ You have to be curious about the world in which you live. Look things up. Chase 
 
 Google everything. I mean everything. Google your dreams, Google your problems. Don't ask a question before you Google it. You'll either find the answer or you'll come up with a better question.
 
+
+{{< callout comment >}}
+ChatGPT is like a companion. We have chit chat everyday of my life.
+{{< /callout >}}
+
 Always be reading. Go to the library. **There's magic in being surrounded by books. Get lost in the stacks. Read bibliographies. It's not the book you start with, it's the book that book leads you to**.
 
 
@@ -83,15 +92,27 @@ Always be reading. Go to the library. **There's magic in being surrounded by boo
 #### 🧭 2. Don't Wait Until You Know Who You Are to Get Started
 
 
-{{< callout note >}}
+{{< callout original >}}
 **If I'd waited to know who I was or what I was about before I started "being creative," well, I'd still be sitting around trying to figure myself out instead of making things. In my experience, it's in the act of making things and doing our work that we figure out who we are.**
 {{< /callout >}}
 
-{{< callout info >}}
+{{< callout comment >}}
 Do It. Iterate It. Add Your Style. Rinse It. Repeat It.
 {{< /callout >}}
 
-Guess what: None of us do. Ask anybody doing truly creative work, and they'll tell you the truth: They don't know where the good stuff comes from. They just show up to do their thing. Every day.
+Guess what: None of us do. Ask anybody doing truly creative work, and they'll tell you the truth: They don't know where the good stuff comes from.
+
+{{< callout original >}}
+They just show up to do their thing. Every day.
+{{< /callout >}}
+
+---
+
+{{< callout comment >}}
+* Initally I was struggling so much with PR classes. I kept on trying. I kept going | did my Drills. Now it is happening. I am really enjoying the process and the slow burn.
+* That support that I got from people in the batch was really awesome. STAY and KILL it now.
+{{< /callout >}}
+
 
 You have to dress for the job you want, not the job you have, and **you have to start doing the work you want to be doing**.
 
@@ -99,17 +120,31 @@ You have to dress for the job you want, not the job you have, and **you have to 
 
 Copying is about reverse-engineering. It's like a mechanic taking apart a car to see how it works.
 
-**If you copy from one author, it's plagiarism, but if you copy from many, it's research.**
+{{< callout original >}}
+If you copy from one author, it's plagiarism, but if you copy from many, it's research.
+{{< /callout >}}
 
-What to copy is a little bit trickier. Don't just steal the style, steal the thinking behind the style. You don't want to look like your heroes, you want to see like your heroes.
+What to copy is a little bit trickier. **Don't just steal the style, steal the thinking behind the style. You don't want to look like your heroes, you want to see like your heroes**.
 
-There isn't a move that's a new move." The basketball star Kobe Bryant has admitted that all of his moves on the court were stolen from watching tapes of his heroes. But initially, **when Bryant stole a lot of those moves, he realized he couldn't completely pull them off because he didn't have the same body type as the guys he was thieving from. He had to adapt the moves to make them his own**.
+There isn't a move that's a new move." The basketball star Kobe Bryant has admitted that all of his moves on the court were stolen from watching tapes of his heroes.
+
+{{< callout original >}}
+But initially, when Bryant stole a lot of those moves, he realized he couldn't completely pull them off because he didn't have the same body type as the guys he was thieving from. He had to adapt the moves to make them his own.
+{{< /callout >}}
+
 
 Conan O'Brien has talked about how comedians try to **emulate their heroes, fall short, and end up doing their own thing**.
+
+{{< callout comment >}}
+You will either fall short or fall tall. That is the gateway to originality.
+{{< /callout >}}
+
 
 "It is our failure to become our perceived ideal that ultimately defines us and makes us unique." Thank goodness.
 
 So: Copy your heroes. Examine where you fall short. What's in there that makes you different? That's what you should amplify and transform into your own work.
+
+#### 📍 Bookmark 24.Dec
 
 #### 📚 3. Write the Book You Want to Read
 
