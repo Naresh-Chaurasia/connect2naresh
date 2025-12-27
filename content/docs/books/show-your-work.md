@@ -22,9 +22,13 @@ seo:
 
 ---
 
-#### 📘 Introduction
+#### 📘 Introduction (✔️ Kindle Export)
 
 Almost all of the people I look up to and try to steal from today, regardless of their profession, **have built sharing into their routine**. These people aren’t schmoozing at cocktail parties; they’re too busy for that. They’re cranking away in their studios, their laboratories, or their cubicles, but instead of maintaining absolute secrecy and hoarding their work, **they’re open about what they’re working on, and they’re consistently posting bits and pieces of their work, their ideas, and what they’re learning online**.
+
+{{< callout comment >}}
+* The quotes using **Canva @Instagram** is the simplest and surest way to let the world know what you are thinking.
+{{< /callout >}}
 
 Instead of wasting their time ‘networking,’ they’re taking advantage of the network. By generously sharing their ideas and their knowledge, they often gain an audience that they can then leverage when they need it—for fellowship, feedback, or patronage.
 

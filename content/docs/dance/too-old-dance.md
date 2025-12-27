@@ -45,12 +45,35 @@ Social dance is not gymnastics. It is *communication*. And communication **gets 
 
 This question often hides three quieter fears:
 
-1. *Did I start too late?*
-2. *What if I never become “that good”?*
-3. *What am I actually doing all this for?*
+* *Did I start too late?*
+  * No. You started when you were ready for depth, not just steps.
+* *What if I never become “that good”?*
+  * “That good” is how you make people feel, not how you rank.
+  * That is not my Goal. I just want to keep improving each day of my life.
+* *What am I actually doing all this for?*
 
-These are not dance questions.
-They are **meaning questions**.
+
+{{< callout comment >}}
+* To feel more present, alive, and yourself — through movement.
+* I am able to process my pain and loneliness better.
+* It gives me a purpose and sense of direction.
+* It helps me to stay fit and be best version of myself.
+{{< /callout >}}
+
+---
+
+{{< callout fallout >}}
+* BACHATA
+  * Slow Burn, The Love, The Pain
+  * The Fear
+{{< /callout >}}
+
+
+These are not dance questions. They are **meaning questions**.
+
+---
+
+### Bookmark
 
 ---
 
@@ -65,9 +88,7 @@ You can realistically become:
 * Someone who **ages *into* dance, not out of it**
 
 You may or may not become:
-* A viral performer
-* A famous instructor
-* A festival headliner
+* A viral performer, A famous instructor, A festival headliner
 
 The uncomfortable truth most people avoid:
 

@@ -165,7 +165,7 @@ Make your Dance Routine. Battle It.
 The computer brings out the uptight perfectionist in us—we start editing ideas before we have them. The cartoonist Tom Gauld says he stays away from the computer until he's done most of the thinking for his strips, because once the computer is involved, "things are on an inevitable path to being finished. Whereas in my sketchbook the possibilities are endless."
 
 {{< callout info >}}
-Scribble on paper, as much as possible.
+* Scribble on paper, as much as possible. Clear the huge "paper clog".
 {{< /callout >}}
 
 #### 🧪 5. Side Projects and Hobbies Are Important
@@ -184,7 +184,8 @@ Take time to be bored. One time I heard a coworker say, "When I get busy, I get 
 ---
 
 {{< callout info >}}
-I do this so often. Let me now do more, minus the YouTube. Lower the fader. Let you mind wander and explore.
+* I do this so often. Let me now do more, minus the YouTube. Lower the fader. Let you mind wander and explore.
+* While wondering, capture the relevant thoughts.
 {{< /callout>}}
 
 
