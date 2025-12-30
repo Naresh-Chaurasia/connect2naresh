@@ -14,6 +14,9 @@ seo:
   noindex: false # false (default) or true
 ---
 
+* May be it is not the world but me.
+* Vedant (tall, smart has his own story to tell. He has started avoiding socials now).
+
 {{< callout original >}}
 Original
 {{< /callout >}}

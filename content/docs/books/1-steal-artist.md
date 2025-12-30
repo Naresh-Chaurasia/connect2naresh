@@ -309,7 +309,17 @@ Occasionally, I have the good fortune to have something take off online, and for
 
 #### 🧘 9. Be Boring (It's the Only Way to Get Work Done)
 
+{{< callout original >}}
 "Be regular and orderly in your life, so that you may be violent and original in your work."
+{{</callout>}}
+
+---
+
+{{< callout comment >}}
+* On a regular day, I spend a lot of time, **re-arranging** things. If I a orderly in the first place, I will have bit more time, but a lot of peace of mind.
+* Later on it is more difficult and it takes more time, at least not less.
+{{</callout>}}
+
 
 "It’s better to burn out than to fade away."
 
@@ -317,16 +327,21 @@ The truth is that even if you’re lucky enough to make a living off doing what 
 
 The solution is really simple: Figure out what time you can carve out, what time you can steal, and stick to your routine. **Do the work every day, no matter what. No holidays, no sick days. Don’t stop. What you’ll probably find is that the corollary to Parkinson’s Law is usually true: Work gets done in the time available.**
 
-{{< callout type="info" >}}
+{{< callout original >}}
 What you’ll probably find is that the corollary to Parkinson’s Law is usually true: Work gets done in the time available.
 {{< /callout >}}
 
 The trick is to find a day job that pays decently, doesn’t make you want to vomit, and leaves you with enough energy to make things in your spare time. Good day jobs aren’t necessarily easy to find, but they’re out there.
 
-{{< callout type="info" >}}
+{{< callout original >}}
 Amassing a body of work or building a career is a lot about the slow accumulation of little bits of effort over time. **Writing a page each day doesn’t seem like much, but do it for 365 days and you have enough to fill a novel**. One successful client pitch is a small victory, but a few dozen of them can get you a promotion.
 {{< /callout >}}
 
+---
+
+{{< callout comment >}}
+* One Pomodoro for my Certification, no matter what. Every thing will be counted, even Anki.
+{{< /callout >}}
 
 **Just keep at it and the chain will grow longer every day**. You’ll like seeing that chain, especially when you get a few weeks under your belt. Your only job next is to not break the chain.
 
