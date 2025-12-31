@@ -40,9 +40,16 @@ jobs:
 
       - name: Build
         run: |
+          # Ensure public directory exists
+          mkdir -p public
+          # Build the site
           hugo \
             --minify \
+            --destination ./public \
             --baseURL "https://naresh-chaurasia.github.io/connect2naresh/"
+
+          # Verify build output
+          ls -la public
 
       - name: Upload pages artifact
         uses: actions/upload-pages-artifact@v3
