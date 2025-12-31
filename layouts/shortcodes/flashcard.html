@@ -1,0 +1,38 @@
+{{- $content := .Inner | markdownify -}}
+{{- $size := .Get "size" | default "300px" -}}
+{{- $bgColor1 := .Get "bgColor1" | default "#f5f7fa" -}}
+{{- $bgColor2 := .Get "bgColor2" | default "#e4edf9" -}}
+{{- $textColor := .Get "textColor" | default "#2d3748" -}}
+{{- $accentColor := .Get "accentColor" | default "#4a6cf7" -}}
+
+<div style="
+  background: linear-gradient(135deg, {{ $bgColor1 }} 0%, {{ $bgColor2 }} 100%);
+  border: 1px solid #e2e8f0;
+  border-radius: 12px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.05);
+  width: {{ $size }};
+  height: {{ $size }};
+  margin: 1.5rem auto;
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;">
+  <div style="
+    font-size: 1.2rem;
+    line-height: 1.6;
+    color: {{ $textColor }};
+    margin: 0;
+    font-style: italic;
+    position: relative;
+    padding: 0 1rem;">
+    <span style="
+      display: block;
+      color: {{ $accentColor }};
+      font-size: 3rem;
+      line-height: 1;
+      margin-bottom: 0.5rem;">"</span>
+    {{ $content }}
+  </div>
+</div>

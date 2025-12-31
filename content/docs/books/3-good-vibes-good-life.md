@@ -25,11 +25,11 @@ seo:
 <div class="my-4" style="display: flex; flex-direction: row; gap: 1rem; justify-content: center;">
     <img
         src="/images/books/vibe1.jpg"
-        alt="Steal Like An Artist"
+        alt="Good Vibes, Good Life"
         style="width: 50%; height: auto; border-radius: 0.5rem; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);">
     <img
         src="/images/books/vibe2.jpg"
-        alt="Steal Like An Artist"
+        alt="Good Vibes, Good Life"
         style="width: 50%; height: auto; border-radius: 0.5rem; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);">
 </div>
 
@@ -39,7 +39,9 @@ seo:
 
 ### 🌱 Introduction and Pre-Chapters
 
-> When you start loving yourself, life starts loving you, too. By keeping your vibration high, you’ll attract more opportunities and blessings into your life.
+{{< flashcard >}}
+When you start loving yourself, life starts loving you, too. By keeping your vibration high, you'll attract more opportunities and blessings into your life.
+{{< /flashcard >}}
 
 #### ✨ Introduction
 
@@ -49,37 +51,27 @@ Although some of them may have been painful, they’re a blessing – they’ve 
 
 Some people are comfortable with mediocrity. They avoid living a greater life, one that’s beyond what most consider the norm. A greater life requires you to find your greatness. In simple terms, **greatness is about becoming the greatest version of yourself. It’s about breaking the imaginary boundaries that hold you captive in a life you believe you have to settle for, and touching the realms of the unthinkable**. The greatness mentality means living a life without limits, where there are infinite possibilities. For this reason, we can’t define where greatness begins or ends. We can only strive to become better.
 
-> Stop trying to impress people. Impress yourself. Stretch yourself. Test yourself. Be the best version of you that you can be.
+{{< flashcard >}}
+Stop trying to impress people. Impress yourself. Stretch yourself. Test yourself. Be the best version of you that you can be.
+{{< /flashcard >}}
 
 This book requires you to commit to a better you right now. My aim is to help you become better than the person you were yesterday, every day, in each and every way, for the rest of your life. If you wake up with this desire in your mind and then consciously follow up on it, you’ll be surprised by how much inspiration you find. Your life will begin to reflect your commitment to progress.
 
-> DAILY GOAL Be better than who I was yesterday.
+{{< flashcard >}}
+DAILY GOAL Be better than who I was yesterday.
+{{< /flashcard >}}
 
 ---
 
 #### 💖 What is self-love?
 
+In this instance, if you’re kind and honest, and follow a fair process, you needn’t feel guilty for taking further action.
 
-----
-Here is the **extracted text**, converted into **bullet points**, keeping the **exact wording** (no summarizing or rewriting). Content is taken directly from the uploaded file
+{{< flashcard >}}
+It’s important to recognize that it’s not unjust to let go of those who show no concern for you.
+{{< /flashcard >}}
 
----
-
-
-
-
-
-* #VexKingBook
-
-* What is self-love?
-
-* In this instance, if you’re kind and honest, and follow a fair process, you needn’t feel guilty for taking further action.
-
-* It’s important to recognize that it’s not unjust to let go of those who show no concern for you.
-
-* But true self-love is when you appreciate where you are and who you are, regardless of any transformation you aspire to.
-
-* The second element encourages growth, and the focus is on taking action. Improving yourself and your life is also self-love, because it means you recognize that you deserve more than settling for mediocrity.
+But true self-love is when you **appreciate where you are and who you are, regardless of any transformation you aspire to**. The second element encourages growth, and the focus is on taking action. **Improving yourself** and your life is also self-love, because it means you recognize that you deserve more than settling for mediocrity.
 
 * When you love yourself, life will begin to love you back.
 
