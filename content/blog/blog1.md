@@ -1,5 +1,5 @@
 ---
-title: "Getting Started with Hugo"
+title: "How to use Todoist"
 description: "A beginner's guide to setting up your first Hugo site"
 date: 2025-11-30T18:30:00+05:30
 draft: false
