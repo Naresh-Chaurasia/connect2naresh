@@ -34,11 +34,15 @@ jobs:
           hugo-version: 'latest'
           extended: true
 
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v4
+
       - name: Build
         run: |
           hugo \
             --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+            --baseURL "https://naresh-chaurasia.github.io/connect2naresh/"
 
       - name: Upload pages artifact
         uses: actions/upload-pages-artifact@v3
