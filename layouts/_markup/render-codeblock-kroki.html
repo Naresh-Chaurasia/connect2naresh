@@ -1,0 +1,21 @@
+{{- $inner := .Inner -}}
+{{- $lang := .Attributes.lang -}}
+{{- $type := .Attributes.type -}}
+{{- $options := .Attributes.options -}}
+
+{{- if not $type -}}
+  {{- $type = "plantuml" -}}
+{{- end -}}
+
+{{/* Use a simpler approach without base64 encoding for now */}}
+{{- $krokiUrl := printf "https://kroki.io/%s/svg" $type -}}
+
+<div class="kroki-diagram">
+  {{- if $options -}}
+    <div class="kroki-options">{{ $options }}</div>
+  {{- end -}}
+  <pre><code>{{ $inner }}</code></pre>
+  <p class="kroki-fallback">
+    <small>Kroki diagram: <a href="{{ $krokiUrl }}" target="_blank">{{ $type }}</a></small>
+  </p>
+</div>
