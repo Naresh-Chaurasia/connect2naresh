@@ -277,6 +277,7 @@
       "-how-to-make-a-no-lose-decision",
       "-how-to-train-1015-min-solo",
       "-how-whole-is-your-whole-life",
+      "-hugo-commands",
       "-introduction",
       "-just-nod-your-head--say-yes",
       "-marius--elena",
@@ -287,12 +288,15 @@
       "-my-mindset-shift-from-self-mastery-to-stage",
       "-my-performance-reality-check",
       "-phrase-awareness--dance-in-sentences-not-words",
+      "-profiles",
+      "-regular-search",
       "-self-check",
       "-self-check-1",
       "-stillness--delay--make-the-music-earn-your-movement",
       "-stillness-training-1015-min",
       "-the-return-of-the-optimist",
       "-there-is-plenty-of-time",
+      "-thulite-doks-features",
       "-weekly-minimum-commitment",
       "-what-a-phrase-means-practically",
       "-what-stillness-really-is",
@@ -324,8 +328,11 @@
       "searchResults",
       "searchToggleDesktop",
       "searchToggleMobile",
+      "shortcuts",
       "socialMenu",
-      "toc"
+      "switch-windows",
+      "toc",
+      "workspace"
     ]
   }
 }
