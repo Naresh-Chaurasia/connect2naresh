@@ -1,5 +1,5 @@
 ---
-title: "10 Marius & Elena"
+title: "Marius & Elena"
 description: "Reference pages are ideal for outlining how things work in terse and clear terms."
 summary: ""
 date: 2023-09-07T16:13:18+02:00
@@ -19,25 +19,44 @@ seo:
 
 #### 🟢 Bachata Basics
 
+---
+
+* [x] This page will only contain Marius&Elena
+* [x] Easiest and long term solution will be to copy and paste the content from here to Anki
 
 ---
 
-* [Bachata Tutorials by Marius&Elena](https://www.youtube.com/playlist?list=PL7iSzWmAf8tvF_mvfSs8lXsI0tUBhDjh8)
-  * <mark>Practice Spot Turn</mark>
-  * [x] Swipe Floor - Embedded
-  * Ladies Hair Comb with Window | Change Position of Hand | Keep on Shoulder (Not on Neck) and Lead
-  * Gent's Hair Comb
-  * Hammerlock. Try from both sides.
-  * 180 Degree Turn
-  * <mark>360 Degree Turn</mark>
-    * While turning move the girl first, and then place your leg.
-    * Turn Her Diagonally. That makes easy to place legs.
-    * Pull the girl on 5 & 7. The Pull is more diagonal.
-    * Be close to the girl for 360 Turn.
-    * In sensual, the legs are close / interlocked so you are doing the 360 in place.
-  * <mark>Back/Behind Hammerlock</mark>
-  * <mark>Men's Turn (wrap on follower's hand)</mark>
-  * <mark>Single Hand Hammer Lock</mark>
+<details>
+<summary>Modern Bachata Routine1</summary>
+
+* <mark>Practice Spot Turn</mark>
+* 180 Degree Turn | <mark>360 Degree Turn</mark>
+* Ladies Hair Comb with Window | <mark>Change Position of Hand **Pending**</mark>
+* Gent's Hair Comb | Try Both Sides
+* Normal Hammerlock. Both hands, Both sides.
+* <mark>Back/Behind Hammerlock</mark>
+* <mark>Men's Turn (wrap on follower's hand)</mark>
+* <mark>Single Hand Hammer Lock</mark> | Lead | Follow
+* Swipe Floor - Embedded
+* **Rebound**
+* Change Positions
+
+</details>
+
+---
+
+* [ ] Sensual Bachata Routine1
+* https://www.youtube.com/watch?v=0OYagrmmq5w
+
+---
+
+* [ ] [Downlaod Bachata Tutorials by Marius&Elena](https://www.youtube.com/playlist?list=PL7iSzWmAf8tvF_mvfSs8lXsI0tUBhDjh8)
+
+---
+
+
+
+
 
 ---
 
@@ -85,7 +104,7 @@ seo:
 
 <div style="width: 650px">{{< youtube 0QMZdNrbWb0 >}}</div>
 
-* Caricia / Hair Brush
+* Caricia | Only Hair Brush
 * Set 1 Done.
 * Other <mark>Pending</mark>
 
@@ -100,7 +119,7 @@ seo:
 
 <div style="width: 650px">{{< youtube ipZIDEAmMSM >}}</div>
 
-* [x] Hammerlock. Try from both sides.
+* [x] Normal Hammerlock. Try from both sides.
 * [x] Done. Not Again.
 
 ---
@@ -114,7 +133,8 @@ seo:
 
 <div style="width: 650px">{{< youtube uYogZ8wGrv0 >}}</div>
 
-* [ ] Single Hand Hammerlock - Use Thumb Initially
+* [ ] Single Hand Hammerlock - Use Thumb Initially | Leader | Follower
+* [ ] Rebound
 
 ---
 
