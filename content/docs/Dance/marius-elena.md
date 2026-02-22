@@ -16,9 +16,6 @@ seo:
 
 ### 👫 Marius & Elena
 
-
-#### 🟢 Bachata Basics
-
 ---
 
 * [x] This page will only contain Marius&Elena
@@ -26,27 +23,42 @@ seo:
 
 ---
 
-<details>
-<summary>Modern Bachata Routine1</summary>
+### Bachata Routines
 
+<details>
+<summary>Modern Bachata Marius & Elena Routine1</summary>
+
+* <mark>Pending | Drills in Progress</mark>
 * <mark>Practice Spot Turn</mark>
 * 180 Degree Turn | <mark>360 Degree Turn</mark>
-* Ladies Hair Comb with Window | <mark>Change Position of Hand **Pending**</mark>
+* Ladies Hair Comb with Window | <mark>Change Position of Hand Pending</mark>
 * Gent's Hair Comb | Try Both Sides
 * Normal Hammerlock. Both hands, Both sides.
 * <mark>Back/Behind Hammerlock</mark>
 * <mark>Men's Turn (wrap on follower's hand)</mark>
 * <mark>Single Hand Hammer Lock</mark> | Lead | Follow
 * Swipe Floor - Embedded
-* **Rebound**
-* Change Positions
+* <mark>Rebound</mark>
+* Change Positions | 1234 Diagonal and Change Position with Partner
 
 </details>
 
 ---
 
-* [ ] Sensual Bachata Routine1
+<details>
+<summary>Sensual Bachata Marius & Elena Routine1</summary>
+
 * https://www.youtube.com/watch?v=0OYagrmmq5w
+* In Place Sensual Bachata | Slow | Fast
+* Basic Headroll | Handflick
+* Chest Isolation | 12(34 slow) | 56(78 slow)
+* Chest Circle | I need to understand the lead
+* Hip Roll
+* Vertical Hip Roll
+* Front Wave
+</details>
+
+
 
 ---
 
