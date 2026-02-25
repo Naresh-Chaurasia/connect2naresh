@@ -1,5 +1,5 @@
 ---
-title: "Visual Studio Code"
+title: "IDE"
 description: "Guides lead a user through a specific task they want to accomplish, often with a sequence of steps."
 summary: ""
 date: 2023-09-07T16:04:48+02:00
@@ -13,6 +13,13 @@ seo:
   canonical: "" # custom canonical URL (optional)
   noindex: false # false (default) or true
 ---
+
+### Visual Studio Code
+
+### Windsurf Vibe Coding
+
+* [ ] Valentin Despa
+* [ ] Make Notes | Bookmarks | Goals of this course
 
 
 ### Workspace
