@@ -25,6 +25,9 @@ seo:
 
 ---
 
+###  🎯 Quotes
+
+* Action Comes Before Confidence
 
 ###  🌟 Introduction
 

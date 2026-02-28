@@ -28,7 +28,6 @@ seo:
 <details>
 <summary>Modern Bachata Marius & Elena Routine1</summary>
 
-* <mark>Pending | Drills in Progress</mark>
 * <mark>Practice Spot Turn</mark>
 * 180 Degree Turn | <mark>360 Degree Turn</mark>
 * Ladies Hair Comb with Window | <mark>Change Position of Hand Pending</mark>
@@ -66,9 +65,42 @@ seo:
 
 ---
 
+<details>
 
+<summary>Bachata Tutorial 01: Basic Step by Marius&Elena</summary>
 
+<div style="width: 625px">{{< youtube jF9gEK3HDkg >}}</div>
 
+**What I was doing wrong:**
+I lose **hip movement** quality when dancing with partner.
+
+**Correction to focus on:**
+Maintain grounded base even while leading.
+
+**Cue:**
+Lead from frame, hips stay free.
+
+---
+
+**Drill 1 – Basic Only Focus (2 Songs)**
+- Dance only basic step with partner.
+- No new patterns.
+- Keep moves minimal.
+- Focus only on maintaining hip rhythm while leading.
+
+**Drill 2 – Awareness Check (1 Song)**
+- Notice when hips stop moving.
+- **Identify what tightened first (shoulders, arms, core)**.
+- Reset posture and repeat cue: **Lead from frame, hips stay free.**
+
+**Goal:**
+Maintain consistent hip quality for at least one full song without losing rhythm under connection.
+
+</details>
+
+---
+
+###########################################################
 
 ---
 
@@ -78,12 +110,7 @@ seo:
 
 ---
 
-<div style="width: 650px">{{< youtube jF9gEK3HDkg >}}</div>
 
-* [x] **Hips** go in opposite direction of your movement.
-* [x] Done. Not Again.
-
----
 
 <div style="width: 650px">{{< youtube ZJ9XGPNglEc >}}</div>
 

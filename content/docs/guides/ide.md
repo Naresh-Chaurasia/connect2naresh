@@ -21,6 +21,20 @@ seo:
 * [ ] Valentin Despa
 * [ ] Make Notes | Bookmarks | Goals of this course
 
+---
+
+#### Model Recommendation
+
+**Use Claude Sonnet 4 BYOK** — Best balance of performance, cost, and reliability for software development tasks.
+
+**Why Sonnet 4 BYOK?**: Fast response times for coding | More affordable for extended development sessions | Excellent at Java / Spring Boot development | Stable (not beta like Opus models)
+
+**When to Switch to Opus 4 BYOK?**: You need complex architectural reasoning | You're working on particularly challenging algorithms | Cost is not a concern
+
+**Conclusion**: For your current Spring Boot project development, **Sonnet 4 BYOK** will handle everything efficiently.
+
+---
+
 
 ### Workspace
 
