@@ -23,3 +23,17 @@ seo:
 
 * Wave 1 | Wave 2
 * **Rebound** | Prep is on 4 and 8 (taking hand in opposite direction)
+
+
+### Going to Socials (Sagar | Prerna)
+
+* **Turns**
+  * My Left | She Turns
+  * My Right Crossed | I Turn (SAME)
+  * My Left Crossed | She Turn
+  * My Right Crossed | I Turn (SAME)
+* Wave 1 | **Wave 2**
+* Interrupt
+* Flick
+* Box Step
+

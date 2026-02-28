@@ -1,0 +1,4 @@
+= Changes
+
+*File:* config/_default/markup.toml +
+*Change:* endLevel = 3 → endLevel = 4
