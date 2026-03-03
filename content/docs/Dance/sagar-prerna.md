@@ -36,4 +36,6 @@ seo:
 * Interrupt
 * Flick
 * Box Step
-
+* Rebound: Prep is on 78
+* Diagonal Hand Change: 12 Pull
+* Jacket Step

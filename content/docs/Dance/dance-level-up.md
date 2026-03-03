@@ -14,31 +14,39 @@ seo:
   noindex: false
 ---
 
-### 🕺 My Dance Journey Snapshot
+#### 🎵🩰 Drills
+
+* One shines patter, 2 Bachata Songs
+  * Identify the problem area.
+  * Adapt the shine to the songs.
+
+
+
+#### 🕺 My Dance Journey Snapshot
 
 I started dancing **a couple of years ago**, but I became **serious in the last 3 years**.
 I **train regularly**, take **formal dance classes**, and have built a strong foundation in **Salsa**, while now **shifting deeper focus to Bachata** (without abandoning Salsa).
 
-Dance for me is not casual fun — it’s a **discipline, a craft, and a form of self-respect**.
+Dance for me is not casual fun — it’s a <mark>**discipline, a craft, and a form of self-respect**.</mark>
 
 ---
 
-### 🔥 My Mindset Shift: From Self-Mastery to Stage
+#### 🔥 My Mindset Shift: From Self-Mastery to Stage
 
 Till now, my goal was **self-mastery**.
 Recently, that has evolved into a desire to **perform and compete**.
 
 This shift means:
 
-* I am willing to be seen and judged
-* I want to test my skills under pressure
-* I want accelerated growth, not comfort
+* I am willing to be <mark>seen and judged</mark>
+* I want to test <mark>my skills under pressure</mark>
+* I want <mark>accelerated growth, not comfort</mark>
 
 This is my transition from **good social dancer → serious performer**.
 
 ---
 
-### 🎯 My Current Strengths
+#### 🎯 My Current Strengths
 
 * My isolations are strong
 * My leads are clear and confident
@@ -49,7 +57,7 @@ These strengths give me a **huge advantage** moving forward.
 
 ---
 
-### 🎵 My Current Weakness (and Growth Focus)
+#### 🎵 My Current Weakness (and Growth Focus)
 
 * Musicality is my main weakness
 * I am **actively and consciously working on it**
@@ -58,14 +66,14 @@ This is a *refinement problem*, not a foundation problem — and that’s a good
 
 ---
 
-### 🚀 How I Intend to Level Up
+#### 🚀 How I Intend to Level Up
 
-#### 1️⃣ Narrow My Focus
+##### 1️⃣ Narrow My Focus
 
 I will train **one edge at a time** (musicality right now).
 Everything else will stay in maintenance mode.
 
-#### 2️⃣ Use Stillness as a Tool
+##### 2️⃣ Use Stillness as a Tool
 
 For me, musicality means:
 
@@ -73,15 +81,15 @@ For me, musicality means:
 * Letting movements *earn* the music
 * Using pauses, accents, and intention
 
-#### 3️⃣ Train Musicality Separately
+##### 3️⃣ Train Musicality Separately
 
 I will practice musicality **solo**, without a partner or complex patterns, so my body learns to *listen*.
 
 ---
 
-### 🎤 My Performance Reality Check
+#### 🎤 My Performance Reality Check
 
-#### Performance and competition will:
+##### Performance and competition will:
 
 * Expose weaknesses faster
 * Accelerate growth brutally
@@ -93,7 +101,7 @@ I accept this pressure because it is the **fastest path to excellence**.
 
 ---
 
-### 🧠 My Core Insight
+#### 🧠 My Core Insight
 
 I am past the phase of:
 

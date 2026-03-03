@@ -64,20 +64,31 @@
 #   url = "https://www.linkedin.com/"
 #   weight = 40
 
-# [[sidebar_docs]]
-#   name = "Guides"
-#   pageRef = "/docs/guides"
-#   weight = 10
-#
-# [[sidebar_docs]]
-#   name = "Reference"
-#   pageRef = "/docs/reference"
-#   weight = 20
-#
-# [[sidebar_docs]]
-#   name = "Resources"
-#   pageRef = "/docs/resources"
-#   weight = 30
+# Sidebar menu configuration for docs
+[[sidebar_docs]]
+  name = "Books"
+  pageRef = "/docs/books"
+  weight = 10
+
+[[sidebar_docs]]
+  name = "Dance"
+  pageRef = "/docs/Dance"
+  weight = 20
+
+[[sidebar_docs]]
+  name = "Soft Skills"
+  pageRef = "/docs/softskills"
+  weight = 30
+
+[[sidebar_docs]]
+  name = "Tech"
+  pageRef = "/docs/tech"
+  weight = 40
+
+[[sidebar_docs]]
+  name = "Guides"
+  pageRef = "/docs/guides"
+  weight = 50
 
 [[footer]]
   name = "Privacy Policy"
