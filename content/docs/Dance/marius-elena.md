@@ -14,16 +14,16 @@ seo:
   noindex: false
 ---
 
-### 👫 Marius & Elena
+#### 👫 Marius & Elena
 
 ---
 
 * [x] This page will only contain Marius&Elena
-* [x] Easiest and long term solution will be to copy and paste the content from here to Anki
+* [x] Easiest and long term solution will be to copy and paste the content from here to Anki | Whatever works best
 
 ---
 
-### Bachata Routines
+#### Bachata Routines
 
 <details>
 <summary>Modern Bachata Marius & Elena Routine1</summary>
@@ -39,6 +39,21 @@ seo:
 * Swipe Floor - Embedded
 * <mark>Rebound</mark>
 * Change Positions | 1234 Diagonal and Change Position with Partner
+
+</details>
+
+---
+
+<details>
+
+<summary>📍 Bachata for Beginners | 8 Bachata Beginner Combinations | Bachata Tutorials by Marius&Elena</summary>
+
+* [@YouTube](https://www.youtube.com/watch?v=Vx3AWpgnoVQ&list=PL7iSzWmAf8tvF_mvfSs8lXsI0tUBhDjh8)
+* 1. Exit Pretzel with Guys Turn
+* 2. Men's Hammer Lock | Comb | 180 or 360
+* 3. Jacket Routine
+* 4. Hammer Lock | Hip Roll (Pull to Initiate Circle)
+* 5. Change of Place | Men's Outside Turn | Neck Roll
 
 </details>
 
